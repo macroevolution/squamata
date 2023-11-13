@@ -1,0 +1,13 @@
+python clean_reads.py --CPU NPROC --outdir /tmp/sosi/$PBS_JOBID --trimjar ~/bin/Trimmomatic-0.36/trimmomatic-0.36.jar --PEAR ~/bin/PEAR/bin/pear-0.9.6-bin-64 --dir BASEDIR --sample SAMPLE_ID --file SAMPLE_FILE
+
+python trinity_assembly.py --outdir /tmp/sosi/$PBS_JOBID --trinity Trinity --sample SAMPLE_ID --dir BASEDIR --mem RAM --CPU NPROC --normal
+
+python match_contigs_to_probes.py --blat ~/bin/blat --sample SAMPLE_ID --dir BASEDIR --evalue 1e-20 --db squamate_AHE_UCE_genes_loci2_nodup.fasta
+
+python make_PRG_sample.py --sample SAMPLE_ID --file SAMPLE_FILE --dir BASEDIR --keep easy_recip_match,complicated_recip_match
+
+python align_reads1.py --outdir /tmp/sosi/$PBS_JOBID --sample SAMPLE_ID --file SAMPLE_FILE --dir BASEDIR --bwa ~/bin/bwa-0.7.12/bwa --samtools ~/bin/samtools-1.3.1/samtools --gatk ~/bin/GenomeAnalysisTK.jar --picard ~/bin/picard-tools-2.4.1/picard.jar --CPU NPROC --mem RAM
+
+python align_reads2.py --outdir /tmp/sosi/$PBS_JOBID --sample SAMPLE_ID --file SAMPLE_FILE --dir BASEDIR --samtools ~/bin/samtools-1.3.1/samtools --gatk ~/bin/GenomeAnalysisTK.jar --dp 10 --qual 20 --CPU NPROC --mem RAM
+
+python call_variants.py --dp 2 --sample SAMPLE_ID --file SAMPLE_FILE --dir BASEDIR --gatk ~/bin/GenomeAnalysisTK.jar --mem RAM --CPU NPROC

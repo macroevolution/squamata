@@ -1,0 +1,1 @@
+mafft --thread 4 --maxiterate 1000 --genafpair --adjustdirection --quiet LOCUS.FASTA > LOCUS.FASTA.ALN

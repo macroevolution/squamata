@@ -1,0 +1,1 @@
+~/bin/iqtree-1.6.12-Linux/bin/iqtree -s SEQFILE -m GTR+G -pre IQ -seed 12345 -mem 245G -bb 1000 -wbt -nt AUTO -ntmax 12 -t RAXMLTREE

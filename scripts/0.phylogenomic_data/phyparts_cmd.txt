@@ -1,0 +1,1 @@
+java -Xmx16g -jar ~/bin/blackrim-phyparts-9c9d9c190413/target/phyparts-0.0.1-SNAPSHOT-jar-with-dependencies.jar -a 1 -d GENETREEDIR -m FOCALTREE -o OUT -s 10 -v

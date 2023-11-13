@@ -1,0 +1,1 @@
+java -Xmx31000M -jar ~/bin/Astral_CPU/astral.5.1.2.jar -C -T 12 -i GENETREES.TREES -o SPECIESTREE.TRE

@@ -1,0 +1,3 @@
+python ~/bin/SortaDate/src/get_var_length.py INDIR --flend .tre --outf SORTADATE_VAR
+python ~/bin/SortaDate/src/get_bp_genetrees.py INDIR SPECIESTREE --flend .tre --outf SORTADATE_BP
+python ~/bin/SortaDate/src/combine_results.py SORTADATE_VAR SORTADATE_BP --outf SORTADATE_ALL
