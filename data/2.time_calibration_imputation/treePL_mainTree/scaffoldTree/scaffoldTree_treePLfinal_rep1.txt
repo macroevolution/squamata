@@ -1,0 +1,50 @@
+# treePL config file for time calibration of tier1 phylogeny.
+# written 2023-06-16 09:02:35.639189
+treefile = ../../scaffold.tre
+nthreads = 1
+numsites = 72152
+###############################
+mrca = calibNode_6886 Coleonyx_variegatus Plestiodon_skiltonianus
+min = calibNode_6886 213.1921
+max = calibNode_6886 213.1921
+mrca = calibNode_6887 Bipes_biporus Plestiodon_skiltonianus
+min = calibNode_6887 203.7197
+max = calibNode_6887 203.7197
+mrca = calibNode_6888 Bipes_biporus Chamaeleo_calyptratus
+min = calibNode_6888 188.3369
+max = calibNode_6888 188.3369
+mrca = calibNode_6889 Acrochordus_granulatus Chamaeleo_calyptratus
+min = calibNode_6889 180.3606
+max = calibNode_6889 180.3606
+mrca = calibNode_6890 Acrochordus_granulatus Gerrhopilus_mirus
+min = calibNode_6890 120.3104
+max = calibNode_6890 120.3104
+mrca = calibNode_8983 Chamaeleo_calyptratus Heloderma_suspectum
+min = calibNode_8983 179.9094
+max = calibNode_8983 179.9094
+mrca = calibNode_8984 Chamaeleo_calyptratus Uma_notata
+min = calibNode_8984 168.1035
+max = calibNode_8984 168.1035
+mrca = calibNode_10477 Heloderma_suspectum Shinisaurus_crocodilurus
+min = calibNode_10477 144.5975
+max = calibNode_10477 144.5975
+mrca = calibNode_10621 Bipes_biporus Dryadosaura_nordestina
+min = calibNode_10621 178.565
+max = calibNode_10621 178.565
+mrca = calibNode_11250 Plestiodon_skiltonianus Zonosaurus_laticaudatus
+min = calibNode_11250 186.0385
+max = calibNode_11250 186.0385
+mrca = calibNode_12443 Coleonyx_variegatus Crenadactylus_naso
+min = calibNode_12443 115.2331
+max = calibNode_12443 115.2331
+###############################
+###############################
+verbose
+thorough
+opt = 1
+optad = 1
+optcvad = 1
+log_pen
+outfile = scaffold_treePL_rep1.tre
+
+smooth = 1

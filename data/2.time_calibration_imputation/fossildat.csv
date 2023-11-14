@@ -1,0 +1,32 @@
+name,min.age,max.age,group,spanning.taxa
+Australophis anilioides,72.1,NA,Aniliidae+Tropidophiidae,Anilius_scytale|Trachyboa_boulengeri
+Titanoboa cerrejonensis,58,64,stem Boinae,Boa_constrictor|Eryx_miliaris
+Calamagras weigeli,35.2,NA,Ungaliophiinae+Charininae,Exiliboa_placata|Charina_bottae
+unnamed,18.7,NA,Charina+Lichanura,Charina_bottae|Lichanura_trivirgata
+Morelia riversleighensis,13,NA,Morelia+Liasis,Morelia_spilota|Liasis_fuscus
+Procerophis sahnii,50.5,72.1,Colubroidea+(Acrochordus+Xenodermatidae),Acrochordus_granulatus|Hydrophis_platurus
+Vipera aspis complex,20,23.8,Crotalinae+Viperinae,Bitis_arietans|Lachesis_muta
+Incongruelaps iteratus,10,NA,Laticauda+Oxyuraninae,Laticauda_colubrina|Acanthophis_antarcticus
+Bungarus sp.,10.215,NA,genus Bungarus,Bungarus_magnimaculatus|Bungarus_fasciatus|Bungarus_flaviceps
+Paleheterodon tiheni,12.08,NA,Heterodon+Farancia,Heterodon_platirhinos|Farancia_abacura
+Pantherophis sp.,11.93,NA,Pantherophis+Pituophis,Pituophis_catenifer|Pantherophis_guttatus
+Dorsetisaurus purbeckensis,144,NA,crown Anguimorpha,Xenosaurus_platyceps|Shinisaurus_crocodilurus|Heloderma_suspectum|Varanus_griseus|Abronia_fuscolabialis
+Saniwa ensidens,51.4,NA,Varanus+Lanthanotus,Varanus_griseus|Lanthanotus_borneensis
+Primaderma nessovi,98.32,NA,Heloderma+Anguis+Anniella+Xenosaurus,Heloderma_suspectum|Anniella_campi|Abronia_fuscolabialis
+Afairiguana avius,49.1,NA,Anolis+Gambelia,Corytophanes_hernandesii|Anolis_punctatus
+Odaxosaurus roosevelti,74.5,NA,Anguidae,Pseudopus_apodus|Abronia_taeniata|Celestus_costatus
+Cretaceogekko burmae,97,NA,crown Gekkota,Coleonyx_variegatus|Lucasium_squarrosum|Gonatodes_humeralis
+Corallus priscus,50.2,64,Corallus+(Chilobothrus+Epicrates+Eunectes),Epicrates_cenchria|Corallus_caninus
+Ophisaurus sp,33,NA,Anguinae,Abronia_taeniata|Pseudopus_apodus
+Geiseltaliellus maarius,47,NA,Corytophanes+Basiliscus,Corytophanes_hernandesii|Basiliscus_basiliscus
+Saichangurvel davidsoni,68,NA,Pleurodonta,Uta_stansburiana|Iguana_iguana
+Paramacellodidae,170,NA,Scincoidae,Smaug_mossambicus|Carlia_munda
+Crotalinae gen. & sp. indet. A,11.2,NA,stem Crotalinae,Bothrops_moojeni|Tropidolaemus_subannulatus
+Natrix aff.longivertebrata,13.8,NA,crown Natricidae,Thamnophis_butleri|Tropidonophis_mairii
+Ptilotodon wilsoni,112,NA,Teiidae,Tupinambis_teguixin|Kentropyx_calcarata
+Egernia gillespieae,14.8,NA,Egernia,Egernia_depressa|Cyclodomorphus_melanops|Tiliqua_rugosa
+Messelopython freyi,47.57,NA,stem Pythonidae,Loxocemus_bicolor|Python_regius
+Boipeba tayasuensis,66,NA,typhlopoid-leptotyphlopid divergence,Anilios_waitii|Trilepida_brasiliensis
+Hylonomus lyelli,314,340,Amniota,Homo_sapiens|Hydrophis_platurus
+Protorosaurus speneri,255.9,295.9,Sauria,Gallus_gallus|Hydrophis_platurus
+Xilousuchus sapingensis,247.2,256,Archosauria,Gallus_gallus|Alligator_mississippiensis

@@ -1,0 +1,101 @@
+setting the maximum number of threads to 1
+set thorough: true (MAY TAKE A WHILE)
+setting opt: 2
+setting optad: 1
+setting optcvad: 3
+outfile: anguids_treePL_rep1051.tre
+finished reading config file
+using system clock for random number seed = 1687142193
+tiny branch length at Abronia_aurita. setting to 1.385963e-05
+tiny branch length at Mesaspis_cuchumatanus. setting to 1.385963e-05
+tiny branch length at Varanus_macraei. setting to 1.385963e-05
+tiny branch length at Varanus_marmoratus. setting to 1.385963e-05
+tiny branch length at Varanus_samarensis. setting to 1.385963e-05
+tiny branch length at internal node. setting to 1.385963e-05
+tiny branch length at internal node. setting to 1.385963e-05
+tiny branch length at internal node. setting to 1.385963e-05
+setting calibNode_10477 min: 144.5975
+setting calibNode_10478 min: 125.6761
+setting calibNode_10479 min: 84.1578
+setting calibNode_10480 min: 70.5533
+setting calibNode_10481 min: 46.2424
+setting calibNode_10482 min: 18.1775
+setting calibNode_10501 min: 3.0601
+setting calibNode_10536 min: 4.0223
+setting calibNode_10539 min: 48.1029
+setting calibNode_10552 min: 117.5658
+setting calibNode_10555 min: 135.747
+setting calibNode_10556 min: 56.8041
+setting calibNode_10557 min: 18.2773
+setting calibNode_10477 max: 144.5975
+setting calibNode_10478 max: 125.6761
+setting calibNode_10479 max: 84.1578
+setting calibNode_10480 max: 70.5533
+setting calibNode_10481 max: 46.2424
+setting calibNode_10482 max: 18.1775
+setting calibNode_10501 max: 3.0601
+setting calibNode_10536 max: 4.0223
+setting calibNode_10539 max: 48.1029
+setting calibNode_10552 max: 117.5658
+setting calibNode_10555 max: 135.747
+setting calibNode_10556 max: 56.8041
+setting calibNode_10557 max: 18.2773
+preorder prep
+calculating character durations
+setting min and max
+setting up all constraints
+getting feasible start dates
+start rate 0.0019655241
+numparams:132
+initial calc: 3248572.4
+LF SIM
+exit siman: 847280.27
+setting NLOPT: LD_TNEWTON_PRECOND_RESTART
+result: 3
+after opt calc1: 33319
+setting NLOPT: LD_LBFGS 
+result: 3
+after opt calc2: 33318.965
+LF SIM
+exit siman: 33318.965
+setting NLOPT: LD_TNEWTON_PRECOND_RESTART
+result: 3
+after opt calc1: 33318.965
+setting NLOPT: LD_LBFGS 
+result: 3
+after opt calc2: 33318.965
+LF SIM
+exit siman: 33318.965
+setting NLOPT: LD_TNEWTON_PRECOND_RESTART
+result: 3
+after opt calc1: 33318.965
+setting NLOPT: LD_LBFGS 
+result: 3
+after opt calc2: 33318.965
+exited lf converged :1
+lf calc: 33318.965
+numparams:419
+smoothing:0.1
+33318.965
+exit siman: 15173.132
+setting NLOPT: LD_TNEWTON_PRECOND_RESTART
+result: 5
+after opt calc1: 9832.9975
+setting NLOPT: LD_LBFGS 
+result: 3
+after opt calc2: 9832.9975
+exit siman: 9832.9975
+setting NLOPT: LD_TNEWTON_PRECOND_RESTART
+result: 3
+after opt calc1: 9832.9975
+setting NLOPT: LD_LBFGS 
+result: 3
+after opt calc2: 9832.9975
+exit siman: 9832.9975
+setting NLOPT: LD_TNEWTON_PRECOND_RESTART
+result: 3
+after opt calc1: 9832.9975
+setting NLOPT: LD_LBFGS 
+result: 3
+after opt calc2: 9832.9975
+after opt calc: 9832.9975

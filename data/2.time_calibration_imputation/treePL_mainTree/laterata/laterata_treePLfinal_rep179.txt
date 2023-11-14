@@ -1,0 +1,48 @@
+# treePL config file for time calibration of tier1 phylogeny.
+# written 2023-06-16 09:02:31.853935
+treefile = ../../laterata.tre
+nthreads = 1
+numsites = 72152
+###############################
+mrca = calibNode_10621 Acanthodactylus_khamirensis Cercosaura_parkeri
+min = calibNode_10621 178.565
+max = calibNode_10621 178.565
+mrca = calibNode_10622 Acanthodactylus_khamirensis Amphisbaena_camura
+min = calibNode_10622 154.8357
+max = calibNode_10622 154.8357
+mrca = calibNode_10906 Amphisbaena_camura Bipes_biporus
+min = calibNode_10906 90.5814
+max = calibNode_10906 90.5814
+mrca = calibNode_10912 Amphisbaena_camura Dalophia_pistillum
+min = calibNode_10912 54.678
+max = calibNode_10912 54.678
+mrca = calibNode_10983 Bipes_biporus Bipes_canaliculatus
+min = calibNode_10983 58.4145
+max = calibNode_10983 58.4145
+mrca = calibNode_10624 Acanthodactylus_khamirensis Darevskia_unisexualis
+min = calibNode_10624 49.4229
+max = calibNode_10624 49.4229
+mrca = calibNode_10984 Cercosaura_parkeri Aspidoscelis_laredoensis
+min = calibNode_10984 116.7748
+max = calibNode_10984 116.7748
+mrca = calibNode_10985 Cercosaura_parkeri Alopoglossus_copii
+min = calibNode_10985 108.7264
+max = calibNode_10985 108.7264
+mrca = calibNode_10986 Cercosaura_parkeri Loxopholis_ferreirai
+min = calibNode_10986 88.2552
+max = calibNode_10986 88.2552
+mrca = calibNode_11151 Alopoglossus_copii Ptychoglossus_brevifrontalis
+min = calibNode_11151 51.5697
+max = calibNode_11151 51.5697
+mrca = calibNode_11159 Aspidoscelis_laredoensis Tupinambis_teguixin
+min = calibNode_11159 112.4222
+max = calibNode_11159 112.4222
+###############################
+###############################
+thorough
+opt = 5
+optad = 5
+optcvad = 4
+outfile = laterata_treePL_rep179.tre
+
+smooth = 1

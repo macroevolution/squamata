@@ -1,0 +1,188 @@
+setting the maximum number of threads to 1
+set verbose: true
+set thorough: true (MAY TAKE A WHILE)
+setting opt: 1
+setting optad: 1
+setting optcvad: 1
+setting log penalty
+outfile: scaffold_treePL_rep1.tre
+finished reading config file
+using system clock for random number seed = 1687147424
+tiny branch length at internal node. setting to 1.385963e-05
+setting calibNode_10477 min: 144.5975
+setting calibNode_10621 min: 178.565
+setting calibNode_11250 min: 186.0385
+setting calibNode_12443 min: 115.2331
+setting calibNode_6886 min: 213.1921
+setting calibNode_6887 min: 203.7197
+setting calibNode_6888 min: 188.3369
+setting calibNode_6889 min: 180.3606
+setting calibNode_6890 min: 120.3104
+setting calibNode_8983 min: 179.9094
+setting calibNode_8984 min: 168.1035
+setting calibNode_10477 max: 144.5975
+setting calibNode_10621 max: 178.565
+setting calibNode_11250 max: 186.0385
+setting calibNode_12443 max: 115.2331
+setting calibNode_6886 max: 213.1921
+setting calibNode_6887 max: 203.7197
+setting calibNode_6888 max: 188.3369
+setting calibNode_6889 max: 180.3606
+setting calibNode_6890 max: 120.3104
+setting calibNode_8983 max: 179.9094
+setting calibNode_8984 max: 168.1035
+preorder prep
+calculating character durations
+setting min and max
+setting up all constraints
+getting feasible start dates
+start rate 0.0021269024
+numparams:66
+initial calc: 9789389.2
+LF SIM
+1000 cur_like: 9230841.6 test_like: 9232214.4 same_value: 0 temp: 49.502244 rate_acc: (0.077323549) 0.5 date_acc: (0.27615553) 0.26754048 vecdiff: 0.00035092225,1696.9955
+2000 cur_like: 8627896.3 test_like: 8627960.2 same_value: 0 temp: 49.009443 rate_acc: (0.085413303) 0.65517241 date_acc: (0.30504751) 0.18635438 vecdiff: 0.0016268081,758.45706
+3000 cur_like: 8112234.9 test_like: 8114153.9 same_value: 0 temp: 48.521548 rate_acc: (0.094349424) 0.63461536 date_acc: (0.31105451) 0.13538653 vecdiff: 0.0027157645,322.51358
+4000 cur_like: 7610724.6 test_like: 7610980.9 same_value: 0 temp: 48.038511 rate_acc: (0.10422046) 0.57894737 date_acc: (0.28131213) 0.10876311 vecdiff: 0.0047738822,169.13362
+5000 cur_like: 7104511.8 test_like: 7105486.8 same_value: 0 temp: 47.560281 rate_acc: (0.11512423) 0.57894737 date_acc: (0.25441364) 0.091835566 vecdiff: 0.0083610544,76.462239
+6000 cur_like: 6724082 test_like: 6744689.8 same_value: 0 temp: 47.086813 rate_acc: (0.12716877) 0.5714286 date_acc: (0.23008714) 0.079588369 vecdiff: 0.010118008,42.857008
+7000 cur_like: 5964872 test_like: 5965292.5 same_value: 0 temp: 46.618058 rate_acc: (0.14047344) 0.54814816 date_acc: (0.20808668) 0.072527647 vecdiff: 0.038139736,57.383742
+8000 cur_like: 5347980.5 test_like: 5348234.9 same_value: 0 temp: 46.15397 rate_acc: (0.15517007) 0.56375837 date_acc: (0.18818987) 0.067924529 vecdiff: 0.064332103,73.671001
+9000 cur_like: 4799652.3 test_like: 4799702.6 same_value: 0 temp: 45.694502 rate_acc: (0.17140429) 0.56441718 date_acc: (0.17019554) 0.064387567 vecdiff: 0.10711885,49.047527
+10000 cur_like: 4277079.2 test_like: 4287788.1 same_value: 0 temp: 45.239607 rate_acc: (0.18933697) 0.55681819 date_acc: (0.1539218) 0.061434601 vecdiff: 0.18235299,57.514623
+11000 cur_like: 3664633.7 test_like: 3664636.2 same_value: 0 temp: 44.789242 rate_acc: (0.2091458) 0.54404145 date_acc: (0.13920411) 0.059213571 vecdiff: 0.39864267,61.828721
+12000 cur_like: 2747549.7 test_like: 2749716.5 same_value: 0 temp: 44.343359 rate_acc: (0.23102708) 0.55072463 date_acc: (0.12589371) 0.056686115 vecdiff: 1.4257685,21.040135
+13000 cur_like: 2192517 test_like: 2192571.2 same_value: 0 temp: 43.901916 rate_acc: (0.25519763) 0.55299538 date_acc: (0.11385601) 0.054583132 vecdiff: 1.9314507,19.701132
+14000 cur_like: 1503990.8 test_like: 1504158.9 same_value: 0 temp: 43.464867 rate_acc: (0.28189695) 0.55066079 date_acc: (0.10296934) 0.052807048 vecdiff: 5.0831706,34.219661
+15000 cur_like: 581144 test_like: 581147.61 same_value: 0 temp: 43.032169 rate_acc: (0.3113896) 0.54400003 date_acc: (0.093123622) 0.054097027 vecdiff: 21.942041,109.46263
+exit siman: 581144
+setting NLOPT: LD_LBFGS 
+result: 3
+after opt calc1: 54039.424
+setting NLOPT: LD_LBFGS 
+result: 3
+after opt calc2: 54039.407
+LF SIM
+1000 cur_like: 54039.407 test_like: 54047.977 same_value: 0 temp: 24.751122 rate_acc: (0.063306745) 0 date_acc: (0.22609552) 0 vecdiff: 0,0
+2000 cur_like: 54039.407 test_like: 54591.054 same_value: 0 temp: 24.504722 rate_acc: (0.057253486) 0 date_acc: (0.20447673) 0 vecdiff: 0,0
+3000 cur_like: 54039.407 test_like: 54040.506 same_value: 0 temp: 24.260774 rate_acc: (0.051779026) 0 date_acc: (0.18492509) 0 vecdiff: 0,0
+4000 cur_like: 54039.407 test_like: 54105.604 same_value: 0 temp: 24.019255 rate_acc: (0.046828023) 0 date_acc: (0.16724294) 0 vecdiff: 0,0
+5000 cur_like: 54039.407 test_like: 54072.762 same_value: 0 temp: 23.780141 rate_acc: (0.042350425) 0 date_acc: (0.15125152) 0 vecdiff: 0,0
+6000 cur_like: 54039.407 test_like: 54875.518 same_value: 0 temp: 23.543407 rate_acc: (0.038300965) 0 date_acc: (0.13678916) 0 vecdiff: 0,0
+7000 cur_like: 54039.407 test_like: 54060.038 same_value: 0 temp: 23.309029 rate_acc: (0.034638706) 0 date_acc: (0.12370966) 0 vecdiff: 0,0
+8000 cur_like: 54039.407 test_like: 54066.022 same_value: 0 temp: 23.076985 rate_acc: (0.031326625) 0 date_acc: (0.1118808) 0 vecdiff: 0,0
+9000 cur_like: 54039.407 test_like: 54041.812 same_value: 0 temp: 22.847251 rate_acc: (0.028331238) 0 date_acc: (0.10118299) 0 vecdiff: 0,0
+10000 cur_like: 54039.407 test_like: 54166.942 same_value: 0 temp: 22.619804 rate_acc: (0.025622264) 0 date_acc: (0.091508085) 0 vecdiff: 0,0
+11000 cur_like: 54039.407 test_like: 54161.95 same_value: 0 temp: 22.394621 rate_acc: (0.023172316) 0 date_acc: (0.082758272) 0 vecdiff: 0,0
+12000 cur_like: 54039.407 test_like: 54080.099 same_value: 0 temp: 22.17168 rate_acc: (0.020956627) 0 date_acc: (0.074845098) 0 vecdiff: 0,0
+13000 cur_like: 54039.407 test_like: 54302.761 same_value: 0 temp: 21.950958 rate_acc: (0.018952798) 0 date_acc: (0.067688565) 0 vecdiff: 0,0
+14000 cur_like: 54039.407 test_like: 54042.58 same_value: 0 temp: 21.732434 rate_acc: (0.017140571) 0 date_acc: (0.061216325) 0 vecdiff: 0,0
+15000 cur_like: 54039.407 test_like: 54236.32 same_value: 0 temp: 21.516085 rate_acc: (0.015501625) 0 date_acc: (0.055362947) 0 vecdiff: 0,0
+exit siman: 54039.407
+setting NLOPT: LD_LBFGS 
+result: 3
+after opt calc1: 54039.407
+setting NLOPT: LD_LBFGS 
+result: 3
+after opt calc2: 54039.407
+LF SIM
+1000 cur_like: 54039.407 test_like: 54126.939 same_value: 0 temp: 16.500747 rate_acc: (0.063306745) 0 date_acc: (0.22609552) 0 vecdiff: 0,0
+2000 cur_like: 54039.407 test_like: 54450.706 same_value: 0 temp: 16.33648 rate_acc: (0.057253486) 0 date_acc: (0.20447673) 0 vecdiff: 0,0
+3000 cur_like: 54039.407 test_like: 54767.058 same_value: 0 temp: 16.173849 rate_acc: (0.051779026) 0 date_acc: (0.18492509) 0 vecdiff: 0,0
+4000 cur_like: 54039.407 test_like: 54063.298 same_value: 0 temp: 16.012836 rate_acc: (0.046828023) 0 date_acc: (0.16724294) 0 vecdiff: 0,0
+5000 cur_like: 54039.407 test_like: 54054.893 same_value: 0 temp: 15.853427 rate_acc: (0.042350425) 0 date_acc: (0.15125152) 0 vecdiff: 0,0
+6000 cur_like: 54039.407 test_like: 54371.113 same_value: 0 temp: 15.695604 rate_acc: (0.038300965) 0 date_acc: (0.13678916) 0 vecdiff: 0,0
+7000 cur_like: 54039.407 test_like: 54169.318 same_value: 0 temp: 15.539352 rate_acc: (0.034638706) 0 date_acc: (0.12370966) 0 vecdiff: 0,0
+8000 cur_like: 54039.407 test_like: 54216.935 same_value: 0 temp: 15.384656 rate_acc: (0.031326625) 0 date_acc: (0.1118808) 0 vecdiff: 0,0
+9000 cur_like: 54039.407 test_like: 54053.572 same_value: 0 temp: 15.2315 rate_acc: (0.028331238) 0 date_acc: (0.10118299) 0 vecdiff: 0,0
+10000 cur_like: 54039.407 test_like: 54047.234 same_value: 0 temp: 15.079869 rate_acc: (0.025622264) 0 date_acc: (0.091508085) 0 vecdiff: 0,0
+11000 cur_like: 54039.407 test_like: 54053.319 same_value: 0 temp: 14.929747 rate_acc: (0.023172316) 0 date_acc: (0.082758272) 0 vecdiff: 0,0
+12000 cur_like: 54039.407 test_like: 54042.044 same_value: 0 temp: 14.781119 rate_acc: (0.020956627) 0 date_acc: (0.074845098) 0 vecdiff: 0,0
+13000 cur_like: 54039.407 test_like: 54196.453 same_value: 0 temp: 14.633971 rate_acc: (0.018952798) 0 date_acc: (0.067688565) 0 vecdiff: 0,0
+14000 cur_like: 54039.407 test_like: 54311.848 same_value: 0 temp: 14.488288 rate_acc: (0.017140571) 0 date_acc: (0.061216325) 0 vecdiff: 0,0
+15000 cur_like: 54039.407 test_like: 54435.176 same_value: 0 temp: 14.344056 rate_acc: (0.015501625) 0 date_acc: (0.055362947) 0 vecdiff: 0,0
+exit siman: 54039.407
+setting NLOPT: LD_LBFGS 
+result: 3
+after opt calc1: 54039.407
+setting NLOPT: LD_LBFGS 
+result: 3
+after opt calc2: 54039.407
+exited lf converged :1
+lf calc: 54039.407
+numparams:217
+smoothing:1
+54039.407
+1000 cur_like: 48312.977 test_like: 50047.961 same_value: 0 temp: 49.502244 rate_acc: (0.077323549) 0.23832528 date_acc: (0.22609552) 0.0099173551 vecdiff: 3.1052969,417.97521
+2000 cur_like: 44338.067 test_like: 44418.827 same_value: 0 temp: 49.009443 rate_acc: (0.085413303) 0.20367278 date_acc: (0.20447673) 0.011447261 vecdiff: 0,337.97175
+3000 cur_like: 42055.899 test_like: 42081.977 same_value: 0 temp: 48.521548 rate_acc: (0.094349424) 0.18202122 date_acc: (0.18492509) 0.015110631 vecdiff: 0.75357949,249.95489
+4000 cur_like: 40280.514 test_like: 40831.567 same_value: 0 temp: 48.038511 rate_acc: (0.10422046) 0.16589862 date_acc: (0.16724294) 0.015535568 vecdiff: 0,202.5526
+5000 cur_like: 38563.783 test_like: 38582.085 same_value: 0 temp: 47.560281 rate_acc: (0.11512423) 0.15568258 date_acc: (0.15125152) 0.017275747 vecdiff: 2.9073136,168.89462
+6000 cur_like: 37174.978 test_like: 38057.913 same_value: 0 temp: 47.086813 rate_acc: (0.1105547) 0.14463277 date_acc: (0.13678916) 0.019939074 vecdiff: 0,150.09708
+7000 cur_like: 36126.189 test_like: 36140.465 same_value: 1 temp: 46.618058 rate_acc: (0.09998369) 0.13614222 date_acc: (0.12370966) 0.022302158 vecdiff: 0,128.62433
+8000 cur_like: 35457.986 test_like: 35843.555 same_value: 0 temp: 46.15397 rate_acc: (0.090423457) 0.13199057 date_acc: (0.1118808) 0.025407581 vecdiff: 0,105.95162
+9000 cur_like: 34662.655 test_like: 34695.553 same_value: 0 temp: 45.694502 rate_acc: (0.081777353) 0.12929717 date_acc: (0.10118299) 0.027063083 vecdiff: 0,137.1157
+10000 cur_like: 33815.413 test_like: 33832.411 same_value: 0 temp: 45.239607 rate_acc: (0.073957972) 0.12782474 date_acc: (0.091508085) 0.030234968 vecdiff: 0,129.58478
+11000 cur_like: 33332.601 test_like: 33371.824 same_value: 0 temp: 44.789242 rate_acc: (0.066886265) 0.12562893 date_acc: (0.082758272) 0.030177891 vecdiff: 0,108.4368
+12000 cur_like: 32804.81 test_like: 32910.979 same_value: 0 temp: 44.343359 rate_acc: (0.060490739) 0.12590764 date_acc: (0.074845098) 0.032630961 vecdiff: 0,122.83606
+13000 cur_like: 32449.269 test_like: 32661.99 same_value: 0 temp: 43.901916 rate_acc: (0.05470674) 0.12424283 date_acc: (0.067688565) 0.033587165 vecdiff: 0,97.306171
+14000 cur_like: 31952.642 test_like: 32049.953 same_value: 0 temp: 43.464867 rate_acc: (0.049475795) 0.12448081 date_acc: (0.061216325) 0.033569802 vecdiff: 2.8834072,103.90318
+15000 cur_like: 31650.55 test_like: 31650.55 same_value: 0 temp: 43.032169 rate_acc: (0.044745022) 0.12507388 date_acc: (0.055362947) 0.035383519 vecdiff: 0,97.609603
+exit siman: 31650.55
+setting NLOPT: LD_LBFGS 
+result: -1
+after opt calc1: 31497.433
+setting NLOPT: LD_LBFGS 
+result: 3
+after opt calc2: 27443.669
+1000 cur_like: 27443.669 test_like: 28768.319 same_value: 0 temp: 24.751122 rate_acc: (0.063306745) 0 date_acc: (0.22609552) 0 vecdiff: 0,0
+2000 cur_like: 27443.669 test_like: 27448.442 same_value: 0 temp: 24.504722 rate_acc: (0.057253486) 0 date_acc: (0.20447673) 0 vecdiff: 0,0
+3000 cur_like: 27443.669 test_like: 27445.604 same_value: 0 temp: 24.260774 rate_acc: (0.051779026) 0 date_acc: (0.18492509) 0 vecdiff: 0,0
+4000 cur_like: 27443.669 test_like: 27456.361 same_value: 0 temp: 24.019255 rate_acc: (0.046828023) 0 date_acc: (0.16724294) 0 vecdiff: 0,0
+5000 cur_like: 27443.669 test_like: 27460.35 same_value: 0 temp: 23.780141 rate_acc: (0.042350425) 0 date_acc: (0.15125152) 0 vecdiff: 0,0
+6000 cur_like: 27443.669 test_like: 27784.165 same_value: 0 temp: 23.543407 rate_acc: (0.038300965) 0 date_acc: (0.13678916) 0 vecdiff: 0,0
+7000 cur_like: 27443.669 test_like: 27638.417 same_value: 0 temp: 23.309029 rate_acc: (0.034638706) 0 date_acc: (0.12370966) 0 vecdiff: 0,0
+8000 cur_like: 27443.669 test_like: 27463.763 same_value: 0 temp: 23.076985 rate_acc: (0.031326625) 0 date_acc: (0.1118808) 0 vecdiff: 0,0
+9000 cur_like: 27443.669 test_like: 27444.669 same_value: 0 temp: 22.847251 rate_acc: (0.028331238) 0 date_acc: (0.10118299) 0 vecdiff: 0,0
+10000 cur_like: 27443.669 test_like: 27544.248 same_value: 0 temp: 22.619804 rate_acc: (0.025622264) 0 date_acc: (0.091508085) 0 vecdiff: 0,0
+11000 cur_like: 27443.669 test_like: 27443.74 same_value: 0 temp: 22.394621 rate_acc: (0.023172316) 0 date_acc: (0.082758272) 0 vecdiff: 0,0
+12000 cur_like: 27443.669 test_like: 27444.892 same_value: 0 temp: 22.17168 rate_acc: (0.020956627) 0 date_acc: (0.074845098) 0 vecdiff: 0,0
+13000 cur_like: 27443.669 test_like: 27448.858 same_value: 0 temp: 21.950958 rate_acc: (0.018952798) 0 date_acc: (0.067688565) 0 vecdiff: 0,0
+14000 cur_like: 27443.669 test_like: 27450.835 same_value: 0 temp: 21.732434 rate_acc: (0.017140571) 0 date_acc: (0.061216325) 0 vecdiff: 0,0
+15000 cur_like: 27443.669 test_like: 27515.231 same_value: 0 temp: 21.516085 rate_acc: (0.015501625) 0 date_acc: (0.055362947) 0 vecdiff: 0,0
+exit siman: 27443.669
+setting NLOPT: LD_LBFGS 
+result: -1
+calculating without gradient (might want to try a different opt=VALUE)
+setting NLOPT : LN_SBPLX 
+result: 3
+after opt calc1: 27443.669
+setting NLOPT: LD_LBFGS 
+result: 3
+after opt calc2: 27443.669
+1000 cur_like: 27443.669 test_like: 27465.618 same_value: 0 temp: 16.500747 rate_acc: (0.063306745) 0 date_acc: (0.22609552) 0 vecdiff: 0,0
+2000 cur_like: 27443.669 test_like: 27444.426 same_value: 0 temp: 16.33648 rate_acc: (0.057253486) 0 date_acc: (0.20447673) 0 vecdiff: 0,0
+3000 cur_like: 27443.669 test_like: 27453.236 same_value: 0 temp: 16.173849 rate_acc: (0.051779026) 0 date_acc: (0.18492509) 0 vecdiff: 0,0
+4000 cur_like: 27443.669 test_like: 27528.528 same_value: 0 temp: 16.012836 rate_acc: (0.046828023) 0 date_acc: (0.16724294) 0 vecdiff: 0,0
+5000 cur_like: 27443.669 test_like: 27478.247 same_value: 0 temp: 15.853427 rate_acc: (0.042350425) 0 date_acc: (0.15125152) 0 vecdiff: 0,0
+6000 cur_like: 27443.669 test_like: 29046.915 same_value: 0 temp: 15.695604 rate_acc: (0.038300965) 0 date_acc: (0.13678916) 0 vecdiff: 0,0
+7000 cur_like: 27443.669 test_like: 27445.923 same_value: 0 temp: 15.539352 rate_acc: (0.034638706) 0 date_acc: (0.12370966) 0 vecdiff: 0,0
+8000 cur_like: 27443.669 test_like: 27447.899 same_value: 0 temp: 15.384656 rate_acc: (0.031326625) 0 date_acc: (0.1118808) 0 vecdiff: 0,0
+9000 cur_like: 27443.669 test_like: 27443.728 same_value: 0 temp: 15.2315 rate_acc: (0.028331238) 0 date_acc: (0.10118299) 0 vecdiff: 0,0
+10000 cur_like: 27443.669 test_like: 27445.111 same_value: 0 temp: 15.079869 rate_acc: (0.025622264) 0 date_acc: (0.091508085) 0 vecdiff: 0,0
+11000 cur_like: 27443.669 test_like: 27583.876 same_value: 1 temp: 14.929747 rate_acc: (0.023172316) 0 date_acc: (0.082758272) 0.00015878056 vecdiff: 0,7.7607721e-06
+12000 cur_like: 27443.669 test_like: 27458.818 same_value: 1 temp: 14.781119 rate_acc: (0.020956627) 0 date_acc: (0.074845098) 0.00014637002 vecdiff: 0,0
+13000 cur_like: 27443.669 test_like: 27443.682 same_value: 1 temp: 14.633971 rate_acc: (0.018952798) 0 date_acc: (0.067688565) 0.00013620267 vecdiff: 0,0
+14000 cur_like: 27443.669 test_like: 27444.454 same_value: 1 temp: 14.488288 rate_acc: (0.017140571) 0 date_acc: (0.061216325) 0.00012695188 vecdiff: 0,0
+15000 cur_like: 27443.669 test_like: 27452.175 same_value: 1 temp: 14.344056 rate_acc: (0.015501625) 0 date_acc: (0.055362947) 0.00011858176 vecdiff: 0,0
+exit siman: 27443.669
+setting NLOPT: LD_LBFGS 
+result: -1
+calculating without gradient (might want to try a different opt=VALUE)
+setting NLOPT : LN_SBPLX 
+result: 3
+after opt calc1: 27443.669
+setting NLOPT: LD_LBFGS 
+result: 3
+after opt calc2: 27443.669
+after opt calc: 27443.669

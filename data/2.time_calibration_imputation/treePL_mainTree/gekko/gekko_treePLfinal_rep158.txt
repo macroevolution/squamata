@@ -1,0 +1,54 @@
+# treePL config file for time calibration of tier1 phylogeny.
+# written 2023-06-16 09:02:30.892085
+treefile = ../../gekko.tre
+nthreads = 1
+numsites = 72152
+###############################
+mrca = calibNode_12443 Pachydactylus_werneri Goniurosaurus_luii
+min = calibNode_12443 115.2331
+max = calibNode_12443 115.2331
+mrca = calibNode_12444 Pachydactylus_werneri Diplodactylus_laevis
+min = calibNode_12444 108.3971
+max = calibNode_12444 108.3971
+mrca = calibNode_13548 Diplodactylus_laevis Delma_impar
+min = calibNode_13548 49.9269
+max = calibNode_13548 49.9269
+mrca = calibNode_13672 Delma_impar Nephrurus_laevissimus
+min = calibNode_13672 46.2555
+max = calibNode_13672 46.2555
+mrca = calibNode_13673 Delma_impar Aprasia_smithi
+min = calibNode_13673 20.3684
+max = calibNode_13673 20.3684
+mrca = calibNode_13711 Nephrurus_laevissimus Phyllurus_amnicola
+min = calibNode_13711 25.5768
+max = calibNode_13711 25.5768
+mrca = calibNode_13549 Diplodactylus_laevis Bavayia_crassicollis
+min = calibNode_13549 35.3277
+max = calibNode_13549 35.3277
+mrca = calibNode_12445 Pachydactylus_werneri Sphaerodactylus_nicholsi
+min = calibNode_12445 93.5625
+max = calibNode_12445 93.5625
+mrca = calibNode_12446 Pachydactylus_werneri Phyllodactylus_davisi
+min = calibNode_12446 78.6551
+max = calibNode_12446 78.6551
+mrca = calibNode_12449 Pachydactylus_werneri Gehyra_montium
+min = calibNode_12449 67.4454
+max = calibNode_12449 67.4454
+mrca = calibNode_13315 Phyllodactylus_davisi Tarentola_protogigas
+min = calibNode_13315 66.8818
+max = calibNode_13315 66.8818
+mrca = calibNode_13424 Sphaerodactylus_nicholsi Aristelliger_georgeensis
+min = calibNode_13424 78.0388
+max = calibNode_13424 78.0388
+mrca = calibNode_13759 Coleonyx_brevis Coleonyx_switaki
+min = calibNode_13759 20.2111
+max = calibNode_13759 20.2111
+###############################
+###############################
+thorough
+opt = 5
+optad = 5
+optcvad = 4
+outfile = gekko_treePL_rep158.tre
+
+smooth = 1

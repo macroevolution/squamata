@@ -1,0 +1,333 @@
+setting the maximum number of threads to 1
+set thorough: true (MAY TAKE A WHILE)
+setting opt: 5
+setting optad: 5
+setting optcvad: 2
+outfile: scinco_treePL_rep82.tre
+finished reading config file
+using system clock for random number seed = 1687148314
+tiny branch length at Lygisaurus_laevis. setting to 1.385963e-05
+tiny branch length at Cryptoblepharus_gloriosus. setting to 1.385963e-05
+tiny branch length at Cryptoblepharus_cognatus. setting to 1.385963e-05
+tiny branch length at Cryptoblepharus_carnabyi. setting to 1.385963e-05
+tiny branch length at Emoia_trossula. setting to 1.385963e-05
+tiny branch length at Trachylepis_casuarinae. setting to 1.385963e-05
+tiny branch length at Cyclodomorphus_casuarinae. setting to 1.385963e-05
+tiny branch length at Cyclodomorphus_michaeli. setting to 1.385963e-05
+tiny branch length at Tytthoscincus_batupanggah. setting to 1.385963e-05
+tiny branch length at Tytthoscincus_martae. setting to 1.385963e-05
+tiny branch length at Tytthoscincus_bukitensis. setting to 1.385963e-05
+tiny branch length at Feylinia_currori. setting to 1.385963e-05
+tiny branch length at internal node. setting to 1.385963e-05
+tiny branch length at internal node. setting to 1.385963e-05
+tiny branch length at internal node. setting to 1.385963e-05
+tiny branch length at internal node. setting to 1.385963e-05
+tiny branch length at internal node. setting to 1.385963e-05
+tiny branch length at internal node. setting to 1.385963e-05
+tiny branch length at internal node. setting to 1.385963e-05
+tiny branch length at internal node. setting to 1.385963e-05
+tiny branch length at internal node. setting to 1.385963e-05
+tiny branch length at internal node. setting to 1.385963e-05
+setting calibNode_11250 min: 186.0385
+setting calibNode_11252 min: 116.4855
+setting calibNode_11254 min: 109.0974
+setting calibNode_11255 min: 87.7304
+setting calibNode_11267 min: 30.9954
+setting calibNode_11691 min: 21.7938
+setting calibNode_11706 min: 18.8593
+setting calibNode_12325 min: 178.0357
+setting calibNode_12326 min: 98.0441
+setting calibNode_12329 min: 61.4334
+setting calibNode_12383 min: 65.2216
+setting calibNode_12412 min: 158.1625
+setting calibNode_11250 max: 186.0385
+setting calibNode_11252 max: 116.4855
+setting calibNode_11254 max: 109.0974
+setting calibNode_11255 max: 87.7304
+setting calibNode_11267 max: 30.9954
+setting calibNode_11691 max: 21.7938
+setting calibNode_11706 max: 18.8593
+setting calibNode_12325 max: 178.0357
+setting calibNode_12326 max: 98.0441
+setting calibNode_12329 max: 61.4334
+setting calibNode_12383 max: 65.2216
+setting calibNode_12412 max: 158.1625
+preorder prep
+calculating character durations
+setting min and max
+setting up all constraints
+getting feasible start dates
+start rate 0.0016423206
+numparams:1181
+initial calc: 27710580
+LF SIM
+exit siman: 2032279.6
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 629526.14
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 524110.74
+LF SIM
+exit siman: 358297.11
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 328850.65
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 294253.38
+LF SIM
+exit siman: 231613.16
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 214147.11
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 203509.93
+LF SIM
+exit siman: 184633.61
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 181050.13
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 178231.61
+LF SIM
+exit siman: 170608.84
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 168994.55
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 167875.1
+LF SIM
+exit siman: 163337.32
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 162368.09
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 161814.57
+LF SIM
+exit siman: 158362.11
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 157888.3
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 157594.38
+LF SIM
+exit siman: 155479.43
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 155259.46
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 155113.45
+LF SIM
+exit siman: 152815.14
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 152739.83
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 152686.52
+LF SIM
+exit siman: 151338.87
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 151196.69
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 151119.96
+LF SIM
+exit siman: 149893.58
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 149776.12
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 149766.8
+LF SIM
+exit siman: 148725.97
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 148635.24
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 148633.76
+LF SIM
+exit siman: 147627.85
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 147584.77
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 147554.55
+LF SIM
+exit siman: 146941.85
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 146929.67
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 146919.42
+LF SIM
+exit siman: 146360
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 146309.42
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 146304.31
+LF SIM
+exit siman: 145765.17
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 145674.58
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 145670.94
+LF SIM
+exit siman: 145143.97
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 145121.64
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 145101.83
+LF SIM
+exit siman: 144697.66
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 144695.82
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 144695.65
+LF SIM
+exit siman: 144151.55
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 144148.22
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 144148.19
+LF SIM
+exit siman: 143762.52
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 143761.4
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 143761.26
+LF SIM
+exit siman: 143338.73
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 143338.53
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 143338.53
+LF SIM
+exit siman: 142994.09
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 142993.3
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 142989.59
+LF SIM
+exit siman: 142728.47
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 142725.91
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 142725.91
+LF SIM
+exit siman: 142419.66
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 142419.62
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 142419.31
+LF SIM
+exit siman: 142194.37
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 142186.52
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 142186.52
+LF SIM
+exit siman: 141995.99
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 141995.99
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 141995.99
+LF SIM
+exit siman: 141780.65
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 141780.65
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 141780.65
+exited lf converged :1
+lf calc: 141780.65
+numparams:3564
+smoothing:1
+141780.65
+exit siman: 136626.81
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 135356.19
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 134338.65
+exit siman: 130112.09
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 129949.99
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 129867.07
+exit siman: 127425.61
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 127376.77
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 127308.2
+exit siman: 125268.15
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 125253.56
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 125253.56
+exit siman: 123534.09
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 123465.92
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 123458.26
+exit siman: 121931.98
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 121931.98
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 121931.98
+exit siman: 120714.2
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 120714.2
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 120714.2
+after opt calc: 120714.2

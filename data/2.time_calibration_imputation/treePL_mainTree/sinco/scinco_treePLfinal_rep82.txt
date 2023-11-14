@@ -1,0 +1,51 @@
+# treePL config file for time calibration of tier1 phylogeny.
+# written 2023-06-16 09:02:31.198647
+treefile = ../../scinco.tre
+nthreads = 1
+numsites = 72152
+###############################
+mrca = calibNode_11250 Carlia_quinquecarinata Cordylus_beraduccii
+min = calibNode_11250 186.0385
+max = calibNode_11250 186.0385
+mrca = calibNode_11252 Carlia_quinquecarinata Brachyseps_frontoparietalis
+min = calibNode_11252 116.4855
+max = calibNode_11252 116.4855
+mrca = calibNode_11254 Carlia_quinquecarinata Ctenotus_gagudju
+min = calibNode_11254 109.0974
+max = calibNode_11254 109.0974
+mrca = calibNode_11255 Carlia_quinquecarinata Egernia_eos
+min = calibNode_11255 87.7304
+max = calibNode_11255 87.7304
+mrca = calibNode_11691 Egernia_eos Tiliqua_gigas
+min = calibNode_11691 21.7938
+max = calibNode_11691 21.7938
+mrca = calibNode_11706 Tiliqua_gigas Cyclodomorphus_casuarinae
+min = calibNode_11706 18.8593
+max = calibNode_11706 18.8593
+mrca = calibNode_11267 Carlia_quinquecarinata Saproscincus_hannahae
+min = calibNode_11267 30.9954
+max = calibNode_11267 30.9954
+mrca = calibNode_12325 Cordylus_beraduccii Lepidophyma_radula
+min = calibNode_12325 178.0357
+max = calibNode_12325 178.0357
+mrca = calibNode_12326 Cordylus_beraduccii Zonosaurus_karsteni
+min = calibNode_12326 98.0441
+max = calibNode_12326 98.0441
+mrca = calibNode_12329 Cordylus_beraduccii Smaug_mossambicus
+min = calibNode_12329 61.4334
+max = calibNode_12329 61.4334
+mrca = calibNode_12383 Zonosaurus_karsteni Gerrhosaurus_flavigularis
+min = calibNode_12383 65.2216
+max = calibNode_12383 65.2216
+mrca = calibNode_12412 Lepidophyma_radula Cricosaura_typica
+min = calibNode_12412 158.1625
+max = calibNode_12412 158.1625
+###############################
+###############################
+thorough
+opt = 5
+optad = 5
+optcvad = 2
+outfile = scinco_treePL_rep82.tre
+
+smooth = 1

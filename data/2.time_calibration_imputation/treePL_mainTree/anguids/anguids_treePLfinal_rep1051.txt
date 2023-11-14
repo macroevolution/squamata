@@ -1,0 +1,54 @@
+# treePL config file for time calibration of tier1 phylogeny.
+# written 2023-06-16 09:02:33.035346
+treefile = ../../anguids.tre
+nthreads = 1
+numsites = 72152
+###############################
+mrca = calibNode_10477 Abronia_anzuetoi Varanus_cerambonensis
+min = calibNode_10477 144.5975
+max = calibNode_10477 144.5975
+mrca = calibNode_10478 Abronia_anzuetoi Heloderma_horridum
+min = calibNode_10478 125.6761
+max = calibNode_10478 125.6761
+mrca = calibNode_10479 Abronia_anzuetoi Celestus_agasepsoides
+min = calibNode_10479 84.1578
+max = calibNode_10479 84.1578
+mrca = calibNode_10480 Abronia_anzuetoi Anniella_campi
+min = calibNode_10480 70.5533
+max = calibNode_10480 70.5533
+mrca = calibNode_10481 Abronia_anzuetoi Dopasia_hainanensis
+min = calibNode_10481 46.2424
+max = calibNode_10481 46.2424
+mrca = calibNode_10482 Abronia_anzuetoi Elgaria_multicarinata
+min = calibNode_10482 18.1775
+max = calibNode_10482 18.1775
+mrca = calibNode_10501 Abronia_taeniata Abronia_fuscolabialis
+min = calibNode_10501 3.0601
+max = calibNode_10501 3.0601
+mrca = calibNode_10536 Anniella_campi Anniella_grinnelli
+min = calibNode_10536 4.0223
+max = calibNode_10536 4.0223
+mrca = calibNode_10539 Celestus_agasepsoides Celestus_enneagrammus
+min = calibNode_10539 48.1029
+max = calibNode_10539 48.1029
+mrca = calibNode_10552 Heloderma_horridum Xenosaurus_platyceps
+min = calibNode_10552 117.5658
+max = calibNode_10552 117.5658
+mrca = calibNode_10555 Varanus_cerambonensis Shinisaurus_crocodilurus
+min = calibNode_10555 135.747
+max = calibNode_10555 135.747
+mrca = calibNode_10556 Varanus_cerambonensis Lanthanotus_borneensis
+min = calibNode_10556 56.8041
+max = calibNode_10556 56.8041
+mrca = calibNode_10557 Varanus_cerambonensis Varanus_yemenensis
+min = calibNode_10557 18.2773
+max = calibNode_10557 18.2773
+###############################
+###############################
+thorough
+opt = 2
+optad = 1
+optcvad = 3
+outfile = anguids_treePL_rep1051.tre
+
+smooth = 0.1

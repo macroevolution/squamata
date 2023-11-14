@@ -1,0 +1,784 @@
+setting the maximum number of threads to 1
+set thorough: true (MAY TAKE A WHILE)
+setting opt: 5
+setting optad: 5
+setting optcvad: 4
+outfile: gekko_treePL_rep158.tre
+finished reading config file
+using system clock for random number seed = 1687144669
+tiny branch length at Afroedura_granitica. setting to 1.385963e-05
+tiny branch length at Cnemaspis_samanalensis. setting to 1.385963e-05
+tiny branch length at Uroplatus_kelirambo. setting to 1.385963e-05
+tiny branch length at Hemiphyllodactylus_yunnanensis. setting to 1.385963e-05
+tiny branch length at Hemiphyllodactylus_uga. setting to 1.385963e-05
+tiny branch length at Lepidodactylus_lugubris. setting to 1.385963e-05
+tiny branch length at Cyrtodactylus_varadgirii. setting to 1.385963e-05
+tiny branch length at Cyrtodactylus_speciosus. setting to 1.385963e-05
+tiny branch length at Cyrtodactylus_chrysopylos. setting to 1.385963e-05
+tiny branch length at Cyrtodactylus_myaleiktaung. setting to 1.385963e-05
+tiny branch length at Tarentola_rudis. setting to 1.385963e-05
+tiny branch length at Tarentola_fogoensis. setting to 1.385963e-05
+tiny branch length at Sphaerodactylus_nicholsi. setting to 1.385963e-05
+tiny branch length at Gonatodes_vittatus. setting to 1.385963e-05
+tiny branch length at internal node. setting to 1.385963e-05
+tiny branch length at internal node. setting to 1.385963e-05
+tiny branch length at internal node. setting to 1.385963e-05
+tiny branch length at internal node. setting to 1.385963e-05
+tiny branch length at internal node. setting to 1.385963e-05
+setting calibNode_12443 min: 115.2331
+setting calibNode_12444 min: 108.3971
+setting calibNode_12445 min: 93.5625
+setting calibNode_12446 min: 78.6551
+setting calibNode_12449 min: 67.4454
+setting calibNode_13315 min: 66.8818
+setting calibNode_13424 min: 78.0388
+setting calibNode_13548 min: 49.9269
+setting calibNode_13549 min: 35.3277
+setting calibNode_13672 min: 46.2555
+setting calibNode_13673 min: 20.3684
+setting calibNode_13711 min: 25.5768
+setting calibNode_13759 min: 20.2111
+setting calibNode_12443 max: 115.2331
+setting calibNode_12444 max: 108.3971
+setting calibNode_12445 max: 93.5625
+setting calibNode_12446 max: 78.6551
+setting calibNode_12449 max: 67.4454
+setting calibNode_13315 max: 66.8818
+setting calibNode_13424 max: 78.0388
+setting calibNode_13548 max: 49.9269
+setting calibNode_13549 max: 35.3277
+setting calibNode_13672 max: 46.2555
+setting calibNode_13673 max: 20.3684
+setting calibNode_13711 max: 25.5768
+setting calibNode_13759 max: 20.2111
+preorder prep
+calculating character durations
+setting min and max
+setting up all constraints
+getting feasible start dates
+start rate 0.0036454317
+numparams:1307
+initial calc: 46180538
+LF SIM
+exit siman: 4941091.8
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 886641.21
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 732571.67
+LF SIM
+exit siman: 521144.57
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 464109.87
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 435896.81
+LF SIM
+exit siman: 372785.48
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 356158.12
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 349033.3
+LF SIM
+exit siman: 316865.36
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 309933.11
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 306891
+LF SIM
+exit siman: 285987.91
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 282697.76
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 280934.51
+LF SIM
+exit siman: 266109.1
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 264910.44
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 264251.27
+LF SIM
+exit siman: 257061.59
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 256172.13
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 255779.67
+LF SIM
+exit siman: 249891.3
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 249369.81
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 249192.54
+LF SIM
+exit siman: 244166.75
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 243721.45
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 243644.02
+LF SIM
+exit siman: 239243.31
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 238909.78
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 238787.2
+LF SIM
+exit siman: 235987.92
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 235747.62
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 235702.34
+LF SIM
+exit siman: 232733.83
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 232637.61
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 232607
+LF SIM
+exit siman: 230110.13
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 229959.12
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 229930.04
+LF SIM
+exit siman: 228079.17
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 228049.42
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 228018.97
+LF SIM
+exit siman: 226438.72
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 226404.53
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 226378
+LF SIM
+exit siman: 224700.12
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 224644.67
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 224643.77
+LF SIM
+exit siman: 223507.77
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 223420.38
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 223300.94
+LF SIM
+exit siman: 221761.79
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 221694.61
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 221680.24
+LF SIM
+exit siman: 220412.6
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 220310.28
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 220279.18
+LF SIM
+exit siman: 219373.25
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 219143.76
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 219081.62
+LF SIM
+exit siman: 218211.49
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 218111.84
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 218091.05
+LF SIM
+exit siman: 217440.1
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 217331.8
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 217303.35
+LF SIM
+exit siman: 216776.16
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 216774.44
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 216773.55
+LF SIM
+exit siman: 216101.16
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 216094.93
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 216085.43
+LF SIM
+exit siman: 215435.16
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 215424.64
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 215423.96
+LF SIM
+exit siman: 214813.57
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 214774.17
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 214774.17
+LF SIM
+exit siman: 214092.69
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 214087.08
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 214087.08
+LF SIM
+exit siman: 213517.27
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 213436.74
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 213424.11
+LF SIM
+exit siman: 212778.08
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 212756.08
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 212753.69
+LF SIM
+exit siman: 212202.17
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 212146.08
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 212116.25
+LF SIM
+exit siman: 211747.64
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 211720.36
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 211718.04
+LF SIM
+exit siman: 211295.27
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 211294.13
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 211293.95
+LF SIM
+exit siman: 210787.54
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 210787.2
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 210787.05
+LF SIM
+exit siman: 210355.83
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 210355.04
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 210354.88
+LF SIM
+exit siman: 209974.52
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 209974.07
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 209974.07
+LF SIM
+exit siman: 209757.8
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 209719.39
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 209712.34
+LF SIM
+exit siman: 209493.84
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 209491.5
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 209491.47
+LF SIM
+exit siman: 209248.02
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 209247.99
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 209242.83
+LF SIM
+exit siman: 208992.66
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 208990.1
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 208986.73
+LF SIM
+exit siman: 208591.72
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 208588.82
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 208588.29
+LF SIM
+exit siman: 208388.77
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 208387.88
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 208387.88
+LF SIM
+exit siman: 208232.85
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 208231.9
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 208231.1
+LF SIM
+exit siman: 208062.96
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 208033.87
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 208016.58
+LF SIM
+exit siman: 207860.21
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 207832.75
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 207811.14
+LF SIM
+exit siman: 207669.79
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 207666.04
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 207665.74
+LF SIM
+exit siman: 207403.47
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 207403.47
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 207403.47
+LF SIM
+exit siman: 207180.9
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 207179.92
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 207179.23
+LF SIM
+exit siman: 206900.63
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 206887.8
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 206887.64
+LF SIM
+exit siman: 206680.69
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 206656.39
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 206640.99
+LF SIM
+exit siman: 206450.65
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 206430.8
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 206409.66
+LF SIM
+exit siman: 206180.2
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 206175.21
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 206175.21
+LF SIM
+exit siman: 205995.79
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 205995.76
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 205995.74
+LF SIM
+exit siman: 205886.02
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 205880.98
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 205872.25
+LF SIM
+exit siman: 205763.9
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 205759.58
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 205759.24
+LF SIM
+exit siman: 205536.48
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 205532.73
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 205530.05
+LF SIM
+exit siman: 205243.71
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 205238.74
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 205237.33
+LF SIM
+exit siman: 205091.39
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 205063.49
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 205054.29
+LF SIM
+exit siman: 204860.01
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 204845.82
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 204844.48
+LF SIM
+exit siman: 204744.93
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 204743.72
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 204742.81
+LF SIM
+exit siman: 204597.85
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 204597.66
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 204595.93
+LF SIM
+exit siman: 204526.09
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 204524.78
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 204524.77
+LF SIM
+exit siman: 204393.76
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 204393.68
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 204393.68
+LF SIM
+exit siman: 204304.68
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 204298.44
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 204298.2
+LF SIM
+exit siman: 204179.35
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 204174.26
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 204174.21
+LF SIM
+exit siman: 203984.98
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 203984.93
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 203984.76
+LF SIM
+exit siman: 203844.05
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 203811.62
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 203790.65
+LF SIM
+exit siman: 203708.16
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 203705.08
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 203705.03
+LF SIM
+exit siman: 203539.52
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 203538.97
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 203536.37
+LF SIM
+exit siman: 203471.45
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 203465.04
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 203462.1
+LF SIM
+exit siman: 203351.98
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 203351.93
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 203351.93
+LF SIM
+exit siman: 203302.52
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 203301.74
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 203299.65
+LF SIM
+exit siman: 203229
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 203225.96
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 203225.65
+LF SIM
+exit siman: 203156.35
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 203155.25
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 203155.24
+LF SIM
+exit siman: 203048.86
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 203048.79
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 203048.59
+LF SIM
+exit siman: 202958.48
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 202957.95
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 202957.95
+LF SIM
+exit siman: 202855.72
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 202855.49
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 202853.01
+LF SIM
+exit siman: 202734.53
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 202734.5
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 202734.5
+LF SIM
+exit siman: 202663.8
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 202645.77
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 202645.56
+LF SIM
+exit siman: 202610.66
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 202599.55
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 202589.4
+LF SIM
+exit siman: 202510.15
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 202510.03
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 202510.03
+LF SIM
+exit siman: 202432.84
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 202432.77
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 202432.74
+LF SIM
+exit siman: 202348.93
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 202348.93
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 202348.93
+LF SIM
+exit siman: 202281.68
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 202280.53
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 202280.51
+LF SIM
+exit siman: 202155.43
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 202155.15
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 202155.15
+LF SIM
+exit siman: 202085.64
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 202085.61
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 202085.46
+LF SIM
+exit siman: 202023.19
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 202023.19
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 202023.19
+LF SIM
+exit siman: 201970.05
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 201970.05
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 201970.05
+exited lf converged :1
+lf calc: 201970.05
+numparams:3944
+smoothing:1
+201970.05
+exit siman: 198541.94
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 198541.94
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 198541.94
+exit siman: 196590.43
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 196590.43
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 196590.43
+exit siman: 194917.49
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc1: 194917.49
+setting NLOPT : LN_SBPLX 
+result: 5
+after opt calc2: 194917.49
+after opt calc: 194917.49
