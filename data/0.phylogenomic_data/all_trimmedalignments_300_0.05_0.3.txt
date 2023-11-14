@@ -1,0 +1,1 @@
+Note that due to file size constraints, the folder named all_trimmedalignments_300_0.05_0.3 could not be included with this GitHub repository. But you can find it in the Dryad repository linked from this repo's landing page.

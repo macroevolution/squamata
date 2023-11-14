@@ -1,0 +1,3 @@
+Note that due to file size constraints, the folder named MCMCTreeeAnalyses could not be 
+included with this GitHub repository. But you can find it in the Dryad repository linked from this repo's 
+landing page.
