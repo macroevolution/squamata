@@ -1,0 +1,135 @@
+
+RAxML-NG v. 1.0.1 released on 19.09.2020 by The Exelixis Lab.
+Developed by: Alexey M. Kozlov and Alexandros Stamatakis.
+Contributors: Diego Darriba, Tomas Flouri, Benoit Morel, Sarah Lutteropp, Ben Bettisworth.
+Latest version: https://github.com/amkozlov/raxml-ng
+Questions/problems/suggestions? Please visit: https://groups.google.com/forum/#!forum/raxml
+
+System: Intel(R) Xeon(R) CPU E5-2690 v3 @ 2.60GHz, 24 cores, 125 GB RAM
+
+RAxML-NG was called at 02-Nov-2020 17:15:34 as follows:
+
+/gpfs/home/ptitle/raxml-ng --evaluate --msa concatenated.phy --model concatenated.partitions.raxml --threads 16 --opt-model on --opt-branches on --prefix fulltree_default_uncon_2_raxmlOpt --tree fulltree_default_uncon_2.treefile
+
+Analysis options:
+  run mode: Evaluate tree likelihood
+  start tree(s): user
+  random seed: 1604355334
+  tip-inner: OFF
+  pattern compression: ON
+  per-rate scalers: OFF
+  site repeats: ON
+  branch lengths: proportional (ML estimate, algorithm: NR-FAST)
+  SIMD kernels: AVX2
+  parallelization: coarse-grained (auto), PTHREADS (16 threads), thread pinning: OFF
+
+[00:00:00] Reading alignment from file: concatenated.phy
+[00:00:01] Loaded alignment with 6902 taxa and 72152 sites
+
+WARNING: Fully undetermined columns found: 1573
+
+WARNING: Sequences Eirenis_thospitis and Eirenis_hakkariensis are exactly identical!
+WARNING: Sequences Tytthoscincus_martae and Tytthoscincus_bukitensis are exactly identical!
+WARNING: Duplicate sequences found: 2
+
+NOTE: Reduced alignment (with duplicates and gap-only sites/taxa removed) 
+NOTE: was saved to: /gpfs/scratch/ptitle/fullAln/fulltree_default_uncon_2_raxmlOpt.raxml.reduced.phy
+
+NOTE: The corresponding reduced partition file was saved to:
+/gpfs/scratch/ptitle/fullAln/fulltree_default_uncon_2_raxmlOpt.raxml.reduced.partition
+
+Alignment comprises 8 partitions and 65021 patterns
+
+Partition 0: mtDNA_c1
+Model: GTR+FC+G4m+B
+Alignment sites / patterns: 2091 / 2039
+Gaps: 74.44 %
+Invariant sites: 17.17 %
+
+Partition 1: rRNA_12S
+Model: GTR+FC+G4m+B
+Alignment sites / patterns: 2483 / 2170
+Gaps: 87.39 %
+Invariant sites: 30.69 %
+
+Partition 2: rRNA_16S
+Model: GTR+FC+G4m+B
+Alignment sites / patterns: 3054 / 2707
+Gaps: 88.17 %
+Invariant sites: 28.91 %
+
+Partition 3: mtDNA_c3
+Model: GTR+FC+G4m+B
+Alignment sites / patterns: 2097 / 2056
+Gaps: 74.52 %
+Invariant sites: 6.20 %
+
+Partition 4: mtDNA_c2
+Model: GTR+FC+G4m+B
+Alignment sites / patterns: 2088 / 2017
+Gaps: 74.40 %
+Invariant sites: 23.71 %
+
+Partition 5: nDNA_c1
+Model: GTR+FC+G4m+B
+Alignment sites / patterns: 19582 / 17728
+Gaps: 88.99 %
+Invariant sites: 40.88 %
+
+Partition 6: nDNA_c2
+Model: GTR+FC+G4m+B
+Alignment sites / patterns: 19584 / 17179
+Gaps: 88.99 %
+Invariant sites: 49.69 %
+
+Partition 7: nDNA_c3
+Model: GTR+FC+G4m+B
+Alignment sites / patterns: 19600 / 19125
+Gaps: 89.00 %
+Invariant sites: 8.86 %
+
+
+NOTE: Binary MSA file created: fulltree_default_uncon_2_raxmlOpt.raxml.rba
+
+Parallelization scheme autoconfig: 1 worker(s) x 16 thread(s)
+
+
+NOTE: Per-rate scalers were automatically enabled to prevent numerical issues on taxa-rich alignments.
+NOTE: You can use --force switch to skip this check and fall back to per-site scalers.
+
+Parallel reduction/worker buffer size: 2 KB  / 0 KB
+
+[00:00:39] Loading user starting tree(s) from: fulltree_default_uncon_2.treefile
+[00:00:39] Data distribution: max. partitions/sites/weight per thread: 2 / 4064 / 65024
+[00:00:39] Data distribution: max. searches per worker: 1
+
+Evaluating 1 trees
+
+[00:00:43] Tree #1, initial LogLikelihood: -9415897.960412
+
+[00:00:47 -9415897.960412] Initial branch length optimization
+[00:02:30 -8976198.921944] Model parameter optimization (eps = 0.100000)
+
+[00:15:24] Tree #1, final logLikelihood: -8194805.734675
+
+
+
+Final LogLikelihood: -8194805.734675
+
+AIC score: 16417371.469350 / AICc score: 16424167.768337 / BIC score: 16544574.561801
+Free parameters (model + branch lengths): 13880
+
+WARNING: Best ML tree contains 31 near-zero branches!
+
+Best ML tree with collapsed near-zero branches saved to: /gpfs/scratch/ptitle/fullAln/fulltree_default_uncon_2_raxmlOpt.raxml.bestTreeCollapsed
+Best ML tree saved to: /gpfs/scratch/ptitle/fullAln/fulltree_default_uncon_2_raxmlOpt.raxml.bestTree
+Optimized model saved to: /gpfs/scratch/ptitle/fullAln/fulltree_default_uncon_2_raxmlOpt.raxml.bestModel
+
+Execution log saved to: /gpfs/scratch/ptitle/fullAln/fulltree_default_uncon_2_raxmlOpt.raxml.log
+
+Analysis started: 02-Nov-2020 17:15:34 / finished: 02-Nov-2020 17:30:59
+
+Elapsed time: 925.304 seconds
+
+Consumed energy: 54.633 Wh
+
