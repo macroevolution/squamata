@@ -1,0 +1,1084 @@
+family,genus,species,sample,institution,voucher,type,inTopoConstraint,num_total,avg_length,SRR
+Boidae,Eryx,Eryx_colubrinus,ATOL_A103,NA,NA,10.1016/j.ympev.2016.04.015,TRUE,4438,416,SRR3284188
+Pareidae,Pareas,Pareas_hamptoni,FMNH_255567,FMNH,FMNH_255567,10.1016/j.ympev.2016.04.015,FALSE,4616,342,SRR3284198
+Lanthanotidae,Lanthanotus,Lanthanotus_borneensis,ISIS_393113,NA,NA,10.1016/j.ympev.2016.04.015,FALSE,4819,337,SRR3284496
+Carphodactylidae,Saltuarius,Saltuarius_cornutus,SAMAR33647,NA,NA,10.1016/j.ympev.2016.04.015,TRUE,2871,281,SRR3284497
+Anomalepididae,Liotyphlops,Liotyphlops_albirostris,SBH_172151,NA,NA,10.1016/j.ympev.2016.04.015,FALSE,4619,350,SRR3284195
+Boidae,Lichanura,Lichanura_trivirgata,SDSNH_72826,NA,NA,10.1016/j.ympev.2016.04.015,TRUE,4827,381,SRR3284194
+Leptotyphlopidae,Rena,Rena_humilis,SDSU_3939,NA,NA,10.1016/j.ympev.2016.04.015,TRUE,4719,395,SRR3284209
+Anniellidae,Anniella,Anniella_pulchra,TNHC_55671,NA,NA,10.1016/j.ympev.2016.04.015,TRUE,4776,382,SRR3284494
+Boidae,Exiliboa,Exiliboa_placata,UTA-R_12233,NA,NA,10.1016/j.ympev.2016.04.015,TRUE,3597,405,SRR3284190
+Boidae,Ungaliophis,Ungaliophis_continentalis,UTA-R_12239,NA,NA,10.1016/j.ympev.2016.04.015,TRUE,3571,357,SRR3284470
+Tropidophiidae,Tropidophis,Tropidophis_haetianus,YPM_13584,NA,NA,10.1016/j.ympev.2016.04.015,FALSE,4196,403,SRR3284312
+Elapidae,Micrurus,Micrurus_fulvius,YPM_14096,NA,NA,10.1016/j.ympev.2016.04.015,TRUE,4654,380,SRR3284197
+Loxocemidae,Loxocemus,Loxocemus_bicolor,ZA_46400,NA,NA,10.1016/j.ympev.2016.04.015,FALSE,3666,369,SRR3284196
+Teiidae,Medopheos,Medopheos_edracanthus,AGC321,NA,NA,10.1016/j.ympev.2016.07.002,TRUE,309,1545,NA
+Liolaemidae,Liolaemus,Liolaemus_alticolor,CAP60,NA,NA,10.1016/j.ympev.2016.07.002,TRUE,310,1484,NA
+Teiidae,Tupinambis,Tupinambis_quadrilineatus,CHUNB00461,NA,NA,10.1016/j.ympev.2016.07.002,TRUE,309,1544,NA
+Teiidae,Kentropyx,Kentropyx_altamazonica,CHUNB11420,NA,NA,10.1016/j.ympev.2016.07.002,TRUE,304,1549,NA
+Teiidae,Cnemidophorus,Cnemidophorus_lemniscatus,CHUNB1461,NA,NA,10.1016/j.ympev.2016.07.002,TRUE,302,1518,NA
+Teiidae,Dracaena,Dracaena_guianensis,CHUNB15199,NA,NA,10.1016/j.ympev.2016.07.002,TRUE,309,1548,NA
+Teiidae,Crocodilurus,Crocodilurus_amazonicus,CHUNB32614,NA,NA,10.1016/j.ympev.2016.07.002,TRUE,307,1546,NA
+Teiidae,Ameivula,Ameivula_ocellifera,CHUNB37333,NA,NA,10.1016/j.ympev.2016.07.002,TRUE,306,1554,NA
+Teiidae,Ameivula,Ameivula_jalapensis,CHUNB41169,NA,NA,10.1016/j.ympev.2016.07.002,FALSE,311,1542,NA
+Teiidae,Kentropyx,Kentropyx_sp,CHUNB41299,NA,NA,10.1016/j.ympev.2016.07.002,FALSE,306,1528,NA
+Teiidae,Glaucomastix,Glaucomastix_littoralis,CHUNB42582,NA,NA,10.1016/j.ympev.2016.07.002,FALSE,310,1543,NA
+Teiidae,Glaucomastix,Glaucomastix_abaetensis,CHUNB47668,NA,NA,10.1016/j.ympev.2016.07.002,FALSE,310,1549,NA
+Teiidae,Contomastix,Contomastix_vacariensis,CHUNB51432,NA,NA,10.1016/j.ympev.2016.07.002,TRUE,310,1538,NA
+Teiidae,Holcosus,Holcosus_undulatus,FN253909,NA,NA,10.1016/j.ympev.2016.07.002,TRUE,309,1544,NA
+Teiidae,Aspidoscelis,Aspidoscelis_deppii,FN253940,NA,NA,10.1016/j.ympev.2016.07.002,TRUE,304,1554,NA
+Teiidae,Holcosus,Holcosus_quadrilineatus,GDC2260,NA,NA,10.1016/j.ympev.2016.07.002,TRUE,307,1544,NA
+Teiidae,Holcosus,Holcosus_festivus,HERPET156390,NA,NA,10.1016/j.ympev.2016.07.002,TRUE,307,1544,NA
+Teiidae,Salvator,Salvator_merianae,I0463_Salvator_merianae,NA,NA,10.1016/j.ympev.2016.07.002,TRUE,308,1551,NA
+Teiidae,Kentropyx,Kentropyx_viridistriga,I0871_Kentropyx_viridistriga,NA,NA,10.1016/j.ympev.2016.07.002,TRUE,305,1544,NA
+Teiidae,Dicrodon,Dicrodon_guttulatum,I0872_Dicrodon_guttulatum,NA,NA,10.1016/j.ympev.2016.07.002,TRUE,309,1532,NA
+Teiidae,Teius,Teius_oculatus,I0874_Teius_oculatus,NA,NA,10.1016/j.ympev.2016.07.002,FALSE,304,1535,NA
+Teiidae,Holcosus,Holcosus_septemlineatus,KU218388,NA,NA,10.1016/j.ympev.2016.07.002,FALSE,307,1547,NA
+Teiidae,Callopistes,Callopistes_flavipunctatus,LGG0003,NA,NA,10.1016/j.ympev.2016.07.002,TRUE,311,1545,NA
+Leiosauridae,Diplolaemus,Diplolaemus_darwinii,LJAMM-CNP10025,NA,NA,10.1016/j.ympev.2016.07.002,TRUE,312,1491,NA
+Phyllodactylidae,Homonota,Homonota_fasciata,LJAMM-CNP10495,NA,NA,10.1016/j.ympev.2016.07.002,TRUE,299,1469,NA
+Teiidae,Teius,Teius_suquiensis,LJAMM-CNP13995,NA,NA,10.1016/j.ympev.2016.07.002,FALSE,303,1547,NA
+Teiidae,Contomastix,Contomastix_serrana,LJVMM4517,NA,NA,10.1016/j.ympev.2016.07.002,TRUE,310,1544,NA
+Gekkonidae,Cnemaspis,Cnemaspis_psychedelica,LSUHC9244,NA,NA,10.1016/j.ympev.2016.07.002,TRUE,300,1476,NA
+Teiidae,Dicrodon,Dicrodon_heterolepis,MUSM26148,NA,NA,10.1016/j.ympev.2016.07.002,FALSE,307,1548,NA
+Teiidae,Holcosus,Holcosus_leptophrys,MVZHerp149848,NA,NA,10.1016/j.ympev.2016.07.002,FALSE,309,1546,NA
+Teiidae,Callopistes,Callopistes_maculatus,MVZHerp233271,NA,NA,10.1016/j.ympev.2016.07.002,TRUE,310,1549,NA
+Teiidae,Pholidoscelis,Pholidoscelis_taeniurus,SBH104391,NA,NA,10.1016/j.ympev.2016.07.002,TRUE,308,1553,NA
+Teiidae,Pholidoscelis,Pholidoscelis_erythrocephalus,SBH172686,NA,NA,10.1016/j.ympev.2016.07.002,TRUE,310,1549,NA
+Teiidae,Pholidoscelis,Pholidoscelis_auberi,SBH172879,NA,NA,10.1016/j.ympev.2016.07.002,TRUE,308,1549,NA
+Teiidae,Pholidoscelis,Pholidoscelis_exsul,SBH190726,NA,NA,10.1016/j.ympev.2016.07.002,TRUE,312,1547,NA
+Teiidae,Pholidoscelis,Pholidoscelis_wetmorei,SBH190731,NA,NA,10.1016/j.ympev.2016.07.002,TRUE,307,1546,NA
+Teiidae,Pholidoscelis,Pholidoscelis_pluvianotatus,SBH192779,NA,NA,10.1016/j.ympev.2016.07.002,TRUE,310,1548,NA
+Teiidae,Pholidoscelis,Pholidoscelis_griswoldi,SBH192785,NA,NA,10.1016/j.ympev.2016.07.002,TRUE,308,1549,NA
+Teiidae,Pholidoscelis,Pholidoscelis_maynardi,SBH192970,NA,NA,10.1016/j.ympev.2016.07.002,TRUE,309,1551,NA
+Teiidae,Pholidoscelis,Pholidoscelis_fuscatus,SBH194215,NA,NA,10.1016/j.ympev.2016.07.002,TRUE,308,1552,NA
+Teiidae,Pholidoscelis,Pholidoscelis_chrysolaemus,SBH194588,NA,NA,10.1016/j.ympev.2016.07.002,TRUE,308,1553,NA
+Teiidae,Pholidoscelis,Pholidoscelis_lineolatus,SBH194700,NA,NA,10.1016/j.ympev.2016.07.002,TRUE,309,1542,NA
+Teiidae,Pholidoscelis,Pholidoscelis_dorsalis,SBH194921,NA,NA,10.1016/j.ympev.2016.07.002,TRUE,310,1552,NA
+Teiidae,Pholidoscelis,Pholidoscelis_plei,SBH266002,NA,NA,10.1016/j.ympev.2016.07.002,TRUE,308,1547,NA
+Teiidae,Pholidoscelis,Pholidoscelis_corax,SBH266428,NA,NA,10.1016/j.ympev.2016.07.002,TRUE,307,1549,NA
+Teiidae,Pholidoscelis,Pholidoscelis_corvinus,SBH269165,NA,NA,10.1016/j.ympev.2016.07.002,TRUE,308,1547,NA
+Colubridae,Cemophora,Cemophora_coccinea,DBS45,NA,NA,10.1016/j.ympev.2017.03.017,TRUE,301,1484,NA
+Colubridae,Lampropeltis,Lampropeltis_extenuata,FTB1193,NA,NA,10.1016/j.ympev.2017.03.017,TRUE,301,1489,NA
+Colubridae,Lampropeltis,Lampropeltis_holbrooki,FTB1383,NA,NA,10.1016/j.ympev.2017.03.017,TRUE,301,1490,NA
+Colubridae,Lampropeltis,Lampropeltis_californiae,FTB1461,NA,NA,10.1016/j.ympev.2017.03.017,TRUE,301,1490,NA
+Colubridae,Lampropeltis,Lampropeltis_splendida,FTB1554,NA,NA,10.1016/j.ympev.2017.03.017,TRUE,301,1488,NA
+Colubridae,Lampropeltis,Lampropeltis_webbi,FTB1560,NA,NA,10.1016/j.ympev.2017.03.017,TRUE,301,1487,NA
+Colubridae,Lampropeltis,Lampropeltis_alterna,FTB1567,NA,NA,10.1016/j.ympev.2017.03.017,TRUE,301,1490,NA
+Colubridae,Lampropeltis,Lampropeltis_elapsoides,FTB1756,NA,NA,10.1016/j.ympev.2017.03.017,TRUE,301,1490,NA
+Colubridae,Lampropeltis,Lampropeltis_nigra,FTB1775,NA,NA,10.1016/j.ympev.2017.03.017,TRUE,301,1490,NA
+Colubridae,Rhinocheilus,Rhinocheilus_lecontei,FTB1948,NA,NA,10.1016/j.ympev.2017.03.017,TRUE,301,1488,NA
+Colubridae,Tantilla,Tantilla_coronata,FTB2005,NA,NA,10.1016/j.ympev.2017.03.017,TRUE,301,1486,NA
+Colubridae,Lampropeltis,Lampropeltis_pyromelana,FTB2070,NA,NA,10.1016/j.ympev.2017.03.017,TRUE,301,1488,NA
+Colubridae,Pantherophis,Pantherophis_obsoletus,FTB2167,NA,NA,10.1016/j.ympev.2017.03.017,TRUE,301,1490,NA
+Colubridae,Coelognathus,Coelognathus_erythrurus,FTB2236,NA,NA,10.1016/j.ympev.2017.03.017,TRUE,301,1488,NA
+Colubridae,Elaphe,Elaphe_dione,FTB2239,NA,NA,10.1016/j.ympev.2017.03.017,TRUE,301,1486,NA
+Colubridae,Gonyosoma,Gonyosoma_prasinum,FTB2241,NA,NA,10.1016/j.ympev.2017.03.017,TRUE,301,1484,NA
+Colubridae,Lampropeltis,Lampropeltis_knoblochi,FTB2244,NA,NA,10.1016/j.ympev.2017.03.017,TRUE,301,1488,NA
+Colubridae,Pantherophis,Pantherophis_emoryi,FTB2271,NA,NA,10.1016/j.ympev.2017.03.017,TRUE,301,1485,NA
+Colubridae,Elaphe,Elaphe_davidi,FTB2301,NA,NA,10.1016/j.ympev.2017.03.017,TRUE,301,1490,NA
+Colubridae,Elaphe,Elaphe_moellendorffi,FTB2304,NA,NA,10.1016/j.ympev.2017.03.017,TRUE,301,1490,NA
+Colubridae,Gonyosoma,Gonyosoma_boulengeri,FTB2307,NA,NA,10.1016/j.ympev.2017.03.017,TRUE,301,1489,NA
+Colubridae,Hapsidophrys,Hapsidophrys_lineatus,FTB2479,NA,NA,10.1016/j.ympev.2017.03.017,TRUE,300,1482,NA
+Colubridae,Lampropeltis,Lampropeltis_zonata,FTB2775,NA,NA,10.1016/j.ympev.2017.03.017,TRUE,301,1490,NA
+Colubridae,Elaphe,Elaphe_bimaculata,FTB2806,NA,NA,10.1016/j.ympev.2017.03.017,TRUE,301,1482,NA
+Colubridae,Euprepiophis,Euprepiophis_mandarinus,FTB2817,NA,NA,10.1016/j.ympev.2017.03.017,TRUE,301,1488,NA
+Colubridae,Elaphe,Elaphe_carinata,FTB2818,NA,NA,10.1016/j.ympev.2017.03.017,TRUE,301,1488,NA
+Colubridae,Elaphe,Elaphe_hodgsoni,FTB2827,NA,NA,10.1016/j.ympev.2017.03.017,TRUE,301,1490,NA
+Colubridae,Elaphe,Elaphe_anomala,FTB2828,NA,NA,10.1016/j.ympev.2017.03.017,TRUE,301,1488,NA
+Colubridae,Elaphe,Elaphe_schrenckii,FTB2830,NA,NA,10.1016/j.ympev.2017.03.017,TRUE,301,1489,NA
+Colubridae,Euprepiophis,Euprepiophis_perlacea,FTB2871,NA,NA,10.1016/j.ympev.2017.03.017,TRUE,301,1489,NA
+Colubridae,Pituophis,Pituophis_lineaticollis,FTB2878,NA,NA,10.1016/j.ympev.2017.03.017,TRUE,301,1489,NA
+Colubridae,Bogertophis,Bogertophis_rosaliae,FTB2881,NA,NA,10.1016/j.ympev.2017.03.017,TRUE,300,1259,NA
+Colubridae,Bogertophis,Bogertophis_subocularis,FTB2882,NA,NA,10.1016/j.ympev.2017.03.017,TRUE,301,1487,NA
+Colubridae,Coronella,Coronella_girondica,FTB2884,NA,NA,10.1016/j.ympev.2017.03.017,TRUE,301,1489,NA
+Colubridae,Pituophis,Pituophis_deppei,FTB2886,NA,NA,10.1016/j.ympev.2017.03.017,TRUE,301,1489,NA
+Colubridae,Elaphe,Elaphe_quatuorlineata,FTB2889,NA,NA,10.1016/j.ympev.2017.03.017,TRUE,301,1489,NA
+Colubridae,Coronella,Coronella_austriaca,FTB2891,NA,NA,10.1016/j.ympev.2017.03.017,TRUE,301,1486,NA
+Colubridae,Lampropeltis,Lampropeltis_calligaster,FTB2894,NA,NA,10.1016/j.ympev.2017.03.017,TRUE,301,1490,NA
+Colubridae,Zamenis,Zamenis_longissimus,FTB2895,NA,NA,10.1016/j.ympev.2017.03.017,TRUE,301,1490,NA
+Colubridae,Euprepiophis,Euprepiophis_conspicillata,FTB2901,NA,NA,10.1016/j.ympev.2017.03.017,TRUE,301,1489,NA
+Colubridae,Hemorrhois,Hemorrhois_hippocrepis,FTB2908,NA,NA,10.1016/j.ympev.2017.03.017,TRUE,301,1488,NA
+Colubridae,Senticolis,Senticolis_triaspis,FTB2910,NA,NA,10.1016/j.ympev.2017.03.017,TRUE,301,1486,NA
+Colubridae,Elaphe,Elaphe_climacophora,FTB2913,NA,NA,10.1016/j.ympev.2017.03.017,TRUE,301,1489,NA
+Colubridae,Elaphe,Elaphe_quadrivirgata,FTB2914,NA,NA,10.1016/j.ympev.2017.03.017,TRUE,301,1490,NA
+Colubridae,Pantherophis,Pantherophis_bairdi,FTB2915,NA,NA,10.1016/j.ympev.2017.03.017,TRUE,301,1490,NA
+Colubridae,Zamenis,Zamenis_scalaris,FTB2917,NA,NA,10.1016/j.ympev.2017.03.017,TRUE,301,1489,NA
+Colubridae,Pantherophis,Pantherophis_slowinskii,FTB2923,NA,NA,10.1016/j.ympev.2017.03.017,TRUE,301,1487,NA
+Colubridae,Coelognathus,Coelognathus_helena,FTB2924,NA,NA,10.1016/j.ympev.2017.03.017,TRUE,301,1483,NA
+Colubridae,Pantherophis,Pantherophis_ramspotti,FTB2945,NA,NA,10.1016/j.ympev.2017.03.017,TRUE,301,1485,NA
+Colubridae,Pantherophis,Pantherophis_spiloides,FTB622,NA,NA,10.1016/j.ympev.2017.03.017,TRUE,301,1489,NA
+Colubridae,Coelognathus,Coelognathus_subradiatus,I0071,NA,NA,10.1016/j.ympev.2017.03.017,TRUE,300,1489,NA
+Colubridae,Coelognathus,Coelognathus_radiatus,I0074,NA,NA,10.1016/j.ympev.2017.03.017,TRUE,301,1488,NA
+Colubridae,Gonyosoma,Gonyosoma_oxycephalum,I0093,NA,NA,10.1016/j.ympev.2017.03.017,TRUE,301,1486,NA
+Colubridae,Oocatochus,Oocatochus_rufodorsatus,I0119,NA,NA,10.1016/j.ympev.2017.03.017,TRUE,301,1487,NA
+Colubridae,Elaphe,Elaphe_cantoris,I0122,NA,NA,10.1016/j.ympev.2017.03.017,TRUE,301,1488,NA
+Colubridae,Pituophis,Pituophis_ruthveni,I0139_63,NA,NA,10.1016/j.ympev.2017.03.017,TRUE,301,1483,NA
+Colubridae,Zamenis,Zamenis_lineatus,I0149,NA,NA,10.1016/j.ympev.2017.03.017,TRUE,301,1488,NA
+Colubridae,Zamenis,Zamenis_persicus,I0151,NA,NA,10.1016/j.ympev.2017.03.017,TRUE,301,1490,NA
+Colubridae,Zamenis,Zamenis_situla,I0152,NA,NA,10.1016/j.ympev.2017.03.017,TRUE,301,1490,NA
+Colubridae,Lampropeltis,Lampropeltis_ruthveni,RB2,NA,NA,10.1016/j.ympev.2017.03.017,TRUE,301,1490,NA
+Colubridae,Lampropeltis,Lampropeltis_mexicana,RB3,NA,NA,10.1016/j.ympev.2017.03.017,TRUE,301,1490,NA
+Liolaemidae,Liolaemus,Liolaemus_darwinii,LJAMM-CNP14634,NA,NA,10.1093/gbe/evv026,TRUE,7,601,NA
+Phrynosomatidae,Petrosaurus,Petrosaurus_thalassinus,MVZ161183,NA,NA,10.1093/gbe/evv026,TRUE,6,522,NA
+Phrynosomatidae,Callisaurus,Callisaurus_draconoides,MVZ265543,NA,NA,10.1093/gbe/evv026,TRUE,5,648,NA
+Phrynosomatidae,Phrynosoma,Phrynosoma_sherbrookei,MZFC28101,NA,NA,10.1093/gbe/evv026,TRUE,7,573,NA
+Phrynosomatidae,Uma,Uma_notata,SDSNH76166,NA,NA,10.1093/gbe/evv026,TRUE,8,571,NA
+Phrynosomatidae,Sceloporus,Sceloporus_occidentalis,UWBM6281,NA,NA,10.1093/gbe/evv026,TRUE,4,539,NA
+Phrynosomatidae,Cophosaurus,Cophosaurus_texanus,UWBM7347,NA,NA,10.1093/gbe/evv026,TRUE,7,599,NA
+Phrynosomatidae,Holbrookia,Holbrookia_maculata,UWBM7362,NA,NA,10.1093/gbe/evv026,TRUE,8,629,NA
+Phrynosomatidae,Urosaurus,Urosaurus_ornatus,UWBM7587,NA,NA,10.1093/gbe/evv026,TRUE,11,577,NA
+Agamidae,Leiolepis,Leiolepis_belliana,CAS_210725,NA,NA,10.1093/sysbio/syv058,TRUE,4526,355,SRR1923849
+Agamidae,Trapelus,Trapelus_agilis,CAS_228565,NA,NA,10.1093/sysbio/syv058,TRUE,3998,383,SRR1923851
+Agamidae,Calotes,Calotes_emma,CAS_230941,NA,NA,10.1093/sysbio/syv058,TRUE,4479,354,SRR1923846
+Dactyloidae,Anolis,Anolis_sagrei,JJK_1454,NA,NA,10.1093/sysbio/syv058,TRUE,3014,417,SRR1923799
+Tropiduridae,Microlophus,Microlophus_atacamensis,JPV_145,NA,NA,10.1093/sysbio/syv058,TRUE,4687,426,SRR1923842
+Hoplocercidae,Enyalioides,Enyalioides_laticeps,KU_212627,NA,NA,10.1093/sysbio/syv058,FALSE,2783,363,SRR1923803
+Liolaemidae,Phymaturus,Phymaturus_palluma,LJA_5806,NA,NA,10.1093/sysbio/syv058,TRUE,4178,375,SRR1923830
+Hoplocercidae,Morunasaurus,Morunasaurus_annularis,MVZ_163062,NA,NA,10.1093/sysbio/syv058,FALSE,4152,364,SRR1923807
+Liolaemidae,Liolaemus,Liolaemus_magellanicus,MVZ_180141,NA,NA,10.1093/sysbio/syv058,TRUE,4952,318,SRR1923829
+Liolaemidae,Liolaemus,Liolaemus_bellii,MVZ_196515,NA,NA,10.1093/sysbio/syv058,TRUE,2250,349,SRR1923828
+Chamaeleonidae,Chamaeleo,Chamaeleo_calyptratus,MVZ_230099,NA,NA,10.1093/sysbio/syv058,FALSE,4636,382,SRR1923852
+Leiocephalidae,Leiocephalus,Leiocephalus_barahonensis,SBH_101427,NA,NA,10.1093/sysbio/syv058,FALSE,4814,363,SRR1923822
+Liolaemidae,Phymaturus,Phymaturus_somuncurensis,SDSU_1648,NA,NA,10.1093/sysbio/syv058,TRUE,4417,502,SRR1923831
+Iguanidae,Brachylophus,Brachylophus_gau,SDZoo_188093,NA,NA,10.1093/sysbio/syv058,FALSE,3608,369,SRR1923816
+Dactyloidae,Anolis,Anolis_olssoni,TJS_222,NA,NA,10.1093/sysbio/syv058,TRUE,4786,422,SRR1923793
+Corytophanidae,Basiliscus,Basiliscus_basiliscus,TOMH_86-271,NA,NA,10.1093/sysbio/syv058,FALSE,4355,378,SRR1923769
+Iguanidae,Dipsosaurus,Dipsosaurus_dorsalis,TWR_1146,NA,NA,10.1093/sysbio/syv058,TRUE,4775,388,SRR1923820
+Iguanidae,Sauromalus,Sauromalus_ater,TWR_1147,NA,NA,10.1093/sysbio/syv058,TRUE,4722,371,SRR1923821
+Phrynosomatidae,Uta,Uta_stansburiana,TWR_1745,NA,NA,10.1093/sysbio/syv058,TRUE,4981,277,SRR1923839
+Leiosauridae,Pristidactylus,Pristidactylus_torquatus,TWR_Pr_t,NA,NA,10.1093/sysbio/syv058,TRUE,3585,369,SRR1923825
+Corytophanidae,Corytophanes,Corytophanes_cristatus,WL_8961,NA,NA,10.1093/sysbio/syv058,FALSE,4372,360,SRR1923780
+Scincidae,Brachymeles,Brachymeles_bonitae,AJB077,NA,NA,10.1093/sysbio/syw001,TRUE,428,602,NA
+Scincidae,Lobulia,Lobulia_elegans,BPBM18690,NA,NA,10.1093/sysbio/syw001,TRUE,428,527,NA
+Scincidae,Mesoscincus,Mesoscincus_managuae,CWL614,NA,NA,10.1093/sysbio/syw001,TRUE,429,511,NA
+Scincidae,Marisora,Marisora_unimarginata,CWL615,NA,NA,10.1093/sysbio/syw001,TRUE,429,602,NA
+Scincidae,Tytthoscincus,Tytthoscincus_parvus,JAM6275,NA,NA,10.1093/sysbio/syw001,TRUE,428,606,NA
+Xantusiidae,Xantusia,Xantusia_vigilis,KU220092,NA,NA,10.1093/sysbio/syw001,FALSE,429,579,NA
+Scincidae,Sphenomorphus,Sphenomorphus_variegatus,KU315087,NA,NA,10.1093/sysbio/syw001,TRUE,428,527,NA
+Scincidae,Typhlosaurus,Typhlosaurus_sp,MVZ164850,NA,NA,10.1093/sysbio/syw001,FALSE,428,522,NA
+Scincidae,Scincus,Scincus_scincus,MVZ234538,NA,NA,10.1093/sysbio/syw001,TRUE,428,610,NA
+Scincidae,Chalcides,Chalcides_ocellatus,MVZ242790,NA,NA,10.1093/sysbio/syw001,TRUE,428,610,NA
+Scincidae,Eurylepis,Eurylepis_taeniolata,MVZ246017,NA,NA,10.1093/sysbio/syw001,TRUE,428,612,NA
+Scincidae,Ophiomorus,Ophiomorus_raithmai,MVZ248453,NA,NA,10.1093/sysbio/syw001,FALSE,429,610,NA
+Scincidae,Mochlus,Mochlus_brevicaudis,MVZ249721,NA,NA,10.1093/sysbio/syw001,TRUE,428,604,NA
+Sphaerodactylidae,Gonatodes,Gonatodes_albogularis,AEH003,NA,NA,10.1098/rsbl.2017.0393,TRUE,2308,285,NA
+Gerrhosauridae,Cordylosaurus,Cordylosaurus_subtessellatus,AMB6860,NA,NA,10.1098/rsbl.2017.0393,FALSE,2836,280,NA
+Dactyloidae,Anolis,Anolis_carolinensis,anolis_carolinensis_2,NA,NA,10.1098/rsbl.2017.0393,TRUE,3854,349,NA
+Gymnophthalmidae,Pholidobolus,Pholidobolus_macbrydei,CAS228621,NA,NA,10.1098/rsbl.2017.0393,TRUE,566,273,NA
+Xantusiidae,Lepidophyma,Lepidophyma_flavimaculatum,LACM128548,NA,NA,10.1098/rsbl.2017.0393,FALSE,2078,283,NA
+Bipedidae,Bipes,Bipes_biporus,MVZ236256,NA,NA,10.1098/rsbl.2017.0393,FALSE,918,281,NA
+Xantusiidae,Cricosaura,Cricosaura_typica,MVZ241283,NA,NA,10.1098/rsbl.2017.0393,FALSE,2874,280,NA
+Pythonidae,Python,Python_molurus,python_molurus_2,NA,NA,10.1098/rsbl.2017.0393,TRUE,3218,343,NA
+Scincidae,Plestiodon,Plestiodon_fasciatus,SDSU3836,NA,NA,10.1098/rsbl.2017.0393,TRUE,3429,308,NA
+Gekkonidae,Gekko,Gekko_gecko,SDSU3896,NA,NA,10.1098/rsbl.2017.0393,TRUE,1380,279,NA
+Teiidae,Aspidoscelis,Aspidoscelis_tigris,SDSU4350,NA,NA,10.1098/rsbl.2017.0393,TRUE,3396,307,NA
+Cordylidae,Smaug,Smaug_mossambicus,SDSU4354,NA,NA,10.1098/rsbl.2017.0393,FALSE,2054,288,NA
+Lacertidae,Lacerta,Lacerta_viridis,YPM12868,NA,NA,10.1098/rsbl.2017.0393,TRUE,2495,289,NA
+Scincidae,Plestiodon,Plestiodon_indubitus,MX41,NA,NA,10.1111/jbi.12989,TRUE,3282,536,NA
+Scincidae,Plestiodon,Plestiodon_lynxe,MX43,NA,NA,10.1111/jbi.12989,TRUE,3282,538,NA
+Scincidae,Plestiodon,Plestiodon_bilineatus,MX44,NA,NA,10.1111/jbi.12989,TRUE,3282,531,NA
+Scincidae,Plestiodon,Plestiodon_dicei,MXH11,NA,NA,10.1111/jbi.12989,TRUE,3282,536,NA
+Scincidae,Plestiodon,Plestiodon_brevirostris,MXH15,NA,NA,10.1111/jbi.12989,TRUE,3282,537,NA
+Scincidae,Plestiodon,Plestiodon_copei,MXH17,NA,NA,10.1111/jbi.12989,TRUE,3282,541,NA
+Scincidae,Plestiodon,Plestiodon_parvulus,MXH189,NA,NA,10.1111/jbi.12989,TRUE,3282,537,NA
+Scincidae,Plestiodon,Plestiodon_ochoterenae,MXH27,NA,NA,10.1111/jbi.12989,TRUE,3282,537,NA
+Scincidae,Plestiodon,Plestiodon_sumichrasti,MXH29,NA,NA,10.1111/jbi.12989,TRUE,3282,539,NA
+Scincidae,Plestiodon,Plestiodon_dugesii,MXH3,NA,NA,10.1111/jbi.12989,TRUE,3282,528,NA
+Scincidae,Plestiodon,Plestiodon_tetragrammus,MXH44,NA,NA,10.1111/jbi.12989,TRUE,3282,531,NA
+Colubridae,Storeria,Storeria_victa,CAS204799,NA,NA,10.1111/zoj.12392,FALSE,288,665,NA
+Colubridae,Liodytes,Liodytes_rigida,FTB594,NA,NA,10.1111/zoj.12392,TRUE,282,665,NA
+Lamprophiidae,Rhamphiophis,Rhamphiophis_rubropunctatus,8_26,NA,NA,10.1186/s12862-015-0503-1,TRUE,372,1368,NA
+Lamprophiidae,Duberria,Duberria_lutrix,AMCC105534,NA,NA,10.1186/s12862-015-0503-1,TRUE,368,1370,NA
+Lamprophiidae,Liopholidophis,Liopholidophis_dimorphus,RAN38118,UMMZ,UMMZ_200049,10.1186/s12862-015-0503-1,TRUE,373,1372,NA
+Lamprophiidae,Liophidium,Liophidium_vaillanti,RAN40001,UMMZ,UMMZ_209459,10.1186/s12862-015-0503-1,TRUE,373,1374,NA
+Lamprophiidae,Elapotinus,Elapotinus_picteti,RAN42290,UMMZ,UMMZ_203642,10.1186/s12862-015-0503-1,TRUE,371,1372,NA
+Lamprophiidae,Heteroliodon,Heteroliodon_occipitalis,RAN58882,NA,NA,10.1186/s12862-015-0503-1,TRUE,370,1378,NA
+Lamprophiidae,Compsophis,Compsophis_vinckei,RAX10277,NA,NA,10.1186/s12862-015-0503-1,FALSE,372,1371,NA
+Lamprophiidae,Ithycyphus,Ithycyphus_goudoti,RAX10462,NA,NA,10.1186/s12862-015-0503-1,FALSE,371,1372,NA
+Lamprophiidae,Leioheterodon,Leioheterodon_madagascariensis,RAX11507,NA,NA,10.1186/s12862-015-0503-1,TRUE,373,1371,NA
+Lamprophiidae,Mimophis,Mimophis_mahfalensis,RAX11694,NA,NA,10.1186/s12862-015-0503-1,TRUE,372,1371,NA
+Lamprophiidae,Madagascarophis,Madagascarophis_colubrinus,RAX11706,NA,NA,10.1186/s12862-015-0503-1,TRUE,373,1373,NA
+Lamprophiidae,Thamnosophis,Thamnosophis_lateralis,RAX11773,NA,NA,10.1186/s12862-015-0503-1,TRUE,369,1316,NA
+Lamprophiidae,Liophidium,Liophidium_torquatum,RAX2245,NA,NA,10.1186/s12862-015-0503-1,TRUE,372,1374,NA
+Lamprophiidae,Dromicodryas,Dromicodryas_quadrilineatus,RAX2331,NA,NA,10.1186/s12862-015-0503-1,TRUE,370,1372,NA
+Lamprophiidae,Ithycyphus,Ithycyphus_miniatus,RAX2400,NA,NA,10.1186/s12862-015-0503-1,TRUE,372,1375,NA
+Lamprophiidae,Alluaudina,Alluaudina_bellyi,RAX4380,NA,NA,10.1186/s12862-015-0503-1,TRUE,373,1364,NA
+Lamprophiidae,Pseudoxyrhopus,Pseudoxyrhopus_microps,RAX5272,NA,NA,10.1186/s12862-015-0503-1,TRUE,370,1377,NA
+Lamprophiidae,Micropisthodon,Micropisthodon_ochraceus,RAX7407,NA,NA,10.1186/s12862-015-0503-1,TRUE,373,1373,NA
+Lamprophiidae,Parastenophis,Parastenophis_betsileanus,RAX8049,NA,NA,10.1186/s12862-015-0503-1,TRUE,373,1374,NA
+Lamprophiidae,Madagascarophis,Madagascarophis_ocellatus,RAX8426,NA,NA,10.1186/s12862-015-0503-1,TRUE,372,1374,NA
+Lamprophiidae,Phisalixella,Phisalixella_tulearensis,RAX9843,NA,NA,10.1186/s12862-015-0503-1,TRUE,373,1371,NA
+Agamidae,Bronchocela,Bronchocela_cristatella,acd1547,NA,NA,10.1186/s12862-016-0611-6,TRUE,3976,528,NA
+Agamidae,Salea,Salea_horsfieldii,AF12849_1,NA,NA,10.1186/s12862-016-0611-6,TRUE,3995,625,NA
+Agamidae,Ceratophora,Ceratophora_aspera,AF128491,NA,NA,10.1186/s12862-016-0611-6,TRUE,3318,533,NA
+Agamidae,Cophotis,Cophotis_ceylanica,AF128493,NA,NA,10.1186/s12862-016-0611-6,TRUE,3754,622,NA
+Agamidae,Lyriocephalus,Lyriocephalus_scutatus,AF128494,NA,NA,10.1186/s12862-016-0611-6,TRUE,3602,584,NA
+Varanidae,Varanus,Varanus_togianus,bsi1565,NA,NA,10.1186/s12862-016-0611-6,TRUE,3213,354,NA
+Agamidae,Ptyctolaemus,Ptyctolaemus_collicristatus,cas220561,NA,NA,10.1186/s12862-016-0611-6,TRUE,3899,623,NA
+Agamidae,Ptyctolaemus,Ptyctolaemus_gularis,cas221296,NA,NA,10.1186/s12862-016-0611-6,TRUE,4056,597,NA
+Agamidae,Acanthosaura,Acanthosaura_lepidogaster,cwl818,NA,NA,10.1186/s12862-016-0611-6,TRUE,3887,618,NA
+Agamidae,Calotes,Calotes_mystaceus,dsm869,NA,NA,10.1186/s12862-016-0611-6,TRUE,3773,621,NA
+Agamidae,Draco,Draco_spilopterus,elr1338,NA,NA,10.1186/s12862-016-0611-6,TRUE,3909,577,NA
+Agamidae,Mantheyus,Mantheyus_phuwuanensis,fmnh262580,NA,NA,10.1186/s12862-016-0611-6,TRUE,4087,614,NA
+Agamidae,Draco,Draco_maculatus,kufs320,NA,NA,10.1186/s12862-016-0611-6,TRUE,3921,571,NA
+Agamidae,Pseudocalotes,Pseudocalotes_larutensis,lsuhc10285,NA,NA,10.1186/s12862-016-0611-6,TRUE,3857,627,NA
+Agamidae,Calotes,Calotes_versicolor,lsuhc10327,NA,NA,10.1186/s12862-016-0611-6,TRUE,4109,609,NA
+Agamidae,Acanthosaura,Acanthosaura_armata,lsuhc9351,NA,NA,10.1186/s12862-016-0611-6,TRUE,4144,616,NA
+Agamidae,Draco,Draco_blanfordii,lsuhc9427,NA,NA,10.1186/s12862-016-0611-6,TRUE,3853,614,NA
+Agamidae,Gonocephalus,Gonocephalus_sophiae,rmb8061,NA,NA,10.1186/s12862-016-0611-6,TRUE,3989,609,NA
+Agamidae,Gonocephalus,Gonocephalus_interruptus,rmb9384,NA,NA,10.1186/s12862-016-0611-6,TRUE,4056,611,NA
+Phrynosomatidae,Phrynosoma,Phrynosoma_asio,phrynosoma_asio,NA,NA,10.1643/CH-15-248,TRUE,7,528,NA
+Phrynosomatidae,Phrynosoma,Phrynosoma_blainvillii,phrynosoma_blainvillii,NA,NA,10.1643/CH-15-248,TRUE,8,520,NA
+Phrynosomatidae,Phrynosoma,Phrynosoma_braconnieri,phrynosoma_braconnieri,NA,NA,10.1643/CH-15-248,TRUE,7,530,NA
+Phrynosomatidae,Phrynosoma,Phrynosoma_cerroense,phrynosoma_cerroense,NA,NA,10.1643/CH-15-248,TRUE,8,580,NA
+Phrynosomatidae,Phrynosoma,Phrynosoma_coronatum,phrynosoma_coronatum_uabc1007,NA,NA,10.1643/CH-15-248,TRUE,7,444,NA
+Phrynosomatidae,Phrynosoma,Phrynosoma_ditmarsi,phrynosoma_ditmarsi,NA,NA,10.1643/CH-15-248,TRUE,7,540,NA
+Phrynosomatidae,Phrynosoma,Phrynosoma_douglasii,phrynosoma_douglasi,NA,NA,10.1643/CH-15-248,TRUE,8,550,NA
+Phrynosomatidae,Phrynosoma,Phrynosoma_goodei,phrynosoma_goodei,NA,NA,10.1643/CH-15-248,TRUE,9,579,NA
+Phrynosomatidae,Phrynosoma,Phrynosoma_hernandesi,phrynosoma_hernandesi,NA,NA,10.1643/CH-15-248,TRUE,6,589,NA
+Phrynosomatidae,Phrynosoma,Phrynosoma_modestum,phrynosoma_modestum,NA,NA,10.1643/CH-15-248,TRUE,6,522,NA
+Phrynosomatidae,Phrynosoma,Phrynosoma_orbiculare,phrynosoma_obiculare,NA,NA,10.1643/CH-15-248,TRUE,5,517,NA
+Phrynosomatidae,Phrynosoma,Phrynosoma_taurus,phrynosoma_taurus,NA,NA,10.1643/CH-15-248,TRUE,4,531,NA
+Phrynosomatidae,Sceloporus,Sceloporus_bicanthalis,sceloporus_bicanthalis,NA,NA,10.1643/CH-15-248,TRUE,11,533,NA
+Scincidae,Harrisoniascincus,Harrisoniascincus_zia,ABTC100626,ABTC,NA,newly collected,TRUE,5156,742,SAMN32602812
+Gekkonidae,Nactus,Nactus_kunan,ABTC136604,ABTC,NA,newly collected,TRUE,5117,975,SAMN32602727
+Agamidae,Hypsilurus,Hypsilurus_schoedei,ABTC136665,ABTC,NA,newly collected,TRUE,5224,881,SAMN32602512
+Gekkonidae,Nactus,Nactus_pelagicus,ABTC136842,ABTC,NA,newly collected,TRUE,4863,718,SAMN32602728
+Agamidae,Intellagama,Intellagama_lesueurii,ABTC32057,QM,QMJ81980,newly collected,TRUE,5270,916,SAMN32602513
+Elapidae,Denisonia,Denisonia_devisi,ABTC32067,QM,QMJ67394,newly collected,TRUE,5045,848,SAMN32602675
+Gekkonidae,Lepidodactylus,Lepidodactylus_manni,ABTC32753,ABTC,NA,newly collected,TRUE,5107,948,SAMN32602725
+Diplodactylidae,Nebulifera,Nebulifera_robusta,ABTC3938,ABTC,NA,newly collected,TRUE,5069,902,SAMN32602657
+Gekkonidae,Lepidodactylus,Lepidodactylus_magnus,ABTC50585,ABTC,NA,newly collected,TRUE,5159,794,SAMN32602724
+Carphodactylidae,Phyllurus,Phyllurus_platurus,ABTC51012,SAM,SAMAR34658,newly collected,TRUE,5256,872,SAMN32602549
+Elapidae,Hemiaspis,Hemiaspis_damelii,ABTC6511,ABTC,NA,newly collected,TRUE,4939,771,SAMN32602679
+Gekkonidae,Gehyra,Gehyra_Cysp,ABTC79193,ABTC,NA,newly collected,TRUE,5168,758,SAMN32602709
+Agamidae,Chelosania,Chelosania_brunnea,ABTC80828,ABTC,NA,newly collected,TRUE,3168,395,SAMN32602504
+Agamidae,Hypsilurus,Hypsilurus_auritus,ABTC90139,ABTC,NA,newly collected,TRUE,5207,937,SAMN32602510
+Teiidae,Aspidoscelis,Aspidoscelis_opatae,AMNH_R148254,AMNH,AMNH_R148254,newly collected,TRUE,5218,978,SAMN09221107
+Teiidae,Aspidoscelis,Aspidoscelis_tesselatus,AMNH_R148360,AMNH,AMNH_R148360,newly collected,TRUE,4907,579,SAMN09221108
+Scincidae,Sphenomorphus,Sphenomorphus_cryptotis,AMNH_R153698,AMNH,AMNH_R153698,newly collected,TRUE,5163,1149,SAMN09221109
+Scincidae,Anomalopus,Anomalopus_gowi,AMSR_115249_An_gowi,AMS,AMSR_115249,newly collected,TRUE,5308,829,SAMN32602770
+Scincidae,Glaphyromorphus,Glaphyromorphus_pumilus,AMSR_94572_Gl_pumi,AMS,AMSR_94572,newly collected,TRUE,5247,779,SAMN32602809
+Scincidae,Anomalopus,Anomalopus_swansoni,AMSR_98693_An_swan,AMS,AMSR_98693,newly collected,TRUE,5183,975,SAMN32602772
+Scincidae,Carlia,Carlia_rubrigularis,AMSR111510,AMS,AMSR111510,newly collected,TRUE,4584,645.1173647,SAMN36389995
+Gekkonidae,Gehyra,Gehyra_baliola,AMSR122403,AMS,AMSR122403,newly collected,TRUE,4948,813,SAMN32602708
+Agamidae,Hypsilurus,Hypsilurus_modestus,AMSR122434,AMS,AMSR122434,newly collected,TRUE,4989,687,SAMN32602511
+Agamidae,Lophosaurus,Lophosaurus_dilophus,AMSR122449,AMS,AMSR122449,newly collected,TRUE,5175,719,SAMN32602516
+Agamidae,Hypsilurus,Hypsilurus_magnus,AMSR122474,AMS,AMSR122474,newly collected,TRUE,5261,969,SAMN15718177
+Varanidae,Varanus,Varanus_prasinus,AMSR124774,AMS,AMSR124774,newly collected,TRUE,1845,316,SAMN32602892
+Elapidae,Laticauda,Laticauda_colubrina,AMSR124795,AMS,AMSR124795,newly collected,TRUE,4981,995,SAMN32602684
+Agamidae,Lophosaurus,Lophosaurus_spinipes,AMSR130058,AMS,AMSR130058,newly collected,TRUE,4898,667,SAMN32602517
+Scincidae,Egernia,Egernia_saxatilis,AMSR93467,AMS,AMSR93467,newly collected,TRUE,4968,577,SAMN32602798
+Gekkonidae,Gehyra,Gehyra_membranacruralis,BPBM34745,BPBM,BPBM34745,newly collected,TRUE,5138,775,SAMN32602711
+Colubridae,Oxyrhopus,Oxyrhopus_occipitalis,BPN3573,USNM,USNM588870,newly collected,TRUE,4953,870,SAMN09221209
+Colubridae,Philothamnus,Philothamnus_macrops,CAS_168833,CAS,CAS_168833,newly collected,TRUE,4970,723,SAMN09221110
+Colubridae,Philothamnus,Philothamnus_battersbyi,CAS_168967,CAS,CAS_168967,newly collected,TRUE,5072,909,SAMN09221111
+Colubridae,Dipsadoboa,Dipsadoboa_duchesnii,CAS_197901,CAS,CAS_197901,newly collected,TRUE,1343,363,SAMN09221112
+Colubridae,Boiga,Boiga_ochracea,CAS_205002,CAS,CAS_205002,newly collected,TRUE,4908,769,SAMN09221114
+Scincidae,Lygosoma,Lygosoma_anguinum,CAS_206645,CAS,CAS_206645,newly collected,TRUE,5193,971,SAMN09221115
+Varanidae,Varanus,Varanus_niloticus,CAS_207622,CAS,CAS_207622,newly collected,TRUE,5205,960,SAMN09221116
+Colubridae,Dendrelaphis,Dendrelaphis_walli,CAS_208429,CAS,CAS_208429,newly collected,TRUE,5005,1031,SAMN09221117
+Gekkonidae,Hemidactylus,Hemidactylus_aquilonius,CAS_208455,CAS,CAS_208455,newly collected,TRUE,5240,841,SAMN09221119
+Colubridae,Boiga,Boiga_cyanea,CAS_210222,CAS,CAS_210222,newly collected,TRUE,5079,1018,SAMN09221120
+Scincidae,Lygosoma,Lygosoma_popae,CAS_210503,CAS,CAS_210503,newly collected,TRUE,5231,866,SAMN09221121
+Elapidae,Bungarus,Bungarus_magnimaculatus,CAS_210526,CAS,CAS_210526,newly collected,TRUE,5097,954,SAMN09221122
+Gekkonidae,Hemidactylus,Hemidactylus_thayene,CAS_213320,CAS,CAS_213320,newly collected,TRUE,5157,791,SAMN09221123
+Scincidae,Scincella,Scincella_melanosticta,CAS_213330,CAS,CAS_213330,newly collected,TRUE,5196,1072,SAMN09221124
+Colubridae,Dendrelaphis,Dendrelaphis_subocularis,CAS_214028,CAS,CAS_214028,newly collected,TRUE,4963,1152,SAMN09221125
+Gekkonidae,Lygodactylus,Lygodactylus_picturatus,CAS_214833,CAS,CAS_214833,newly collected,TRUE,5224,861,SAMN09221127
+Colubridae,Ptyas,Ptyas_nigromarginata,CAS_215105,CAS,CAS_215105,newly collected,TRUE,4918,1076,SAMN09221128
+Colubridae,Boiga,Boiga_siamensis,CAS_215635,CAS,CAS_215635,newly collected,TRUE,4898,895,SAMN09221129
+Colubridae,Oligodon,Oligodon_albocinctus,CAS_216636,CAS,CAS_216636,newly collected,TRUE,4981,1019,SAMN09221130
+Gekkonidae,Hemidactylus,Hemidactylus_principensis,CAS_219198,CAS,CAS_219198,newly collected,TRUE,5169,907,SAMN09221131
+Agamidae,Cristidorsa,Cristidorsa_planidorsata,CAS_219935,CAS,CAS_219935,newly collected,TRUE,5170,930,SAMN09221132
+Colubridae,Hebius,Hebius_xenura,CAS_220256,CAS,CAS_220256,newly collected,TRUE,4997,1023,SAMN09221133
+Scincidae,Scincella,Scincella_victoriana,CAS_220628,CAS,CAS_220628,newly collected,TRUE,5270,862,SAMN09221134
+Colubridae,Oligodon,Oligodon_mcdougalli,CAS_221086,CAS,CAS_221086,newly collected,TRUE,4928,1069,SAMN09221135
+Colubridae,Dendrelaphis,Dendrelaphis_cyanochloris,CAS_221428,CAS,CAS_221428,newly collected,TRUE,5080,938,SAMN09221136
+Colubridae,Boiga,Boiga_quincunciata,CAS_221434,CAS,CAS_221434,newly collected,TRUE,5062,903,SAMN09221137
+Scincidae,Scincella,Scincella_punctatolineata,CAS_221870,CAS,CAS_221870,newly collected,TRUE,5198,948,SAMN09221138
+Colubridae,Xenochrophis,Xenochrophis_bellulus,CAS_222087,CAS,CAS_222087,newly collected,TRUE,4976,959,SAMN09221139
+Elapidae,Aspidelaps,Aspidelaps_lubricus,CAS_223956,CAS,CAS_223956,newly collected,TRUE,5100,925,SAMN09221140
+Leptotyphlopidae,Namibiana,Namibiana_labialis,CAS_223962,CAS,CAS_223962,newly collected,TRUE,4842,789,SAMN09221141
+Typhlopidae,Rhinotyphlops,Rhinotyphlops_lalandei,CAS_223976,CAS,CAS_223976,newly collected,TRUE,4837,758,SAMN09221142
+Agamidae,Pseudotrapelus,Pseudotrapelus_jensvindumi,CAS_225340,CAS,CAS_225340,newly collected,TRUE,5173,994,SAMN09221144
+Colubridae,Liopeltis,Liopeltis_frenata,CAS_225548,CAS,CAS_225548,newly collected,TRUE,5027,1136,SAMN09221145
+Agamidae,Agama,Agama_lanzai,CAS_227496,CAS,CAS_227496,newly collected,TRUE,5207,870,SAMN09221146
+Agamidae,Pseudotrapelus,Pseudotrapelus_dhofarensis,CAS_227583,CAS,CAS_227583,newly collected,TRUE,5198,953,SAMN09221147
+Lacertidae,Eremias,Eremias_kavirensis,CAS_228522,CAS,CAS_228522,newly collected,TRUE,5062,572,SAMN09221148
+Colubridae,Lytorhynchus,Lytorhynchus_ridgewayi,CAS_228566,CAS,CAS_228566,newly collected,TRUE,5083,844,SAMN09221149
+Colubridae,Rhynchocalamus,Rhynchocalamus_satunini,CAS_228723,CAS,CAS_228723,newly collected,TRUE,5065,998,SAMN09221150
+Scincidae,Ablepharus,Ablepharus_pannonicus,CAS_228724,CAS,CAS_228724,newly collected,TRUE,5197,810,SAMN09221151
+Lacertidae,Eremias,Eremias_lineolata,CAS_228805,CAS,CAS_228805,newly collected,TRUE,5172,688,SAMN09221152
+Homalopsidae,Homalopsis,Homalopsis_semizonata,CAS_229655,CAS,CAS_229655,newly collected,TRUE,5016,885,SAMN09221153
+Gekkonidae,Cyrtodactylus,Cyrtodactylus_brevipalmatus,CAS_229794,CAS,CAS_229794,newly collected,TRUE,5064,857,SAMN09221155
+Lamprophiidae,Psammophis,Psammophis_leithii,CAS_232085,CAS,CAS_232085,newly collected,TRUE,5049,970,SAMN09221156
+Agamidae,Phrynocephalus,Phrynocephalus_luteoguttatus,CAS_232112,CAS,CAS_232112,newly collected,TRUE,5204,879,SAMN09221157
+Agamidae,Laudakia,Laudakia_agrorensis,CAS_232150,CAS,CAS_232150,newly collected,TRUE,5151,880,SAMN09221158
+Colubridae,Oligodon,Oligodon_dorsalis,CAS_233295,CAS,CAS_233295,newly collected,TRUE,5050,915,SAMN09221159
+Anniellidae,Anniella,Anniella_alexanderae,CAS_233823,CAS,CAS_233823,newly collected,TRUE,5211,1009,SAMN09221160
+Anniellidae,Anniella,Anniella_grinnelli,CAS_234252,CAS,CAS_234252,newly collected,TRUE,5203,962,SAMN09221162
+Scincidae,Lipinia,Lipinia_leptosoma,CAS_236743,CAS,CAS_236743,newly collected,TRUE,5212,1032,SAMN09221164
+Colubridae,Lycodon,Lycodon_gongshan,CAS_241963,CAS,CAS_241963,newly collected,TRUE,4966,1055,SAMN09221165
+Agamidae,Pseudocalotes,Pseudocalotes_kingdonwardi,CAS_241965,CAS,CAS_241965,newly collected,TRUE,5183,1039,SAMN09221166
+Agamidae,Diploderma,Diploderma_yunnanense,CAS_242183,CAS,CAS_242183,newly collected,TRUE,5200,1011,SAMN09221167
+Colubridae,Erythrolamprus,Erythrolamprus_ocellatus,CAS_245326,CAS,CAS_245326,newly collected,TRUE,4889,736,SAMN09221168
+Colubridae,Dendrelaphis,Dendrelaphis_striatus,CAS_247462,CAS,CAS_247462,newly collected,TRUE,5026,919,SAMN09221170
+Colubridae,Boiga,Boiga_drapiezii,CAS_247770,CAS,CAS_247770,newly collected,TRUE,5054,946,SAMN09221171
+Colubridae,Dendrelaphis,Dendrelaphis_formosus,CAS_247798,CAS,CAS_247798,newly collected,TRUE,4962,853,SAMN09221172
+Lamprophiidae,Xenocalamus,Xenocalamus_bicolor,CAS_248601,CAS,CAS_248601,newly collected,TRUE,5056,989,SAMN09221173
+Typhlopidae,Afrotyphlops,Afrotyphlops_bibronii,CAS_248605,CAS,CAS_248605,newly collected,TRUE,4930,858,SAMN09221174
+Elapidae,Dendroaspis,Dendroaspis_jamesoni,CAS_253289,CAS,CAS_253289,newly collected,TRUE,5076,967,SAMN09221175
+Colubridae,Natriciteres,Natriciteres_fuliginoides,CAS_253490,CAS,CAS_253490,newly collected,TRUE,4893,1210,SAMN09221176
+Gekkonidae,Hemidactylus,Hemidactylus_muriceus,CAS_254518,CAS,CAS_254518,newly collected,TRUE,5188,857,SAMN09221177
+Colubridae,Dipsadoboa,Dipsadoboa_underwoodi,CAS_254592,CAS,CAS_254592,newly collected,TRUE,5071,903,SAMN09221178
+Elapidae,Parasuta,Parasuta_gouldii,CAS_254647,CAS,CAS_254647,newly collected,TRUE,5043,1027,SAMN09221179
+Homalopsidae,Gerarda,Gerarda_prevostiana,CAS204972,CAS,CAS204972,newly collected,TRUE,5022,1081,SAMN09221113
+Colubridae,Ptyas,Ptyas_mucosa,CAS208434,CAS,CAS208434,newly collected,TRUE,5065,1114,SAMN09221118
+Colubridae,Sibynophis,Sibynophis_bistrigatus,CAS214081,CAS,CAS214081,newly collected,TRUE,5044,1123,SAMN09221126
+Colubridae,Sinonatrix,Sinonatrix_yunnanensis,CAS224485,CAS,CAS224485,newly collected,TRUE,5025,1066,SAMN09221143
+Colubridae,Calamaria,Calamaria_pavimentata,CAS235364,CAS,CAS235364,newly collected,TRUE,4920,1174,SAMN09221163
+Colubridae,Pseudoxenodon,Pseudoxenodon_macrops,CAS245413,CAS,CAS245413,newly collected,TRUE,5038,1217,SAMN09221169
+Scincidae,Lampropholis,Lampropholis_mirabilis,CCM008,,NA,newly collected,TRUE,5142,935,SAMN32602815
+Scincidae,Cryptoblepharus,Cryptoblepharus_metallicus,CCM0391,,NA,newly collected,TRUE,5216,756,SAMN32602790
+Scincidae,Cryptoblepharus,Cryptoblepharus_juno,CCM0667,,NA,newly collected,TRUE,5196,796,SAMN32602789
+Gekkonidae,Gehyra,Gehyra_xenopus,CCM1723,,NA,newly collected,TRUE,5218,866,SAMN32602717
+Gekkonidae,Heteronotia,Heteronotia_planiceps,CCM1823,,NA,newly collected,TRUE,5239,851,SAMN32602721
+Gekkonidae,Gehyra,Gehyra_nana,CCM1826,,NA,newly collected,TRUE,5159,844,SAMN32602713
+Scincidae,Proablepharus,Proablepharus_tenuis,CCM2474,,NA,newly collected,TRUE,5210,917,SAMN32602840
+Scincidae,Cryptoblepharus,Cryptoblepharus_zoticus,CCM2605,,NA,newly collected,TRUE,5217,844,SAMN32602792
+Diplodactylidae,Crenadactylus,Crenadactylus_naso,CCM3302,,NA,newly collected,TRUE,5071,895,SAMN32602652
+Diplodactylidae,Oedura,Oedura_luritja,CCM5974,,NA,newly collected,TRUE,5210,888,SAMN32602658
+Scincidae,Carlia,Carlia_amax,CCM6582,,NA,newly collected,TRUE,5183,953.9673934,SAMN36389996
+Tropiduridae,Tropidurus,Tropidurus_montanus,CHUNB06741,CHUNB,CHUNB06741,newly collected,TRUE,3871,388,SAMN32602876
+Scincidae,Varzea,Varzea_bistriata,CHUNB09350,CHUNB,CHUNB09350,newly collected,TRUE,5160,935,SAMN23818194
+Scincidae,Manciola,Manciola_guaporicola,CHUNB10472,CHUNB,CHUNB10472,newly collected,TRUE,5168,1093,SAMN23818169
+Polychrotidae,Polychrus,Polychrus_acutirostris,CHUNB11470,CHUNB,CHUNB11470,newly collected,FALSE,5254,996,SAMN15718129
+Gymnophthalmidae,Cercosaura,Cercosaura_eigenmanni,CHUNB18028,CHUNB,CHUNB18028,newly collected,TRUE,5068,836,SAMN23818054
+Tropiduridae,Stenocercus,Stenocercus_sinesaccus,CHUNB18049,CHUNB,CHUNB18049,newly collected,TRUE,5276,1071,SAMN32602872
+Alopoglossidae,Alopoglossus,Alopoglossus_angulatus,CHUNB18599,CHUNB,CHUNB18599,newly collected,FALSE,5005,719,SAMN15718124
+Sphaerodactylidae,Gonatodes,Gonatodes_humeralis,CHUNB22726,CHUNB,CHUNB22726,newly collected,TRUE,5266,749,SAMN23818115
+Diploglossidae,Ophiodes,Ophiodes_striatus,CHUNB26103,CHUNB,CHUNB26103,newly collected,TRUE,5212,875,SAMN32602663
+Amphisbaenidae,Amphisbaena,Amphisbaena_kraoh,CHUNB30676,CHUNB,CHUNB30676,newly collected,TRUE,5088,1073,SAMN32602528
+Tropiduridae,Tropidurus,Tropidurus_insulanus,CHUNB30749,CHUNB,CHUNB30749,newly collected,TRUE,5296,827,SAMN23818323
+Teiidae,Kentropyx,Kentropyx_striata,CHUNB30831,CHUNB,CHUNB30831,newly collected,TRUE,5181,927,SAMN32602866
+Colubridae,Apostolepis,Apostolepis_polylepis,CHUNB32061,CHUNB,CHUNB32061,newly collected,TRUE,3540,627,SAMN09221185
+Colubridae,Oxyrhopus,Oxyrhopus_trigeminus,CHUNB32133,CHUNB,CHUNB32133,newly collected,TRUE,4846,920,SAMN06705320
+Tropiduridae,Plica,Plica_umbra,CHUNB32324,CHUNB,CHUNB32324,newly collected,TRUE,5265,1032,SAMN23818255
+Gymnophthalmidae,Tretioscincus,Tretioscincus_oriximinensis,CHUNB32340,CHUNB,CHUNB32340,newly collected,TRUE,5058,944,SAMN32602738
+Scincidae,Aspronema,Aspronema_dorsivittatum,CHUNB36266,CHUNB,CHUNB36266,newly collected,TRUE,5183,1112,SAMN32602773
+Colubridae,Lygophis,Lygophis_dilepis,CHUNB36556,CHUNB,CHUNB36556,newly collected,TRUE,4930,896,SAMN09221186
+Tropiduridae,Stenocercus,Stenocercus_dumerilii,CHUNB37268,CHUNB,CHUNB37268,newly collected,TRUE,5180,693,SAMN32602870
+Gymnophthalmidae,Vanzosaura,Vanzosaura_rubricauda,CHUNB37303,CHUNB,CHUNB37303,newly collected,TRUE,5082,872,SAMN23818329
+Tropiduridae,Uranoscodon,Uranoscodon_superciliosus,CHUNB37546,CHUNB,CHUNB37546,newly collected,TRUE,5295,923,SAMN15718132
+Amphisbaenidae,Amphisbaena,Amphisbaena_talisiae,CHUNB38468,CHUNB,CHUNB38468,newly collected,TRUE,4995,611,SAMN32602532
+Gymnophthalmidae,Potamites,Potamites_ecpleopus,CHUNB38613,CHUNB,CHUNB38613,newly collected,TRUE,5012,932,SAMN32602736
+Tropiduridae,Plica,Plica_plica,CHUNB38615,CHUNB,CHUNB38615,newly collected,TRUE,5205,799,SAMN32602868
+Colubridae,Helicops,Helicops_modestus,CHUNB38641,CHUNB,CHUNB38641,newly collected,TRUE,5008,934,SAMN23818140
+Amphisbaenidae,Amphisbaena,Amphisbaena_anaemariae,CHUNB38647,CHUNB,CHUNB38647,newly collected,TRUE,5126,765,SAMN32602520
+Colubridae,Hydrodynastes,Hydrodynastes_bicinctus,CHUNB38982,CHUNB,CHUNB38982,newly collected,TRUE,5010,970,SAMN32602593
+Gymnophthalmidae,Bachia,Bachia_flavescens,CHUNB40056,CHUNB,CHUNB40056,newly collected,TRUE,5098,785,SAMN32602731
+Gekkonidae,Hemidactylus,Hemidactylus_mabouia,CHUNB40063,CHUNB,CHUNB40063,newly collected,TRUE,5145,1076,SAMN23818143
+Typhlopidae,Amerotyphlops,Amerotyphlops_reticulatus,CHUNB40084,CHUNB,CHUNB40084,newly collected,TRUE,4926,888,SAMN23818006
+Colubridae,Dendrophidion,Dendrophidion_dendrophis,CHUNB40088,CHUNB,CHUNB40088,newly collected,TRUE,5047,1036,SAMN32602574
+Colubridae,Dipsas,Dipsas_catesbyi,CHUNB40089,CHUNB,CHUNB40089,newly collected,TRUE,5013,900,SAMN32602576
+Colubridae,Drepanoides,Drepanoides_anomalus,CHUNB40090,CHUNB,CHUNB40090,newly collected,TRUE,5043,888,SAMN32602579
+Colubridae,Chironius,Chironius_flavolineatus,CHUNB40091,CHUNB,CHUNB40091,newly collected,TRUE,5064,987,SAMN23818077
+Colubridae,Leptophis,Leptophis_ahaetulla,CHUNB40092,CHUNB,CHUNB40092,newly collected,TRUE,5041,1045,SAMN32602597
+Scincidae,Brasiliscincus,Brasiliscincus_agilis,CHUNB40588,CHUNB,CHUNB40588,newly collected,TRUE,5207,1047,SAMN23818047
+Colubridae,Thamnodynastes,Thamnodynastes_rutilus,CHUNB40670,CHUNB,CHUNB40670,newly collected,TRUE,4986,946,SAMN32602636
+Gekkonidae,Hemidactylus,Hemidactylus_brasilianus,CHUNB41095,CHUNB,CHUNB41095,newly collected,TRUE,5072,937,SAMN32602719
+Typhlopidae,Amerotyphlops,Amerotyphlops_brongersmianus,CHUNB41099,CHUNB,CHUNB41099,newly collected,TRUE,4948,941,SAMN32602880
+Colubridae,Erythrolamprus,Erythrolamprus_breviceps,CHUNB41104,CHUNB,CHUNB41104,newly collected,TRUE,4973,868,SAMN09221191
+Colubridae,Mussurana,Mussurana_quimi,CHUNB41755,CHUNB,CHUNB41755,newly collected,TRUE,4911,803,SAMN32602605
+Colubridae,Spilotes,Spilotes_pullatus,CHUNB44202,CHUNB,CHUNB44202,newly collected,TRUE,4447,516,SAMN23818283
+Gekkonidae,Lygodactylus,Lygodactylus_wetzeli,CHUNB44780,CHUNB,CHUNB44780,newly collected,TRUE,5035,696,SAMN09221193
+Leptotyphlopidae,Siagonodon,Siagonodon_septemstriatus,CHUNB45354,CHUNB,CHUNB45354,newly collected,TRUE,5031,902,SAMN32602748
+Boidae,Corallus,Corallus_hortulana,CHUNB45362,CHUNB,CHUNB45362,newly collected,TRUE,2949,432,SAMN06705322
+Colubridae,Helicops,Helicops_trivittatus,CHUNB45364,CHUNB,CHUNB45364,newly collected,TRUE,4978,876,SAMN09221195
+Colubridae,Oxyrhopus,Oxyrhopus_guibei,CHUNB45390,CHUNB,CHUNB45390,newly collected,TRUE,5011,933,SAMN23818206
+Leptotyphlopidae,Trilepida,Trilepida_dimidiata,CHUNB46211,CHUNB,CHUNB46211,newly collected,TRUE,4957,909,SAMN23818313
+Dactyloidae,Anolis,Anolis_punctatus,CHUNB47014,CHUNB,CHUNB47014,newly collected,TRUE,5159,683,SAMN15718123
+Colubridae,Philodryas,Philodryas_argentea,CHUNB47072,CHUNB,CHUNB47072,newly collected,TRUE,4142,488,SAMN32602617
+Elapidae,Micrurus,Micrurus_hemprichii,CHUNB47077,CHUNB,CHUNB47077,newly collected,TRUE,5004,695,SAMN32602687
+Colubridae,Rhinobothryum,Rhinobothryum_lentiginosum,CHUNB47086,CHUNB,CHUNB47086,newly collected,TRUE,487,283,SAMN32602626
+Viperidae,Bothrops,Bothrops_itapetiningae,CHUNB49450,CHUNB,CHUNB49450,newly collected,TRUE,5019,924,SAMN32602900
+Amphisbaenidae,Leposternon,Leposternon_microcephalum,CHUNB49451,CHUNB,CHUNB49451,newly collected,TRUE,5096,896,SAMN32602535
+Colubridae,Simophis,Simophis_rhinostoma,CHUNB50247,CHUNB,CHUNB50247,newly collected,TRUE,5019,910,SAMN09221196
+Colubridae,Apostolepis,Apostolepis_flavotorquata,CHUNB50311,CHUNB,CHUNB50311,newly collected,TRUE,4786,740,SAMN32602553
+Phyllodactylidae,Phyllopezus,Phyllopezus_lutzae,CHUNB50461,CHUNB,CHUNB50461,newly collected,TRUE,5022,765,SAMN32602749
+Gymnophthalmidae,Cercosaura,Cercosaura_schreibersii,CHUNB50667,CHUNB,CHUNB50667,newly collected,TRUE,5066,787,SAMN23818067
+Colubridae,Chironius,Chironius_laurenti,CHUNB50782,CHUNB,CHUNB50782,newly collected,TRUE,5019,868,SAMN32602564
+Colubridae,Philodryas,Philodryas_aestiva,CHUNB50793,CHUNB,CHUNB50793,newly collected,TRUE,5022,960,SAMN32602615
+Colubridae,Phalotris,Phalotris_nasutus,CHUNB50862,CHUNB,CHUNB50862,newly collected,TRUE,5020,978,SAMN32602614
+Colubridae,Boiruna,Boiruna_sertaneja,CHUNB51135,CHUNB,CHUNB51135,newly collected,TRUE,5005,960,SAMN09221197
+Teiidae,Ameiva,Ameiva_ameiva,CHUNB51185,CHUNB,CHUNB51185,newly collected,TRUE,5156,1052,SAMN06705323
+Tropiduridae,Stenocercus,Stenocercus_quinarius,CHUNB51317,CHUNB,CHUNB51317,newly collected,TRUE,5287,861,SAMN09221198
+Colubridae,Apostolepis,Apostolepis_albicollaris,CHUNB51429,CHUNB,CHUNB51429,newly collected,TRUE,4962,956,SAMN32602551
+Colubridae,Erythrolamprus,Erythrolamprus_aesculapii,CHUNB51438,CHUNB,CHUNB51438,newly collected,TRUE,4978,874,SAMN32602582
+Teiidae,Kentropyx,Kentropyx_calcarata,CHUNB51969,CHUNB,CHUNB51969,newly collected,TRUE,5159,1145,SAMN06705324
+Dactyloidae,Anolis,Anolis_brasiliensis,CHUNB51972,CHUNB,CHUNB51972,newly collected,TRUE,5256,1123,SAMN06705325
+Scincidae,Copeoglossum,Copeoglossum_nigropunctatum,CHUNB51999,CHUNB,CHUNB51999,newly collected,TRUE,5229,1011,SAMN06705327
+Phyllodactylidae,Gymnodactylus,Gymnodactylus_amarali,CHUNB52007,CHUNB,CHUNB52007,newly collected,TRUE,5197,931,SAMN06705328
+Tropiduridae,Tropidurus,Tropidurus_oreadicus,CHUNB52022,CHUNB,CHUNB52022,newly collected,TRUE,5249,1023,SAMN06705329
+Colubridae,Erythrolamprus,Erythrolamprus_almadensis,CHUNB52056,CHUNB,CHUNB52056,newly collected,TRUE,4115,636,SAMN06705330
+Colubridae,Apostolepis,Apostolepis_cearensis,CHUNB52060,CHUNB,CHUNB52060,newly collected,TRUE,3818,662,SAMN06705332
+Anomalepididae,Liotyphlops,Liotyphlops_ternetzii,CHUNB52063,CHUNB,CHUNB52063,newly collected,FALSE,4939,1126,SAMN06705333
+Leptotyphlopidae,Trilepida,Trilepida_brasiliensis,CHUNB52064,CHUNB,CHUNB52064,newly collected,TRUE,4600,673,SAMN06705334
+Colubridae,Rodriguesophis,Rodriguesophis_iglesiasi,CHUNB52066,CHUNB,CHUNB52066,newly collected,TRUE,5016,795,SAMN23818275
+Colubridae,Psomophis,Psomophis_joberti,CHUNB52071,CHUNB,CHUNB52071,newly collected,TRUE,4861,998,SAMN06705336
+Colubridae,Dipsas,Dipsas_mikanii,CHUNB52075,CHUNB,CHUNB52075,newly collected,TRUE,4792,860,SAMN06705338
+Gymnophthalmidae,Micrablepharus,Micrablepharus_maximiliani,CHUNB52077,CHUNB,CHUNB52077,newly collected,TRUE,5080,1086,SAMN06705339
+Colubridae,Philodryas,Philodryas_olfersii,CHUNB52116,CHUNB,CHUNB52116,newly collected,TRUE,4970,929,SAMN06705340
+Colubridae,Tantilla,Tantilla_melanocephala,CHUNB52118,CHUNB,CHUNB52118,newly collected,TRUE,4916,1007.473963,SAMN06705341
+Viperidae,Bothrops,Bothrops_lutzi,CHUNB52123,CHUNB,CHUNB52123,newly collected,TRUE,4609,753,SAMN06705345
+Viperidae,Bothrops,Bothrops_pauloensis,CHUNB52124,CHUNB,CHUNB52124,newly collected,TRUE,4836,917,SAMN06705346
+Colubridae,Pseudoboa,Pseudoboa_neuwiedii,CHUNB52134,CHUNB,CHUNB52134,newly collected,TRUE,4727,749,SAMN06705347
+Elapidae,Micrurus,Micrurus_brasiliensis,CHUNB52143,CHUNB,CHUNB52143,newly collected,TRUE,4330,654,SAMN06705348
+Colubridae,Xenodon,Xenodon_merremii,CHUNB52144,CHUNB,CHUNB52144,newly collected,TRUE,4792,1014,SAMN06705349
+Amphisbaenidae,Amphisbaena,Amphisbaena_alba,CHUNB52145,CHUNB,CHUNB52145,newly collected,TRUE,5143,892,SAMN06705350
+Colubridae,Pseudoboa,Pseudoboa_nigra,CHUNB52149,CHUNB,CHUNB52149,newly collected,TRUE,4681,739,SAMN06705352
+Colubridae,Phimophis,Phimophis_guerini,CHUNB52151,CHUNB,CHUNB52151,newly collected,TRUE,4834,1034,SAMN06705354
+Colubridae,Philodryas,Philodryas_nattereri,CHUNB52154,CHUNB,CHUNB52154,newly collected,TRUE,4913,902,SAMN06705355
+Teiidae,Ameivula,Ameivula_mumbuca,CHUNB52160,CHUNB,CHUNB52160,newly collected,TRUE,5164,1029,SAMN06705357
+Teiidae,Kentropyx,Kentropyx_paulensis,CHUNB52366,CHUNB,CHUNB52366,newly collected,TRUE,5159,927,SAMN32602864
+Viperidae,Bothrops,Bothrops_matogrossensis,CHUNB52373,CHUNB,CHUNB52373,newly collected,TRUE,5040,928,SAMN32602902
+Amphisbaenidae,Amphisbaena,Amphisbaena_bedai,CHUNB52389,CHUNB,CHUNB52389,newly collected,TRUE,5105,951,SAMN32602522
+Viperidae,Bothrops,Bothrops_neuwiedi,CHUNB52395,CHUNB,CHUNB52395,newly collected,TRUE,5002,915,SAMN32602903
+Colubridae,Philodryas,Philodryas_agassizii,CHUNB52406,CHUNB,CHUNB52406,newly collected,TRUE,5044,886,SAMN32602616
+Colubridae,Oxybelis,Oxybelis_aeneus,CHUNB52413,CHUNB,CHUNB52413,newly collected,TRUE,5050,884,SAMN23818199
+Colubridae,Pseudoeryx,Pseudoeryx_plicatilis,CHUNB53039,CHUNB,CHUNB53039,newly collected,TRUE,4955,895,SAMN32602623
+Teiidae,Cnemidophorus,Cnemidophorus_murinus,CHUNB53309,CHUNB,CHUNB53309,newly collected,TRUE,307,1542,SAMN09221200
+Viperidae,Bothrops,Bothrops_marmoratus,CHUNB53313,CHUNB,CHUNB53313,newly collected,TRUE,5042,917,SAMN32602901
+Tropiduridae,Tropidurus,Tropidurus_semitaeniatus,CHUNB56551,CHUNB,CHUNB56551,newly collected,TRUE,5244,747,SAMN32602878
+Gekkonidae,Lygodactylus,Lygodactylus_klugei,CHUNB56575,CHUNB,CHUNB56575,newly collected,TRUE,5145,806,SAMN15718120
+Phyllodactylidae,Phyllopezus,Phyllopezus_periosus,CHUNB56581,CHUNB,CHUNB56581,newly collected,TRUE,5175,982,SAMN15718121
+Phyllodactylidae,Gymnodactylus,Gymnodactylus_darwinii,CHUNB56644,CHUNB,CHUNB56644,newly collected,TRUE,5103,1054,SAMN23818122
+Phyllodactylidae,Gymnodactylus,Gymnodactylus_geckoides,CHUNB56697,CHUNB,CHUNB56697,newly collected,TRUE,5174,951,SAMN23818124
+Gymnophthalmidae,Dryadosaura,Dryadosaura_nordestina,CHUNB56711,CHUNB,CHUNB56711,newly collected,TRUE,5123,784,SAMN32602734
+Colubridae,Siphlophis,Siphlophis_compressus,CHUNB56716,CHUNB,CHUNB56716,newly collected,TRUE,5014,855,SAMN32602628
+Gymnophthalmidae,Loxopholis,Loxopholis_osvaldoi,CHUNB56842,CHUNB,CHUNB56842,newly collected,TRUE,4185,545,SAMN15718125
+Colubridae,Philodryas,Philodryas_patagoniensis,CHUNB56862,CHUNB,CHUNB56862,newly collected,TRUE,5047,795,SAMN32602618
+Amphisbaenidae,Amphisbaena,Amphisbaena_arenaria,CHUNB56884,CHUNB,CHUNB56884,newly collected,TRUE,5143,879,SAMN32602521
+Colubridae,Oxyrhopus,Oxyrhopus_rhombifer,CHUNB56895,CHUNB,CHUNB56895,newly collected,TRUE,5014,862,SAMN23818228
+Gymnophthalmidae,Neusticurus,Neusticurus_bicarinatus,CHUNB57190,CHUNB,CHUNB57190,newly collected,TRUE,5081,882,SAMN32602735
+Amphisbaenidae,Amphisbaena,Amphisbaena_vermicularis,CHUNB57520,CHUNB,CHUNB57520,newly collected,TRUE,5059,1061,SAMN32602533
+Dactyloidae,Anolis,Anolis_ortonii,CHUNB58069,CHUNB,CHUNB58069,newly collected,TRUE,5245,800,SAMN32602648
+Tropiduridae,Tropidurus,Tropidurus_psammonastes,CHUNB58290,CHUNB,CHUNB58290,newly collected,TRUE,5294,886,SAMN32602877
+Gymnophthalmidae,Procellosaurinus,Procellosaurinus_erythrocercus,CHUNB58334,CHUNB,CHUNB58334,newly collected,TRUE,4908,697,SAMN32602737
+Sphaerodactylidae,Coleodactylus,Coleodactylus_brachystoma,CHUNB58532,CHUNB,CHUNB58532,newly collected,TRUE,5090,933,SAMN32602856
+Tropiduridae,Stenocercus,Stenocercus_caducus,CHUNB58542,CHUNB,CHUNB58542,newly collected,TRUE,5286,1016,SAMN32602869
+Tropiduridae,Tropidurus,Tropidurus_etheridgei,CHUNB58570,CHUNB,CHUNB58570,newly collected,TRUE,5194,928,SAMN32602873
+Colubridae,Palusophis,Palusophis_bifossatus,CHUNB59040,CHUNB,CHUNB59040,newly collected,TRUE,5064,952,SAMN32602611
+Colubridae,Thamnodynastes,Thamnodynastes_hypoconia,CHUNB61133,CHUNB,CHUNB61133,newly collected,TRUE,5004,884,SAMN23818305
+Gekkonidae,Hemidactylus,Hemidactylus_agrius,CHUNB61939,CHUNB,CHUNB61939,newly collected,TRUE,5120,696,SAMN32602718
+Leiosauridae,Enyalius,Enyalius_capetinga,CHUNB62191,CHUNB,CHUNB62191,newly collected,TRUE,5295,878,SAMN15718128
+Tropiduridae,Stenocercus,Stenocercus_squarrosus,CHUNB62385,CHUNB,CHUNB62385,newly collected,TRUE,5261,1125,SAMN15718131
+Colubridae,Apostolepis,Apostolepis_ammodites,CHUNB62399,CHUNB,CHUNB62399,newly collected,TRUE,5055,854,SAMN23818035
+Leptotyphlopidae,Trilepida,Trilepida_koppesi,CHUNB62461,CHUNB,CHUNB62461,newly collected,TRUE,4967,1052,SAMN23818317
+Colubridae,Atractus,Atractus_pantostictus,CHUNB62578,CHUNB,CHUNB62578,newly collected,TRUE,4599,541,SAMN32602557
+Colubridae,Philodryas,Philodryas_psammophidea,CHUNB63649,CHUNB,CHUNB63649,newly collected,TRUE,4988,800,SAMN32602619
+Phyllodactylidae,Phyllopezus,Phyllopezus_pollicaris,CHUNB64617,CHUNB,CHUNB64617,newly collected,TRUE,5203,953,SAMN23818252
+Scincidae,Copeoglossum,Copeoglossum_arajara,CHUNB64621,CHUNB,CHUNB64621,newly collected,TRUE,5135,1214,SAMN23818088
+Elapidae,Micrurus,Micrurus_ibiboboca,CHUNB64752,CHUNB,CHUNB64752,newly collected,TRUE,5008,1017,SAMN32602688
+Colubridae,Clelia,Clelia_plumbea,CHUNB64757,CHUNB,CHUNB64757,newly collected,TRUE,4997,986,SAMN32602567
+Colubridae,Psomophis,Psomophis_genimaculatus,CHUNB65027,CHUNB,CHUNB65027,newly collected,TRUE,4728,686,SAMN32602624
+Colubridae,Xenodon,Xenodon_rabdocephalus,CHUNB68346,CHUNB,CHUNB68346,newly collected,TRUE,5002,922,SAMN32602643
+Colubridae,Mastigodryas,Mastigodryas_boddaerti,CHUNB68915,CHUNB,CHUNB68915,newly collected,TRUE,5080,949,SAMN23818175
+Colubridae,Chironius,Chironius_fuscus,CHUNB68954,CHUNB,CHUNB68954,newly collected,TRUE,5061,990,SAMN23818083
+Polychrotidae,Polychrus,Polychrus_liogaster,CHUNB68997,CHUNB,CHUNB68997,newly collected,FALSE,5234,1151,SAMN15718130
+Colubridae,Apostolepis,Apostolepis_assimilis,CHUNB69387,CHUNB,CHUNB69387,newly collected,TRUE,4972,1032,SAMN32602552
+Tropiduridae,Tropidurus,Tropidurus_hygomi,CHUNB69413,CHUNB,CHUNB69413,newly collected,TRUE,5289,933,SAMN32602875
+Tropiduridae,Tropidurus,Tropidurus_torquatus,CHUNB69423,CHUNB,CHUNB69423,newly collected,TRUE,5292,886,SAMN32602879
+Colubridae,Erythrolamprus,Erythrolamprus_mossoroensis,CHUNB69462,CHUNB,CHUNB69462,newly collected,TRUE,4959,933,SAMN32602584
+Colubridae,Helicops,Helicops_carinicaudus,CHUNB71348,CHUNB,CHUNB71348,newly collected,TRUE,5031,949,SAMN32602589
+Viperidae,Bothrops,Bothrops_moojeni,CHUNB71688,CHUNB,CHUNB71688,newly collected,TRUE,5049,888,SAMN15718137
+Colubridae,Xenopholis,Xenopholis_undulatus,CHUNB71690,CHUNB,CHUNB71690,newly collected,TRUE,4992,777,SAMN32602645
+Colubridae,Spilotes,Spilotes_sulphureus,CHUNB73444,CHUNB,CHUNB73444,newly collected,TRUE,5048,1010,SAMN32602630
+Aniliidae,Anilius,Anilius_scytale,CHUNB73453,CHUNB,CHUNB73453,newly collected,FALSE,5169,805,SAMN15718134
+Colubridae,Pseudoboa,Pseudoboa_coronata,CHUNB73992,CHUNB,CHUNB73992,newly collected,TRUE,4990,912,SAMN32602622
+Gymnophthalmidae,Bachia,Bachia_bresslaui,CHUNB74029,CHUNB,CHUNB74029,newly collected,TRUE,5113,810,SAMN23818041
+Hoplocercidae,Hoplocercus,Hoplocercus_spinosus,CHUNB74034,CHUNB,CHUNB74034,newly collected,FALSE,5314,885,SAMN15718126
+Tropiduridae,Tropidurus,Tropidurus_guarani,CHUNB74146,CHUNB,CHUNB74146,newly collected,TRUE,5242,787,SAMN32602874
+Tropiduridae,Tropidurus,Tropidurus_itambere,CHUNB74201,CHUNB,CHUNB74201,newly collected,TRUE,5291,940,SAMN23818322
+Scincidae,Brasiliscincus,Brasiliscincus_heathi,CN1637,NA,NA,newly collected,TRUE,5152,958,SAMN06705362
+Scincidae,Lampropholis,Lampropholis_coggeri,CONX5113,NA,NA,newly collected,TRUE,5216,842,SAMN08865940
+Scincidae,Liburnascincus,Liburnascincus_mundivensis,CONX5148,NA,NA,newly collected,TRUE,5166,823,SAMN32602822
+Scincidae,Lygisaurus,Lygisaurus_macfarlani,CONX5602,NA,NA,newly collected,TRUE,5217,888,SAMN32602825
+Scincidae,Lygisaurus,Lygisaurus_parrhasius,CONX5673,NA,NA,newly collected,TRUE,5169,817,SAMN32602827
+Scincidae,Morethia,Morethia_butleri,CUMV_14262_Mo_butl,CUMV,CUMV_14262,newly collected,TRUE,5224,860,SAMN32602831
+Scincidae,Egernia,Egernia_depressa,CUMV_14263_Eg_depr,CUMV,CUMV_14263,newly collected,TRUE,5227,1058,SAMN32602797
+Pygopodidae,Pygopus,Pygopus_nigriceps,CUMV_14267_Py_nigr,CUMV,CUMV_14267,newly collected,TRUE,5192,936,SAMN32602753
+Agamidae,Diporiphora,Diporiphora_winneckei,CUMV_14268_Di_winn,CUMV,CUMV_14268,newly collected,TRUE,5211,864,SAMN32602508
+Scincidae,Proablepharus,Proablepharus_reginae,CUMV_14271_Pr_regi,CUMV,CUMV_14271,newly collected,TRUE,4453,559,SAMN32602839
+Diplodactylidae,Strophurus,Strophurus_wellingtonae,CUMV_14279_St_well,CUMV,CUMV_14279,newly collected,TRUE,5186,999,SAMN32602661
+Scincidae,Eremiascincus,Eremiascincus_pallidus,CUMV_14288_Er_fasc,CUMV,CUMV_14288,newly collected,TRUE,5240,976,SAMN32602800
+Elapidae,Simoselaps,Simoselaps_anomalus,CUMV_14290_Si_anom,CUMV,CUMV_14290,newly collected,TRUE,5029,1037,SAMN32602698
+Carphodactylidae,Nephrurus,Nephrurus_vertebralis,CUMV_14291_Ne_vert,CUMV,CUMV_14291,newly collected,TRUE,5118,670,SAMN32602547
+Elapidae,Pseudonaja,Pseudonaja_modesta,CUMV_14294_Ps_mode,CUMV,CUMV_14294,newly collected,TRUE,4851,888,SAMN32602697
+Diplodactylidae,Strophurus,Strophurus_ciliaris,CUMV_14298_St_cili,CUMV,CUMV_14298,newly collected,TRUE,5194,1047,SAMN32602660
+Typhlopidae,Anilios,Anilios_hamatus,CUMV_14302,CUMV,CUMV_14302,newly collected,TRUE,4573,764,SAMN32602882
+Diplodactylidae,Diplodactylus,Diplodactylus_conspicillatus,CUMV_14335_Di_cons,CUMV,CUMV_14335,newly collected,TRUE,5202,941,SAMN32602653
+Scincidae,Lygisaurus,Lygisaurus_novaeguineae,ENR0770,ANWC,ANWC_R10807,newly collected,TRUE,5192,860,SAMN32602826
+Colubridae,Erythrolamprus,Erythrolamprus_maryellenae,ERAB3001,NA,NA,newly collected,TRUE,4886,840,SAMN32602583
+Colubridae,Borikenophis,Borikenophis_portoricensis,FK_2439,UMMZ,UMMZ_210064,newly collected,TRUE,4908,1129,SAMN32602561
+Pareidae,Pareas,Pareas_nuchalis,FK_2626,UMMZ,NA,newly collected,FALSE,5055,953,SAMN15718165
+Colubridae,Dendrelaphis,Dendrelaphis_caudolineatus,FK_2719,UMMZ,NA,newly collected,TRUE,5020,938,SAMN32602571
+Colubridae,Lycodon,Lycodon_subcinctus,FK_2774,UMMZ,NA,newly collected,TRUE,4997,1097,SAMN32602601
+Colubridae,Xenochrophis,Xenochrophis_trianguligerus,FK_2807,UMMZ,NA,newly collected,TRUE,4911,968,SAMN32602641
+Scincidae,Tropidophorus,Tropidophorus_brookei,FK_2942,UMMZ,NA,newly collected,TRUE,5252,950,SAMN32602855
+Xenopeltidae,Xenopeltis,Xenopeltis_unicolor,FK_3026,UMMZ,NA,newly collected,FALSE,5182,1013,SAMN15718159
+Elapidae,Hydrophis,Hydrophis_platurus,FK_3102,UMMZ,UMMZ_209797,newly collected,TRUE,4939,912,SAMN15718156
+Agamidae,Gonocephalus,Gonocephalus_abbotti,FMNH230175,FMNH,FMNH230175,newly collected,TRUE,5208,1022,SAMN09221257
+Elapidae,Elapsoidea,Elapsoidea_loveridgei,FMNH251327,FMNH,FMNH251327,newly collected,TRUE,5078,1074,SAMN09221258
+Colubridae,Opisthotropis,Opisthotropis_daovantieni,FMNH252009,FMNH,FMNH252009,newly collected,TRUE,4985,814,SAMN09221259
+Colubridae,Oligodon,Oligodon_catenatus,FMNH255565,FMNH,FMNH255565,newly collected,TRUE,5050,1031,SAMN09221260
+Agamidae,Pseudocalotes,Pseudocalotes_microlepis,FMNH258710,FMNH,FMNH258710,newly collected,TRUE,5232,868,SAMN09221261
+Colubridae,Liopeltis,Liopeltis_stoliczkae,FMNH259193,FMNH,FMNH259193,newly collected,TRUE,4974,1062,SAMN09221263
+Agamidae,Bronchocela,Bronchocela_smaragdina,FMNH262309,FMNH,FMNH262309,newly collected,TRUE,5125,961,SAMN09221264
+Agamidae,Acanthosaura,Acanthosaura_coronata,FMNH262964,FMNH,FMNH262964,newly collected,TRUE,5192,1033,SAMN09221265
+Viperidae,Trimeresurus,Trimeresurus_sabahi,FMNH263429,FMNH,FMNH263429,newly collected,TRUE,5077,931,SAMN09221266
+Colubridae,Rhabdophis,Rhabdophis_spilogaster,FMNH266277,FMNH,FMNH266277,newly collected,TRUE,4957,964,SAMN09221267
+Colubridae,Tantilla,Tantilla_impensa,FN253542,USNM,NA,newly collected,TRUE,5055,990,SAMN09221427
+Colubridae,Leptophis,Leptophis_depressirostris,FN253772,USNM,NA,newly collected,TRUE,5042,1108,SAMN09221428
+Colubridae,Oxybelis,Oxybelis_wilsoni,FN253879,USNM,NA,newly collected,TRUE,5032,1067,SAMN09221429
+Colubridae,Tantilla,Tantilla_vermiformis,FN256027,USNM,USNM 579681,newly collected,TRUE,5027,1009,SAMN09221430
+Colubridae,Leptodrymus,Leptodrymus_pulcherrimus,FN256061,USNM,USNM 579687,newly collected,TRUE,5049,1099,SAMN09221431
+Colubridae,Tantilla,Tantilla_armillata,FN256487,USNM,USNM 580809,newly collected,TRUE,5025,1109,SAMN09221388
+Typhlopidae,Amerotyphlops,Amerotyphlops_tycherus,FN256679,USNM,USNM 580444,newly collected,TRUE,3308,466,SAMN09221387
+Teiidae,Cnemidophorus,Cnemidophorus_gramivagus,GRCOLLI00504,CHUNB,CHUNB03519,newly collected,TRUE,4350,444,SAMN32602863
+Teiidae,Ameiva,Ameiva_parecis,GRCOLLI04330,CHUNB,CHUNB11683,newly collected,TRUE,5187,843,SAMN32602861
+Gymnophthalmidae,Micrablepharus,Micrablepharus_atticolus,GRCOLLI05508,CHUNB,CHUNB18093,newly collected,TRUE,5051,1050,SAMN23818183
+Amphisbaenidae,Amphisbaena,Amphisbaena_ridleyi,GRCOLLI06458,CHUNB,CHUNB24883,newly collected,TRUE,5086,853,SAMN32602530
+Gymnophthalmidae,Iphisa,Iphisa_elegans,GRCOLLI06954,CHUNB,CHUNB22659,newly collected,TRUE,5141,1069,SAMN23818152
+Gymnophthalmidae,Arthrosaura,Arthrosaura_reticulata,GRCOLLI14421,CHUNB,CHUNB34144,newly collected,TRUE,4838,786,SAMN32602729
+Amphisbaenidae,Amphisbaena,Amphisbaena_crisae,GRCOLLI20644,CHUNB,CHUNB63665,newly collected,TRUE,5140,835,SAMN32602526
+Teiidae,Kentropyx,Kentropyx_vanzoi,GRCOLLI21749,CHUNB,CHUNB63168,newly collected,TRUE,5136,1124,SAMN32602867
+Leiosauridae,Enyalius,Enyalius_bibronii,GRCOLLI21921,CHUNB,CHUNB64577,newly collected,TRUE,5282,909,SAMN32602747
+Viperidae,Bothrops,Bothrops_erythromelas,GRCOLLI21978,CHUNB,CHUNB64765,newly collected,TRUE,5008,1045,SAMN32602899
+Viperidae,Bothrops,Bothrops_leucurus,GRCOLLI22103,CHUNB,CHUNB64767,newly collected,TRUE,4997,914,SAMN23818044
+Sphaerodactylidae,Coleodactylus,Coleodactylus_meridionalis,GRCOLLI22107,CHUNB,CHUNB64597,newly collected,TRUE,5134,897,SAMN32602857
+Diploglossidae,Diploglossus,Diploglossus_lessonae,GRCOLLI22330,CHUNB,CHUNB64638,newly collected,TRUE,5236,933,SAMN32602662
+Amphisbaenidae,Amphisbaena,Amphisbaena_bilabialata,GRCOLLI22387,CHUNB,CHUNB68356,newly collected,TRUE,5187,907,SAMN32602523
+Amphisbaenidae,Amphisbaena,Amphisbaena_silvestrii,GRCOLLI22397,CHUNB,CHUNB68358,newly collected,TRUE,5067,1092,SAMN32602531
+Colubridae,Erythrolamprus,Erythrolamprus_typhlus,GRCOLLI22519,CHUNB,CHUNB68939,newly collected,TRUE,4971,982,SAMN23818097
+Viperidae,Bothrops,Bothrops_brazili,GRCOLLI22662,CHUNB,CHUNB68918,newly collected,TRUE,5006,962,SAMN23818045
+Anomalepididae,Liotyphlops,Liotyphlops_beui,GRCOLLI23142,CHUNB,CHUNB68355,newly collected,FALSE,5084,976,SAMN15718135
+Colubridae,Erythrolamprus,Erythrolamprus_poecilogyrus,GRCOLLI23352,CHUNB,CHUNB68943,newly collected,TRUE,4954,927,SAMN23818103
+Colubridae,Phalotris,Phalotris_matogrossensis,GRCOLLI24637,CHUNB,CHUNB75479,newly collected,TRUE,4965,958,SAMN09221205
+Dactyloidae,Anolis,Anolis_chrysolepis,GRCOLLI25188,CHUNB,CHUNB74632,newly collected,TRUE,5288,870.8114599,SAMN23818026
+Colubridae,Helicops,Helicops_leopardinus,GRCOLLI25255,CHUNB,CHUNB74962,newly collected,TRUE,5020,850,SAMN32602591
+Colubridae,Dipsas,Dipsas_bucephala,GRCOLLI25659,CHUNB,CHUNB74707,newly collected,TRUE,4993,953,SAMN09221206
+Colubridae,Apostolepis,Apostolepis_phillipsae,GRCOLLI25663,CHUNB,CHUNB74635,newly collected,TRUE,5025,978,SAMN09221207
+Colubridae,Chironius,Chironius_quadricarinatus,GRCOLLI25680,CHUNB,CHUNB74673,newly collected,TRUE,4196,534,SAMN32602566
+Tropiduridae,Stenocercus,Stenocercus_roseiventris,GRCOLLI25706,CHUNB,CHUNB75770,newly collected,TRUE,5269,1061,SAMN32602871
+Teiidae,Cnemidophorus,Cnemidophorus_cryptus,GRCOLLI25919,CHUNB,CHUNB76582,newly collected,TRUE,5148,981,SAMN32602862
+Colubridae,Chironius,Chironius_exoletus,GRCOLLI26131,CHUNB,CHUNB76884,newly collected,TRUE,5058,834,SAMN23818076
+Colubridae,Xenodon,Xenodon_nattereri,GRCOLLI26234,CHUNB,CHUNB78176,newly collected,TRUE,4867,765,SAMN32602642
+Colubridae,Chironius,Chironius_carinatus,GRCOLLI26431,CHUNB,CHUNB76646,newly collected,TRUE,5002,937,SAMN23818073
+Scincidae,Notomabuya,Notomabuya_frenata,GRCOLLI26598,CHUNB,CHUNB77289,newly collected,TRUE,5244,975,SAMN06705366
+Gymnophthalmidae,Colobosaura,Colobosaura_modesta,GRCOLLI26643,CHUNB,CHUNB77147,newly collected,TRUE,5054,1046,SAMN06705367
+Colubridae,Taeniophallus,Taeniophallus_occipitalis,GRCOLLI26711,CHUNB,CHUNB77423,newly collected,TRUE,4866,958,SAMN06705368
+Colubridae,Oxybelis,Oxybelis_fulgidus,GRCOLLI26736,CHUNB,CHUNB77337,newly collected,TRUE,5010,861,SAMN32602609
+Dactyloidae,Anolis,Anolis_meridionalis,GRCOLLI26899,CHUNB,CHUNB77086,newly collected,TRUE,5275,946,SAMN06705372
+Colubridae,Lygophis,Lygophis_paucidens,GRCOLLI26916,CHUNB,CHUNB77286,newly collected,TRUE,4592,880,SAMN06705373
+Colubridae,Crotaphopeltis,Crotaphopeltis_hippocrepis,HERP5542,UWBM,UWBM:Herp:5542,newly collected,TRUE,5049,1106,SAMN09221432
+Colubridae,Chrysopelea,Chrysopelea_pelias,HERP8135,UWBM,UWBM:Herp:8135,newly collected,TRUE,5036,1036,SAMN09221433
+Colubridae,Dendrelaphis,Dendrelaphis_kopsteini,HERP8136,UWBM,UWBM:Herp:813,newly collected,TRUE,5059,821,SAMN09221434
+Uropeltidae,Uropeltis,Uropeltis_macrolepis,ID_7603,BNHS,BNHS_3221,newly collected,TRUE,5210,879,SAMN09221435
+Colubridae,Synophis,Synophis_calamitus,KU197107,KU,KU197107,newly collected,TRUE,5060,1067,SAMN09221270
+Colubridae,Rhadinella,Rhadinella_godmani,KU291133,KU,KU291133,newly collected,TRUE,4948,792,SAMN09221272
+Colubridae,Rhadinella,Rhadinella_montecristi,KU291245,KU,KU291245,newly collected,TRUE,5042,1018,SAMN09221273
+Colubridae,Calamaria,Calamaria_lumbricoidea,KU309920,KU,KU309920,newly collected,TRUE,4894,946,SAMN09221274
+Colubridae,Stegonotus,Stegonotus_muelleri,KU310178,KU,KU310178,newly collected,TRUE,5048,1065,SAMN09221275
+Colubridae,Dryophiops,Dryophiops_philippina,KU315167,KU,KU315167,newly collected,TRUE,5085,962,SAMN09221276
+Colubridae,Calamaria,Calamaria_bitorques,KU322328,KU,KU322328,newly collected,TRUE,4808,966,SAMN09221277
+Colubridae,Calamaria,Calamaria_gervaisii,KU324645,KU,KU324645,newly collected,TRUE,4904,1043,SAMN09221278
+Colubridae,Pseudorabdion,Pseudorabdion_taylori,KU327215,KU,KU327215,newly collected,TRUE,4920,1047,SAMN09221279
+Colubridae,Tropidonophis,Tropidonophis_negrosensis,KU331736,KU,KU331736,newly collected,TRUE,5070,925,SAMN09221281
+Lamprophiidae,Lamprophis,Lamprophis_geometricus,LAMP_GEO_1,,no voucher,newly collected,TRUE,4925,948,SAMN09221440
+Amphisbaenidae,Leposternon,Leposternon_polystegum,LJVITT09244,NA,CHUNB30670,newly collected,TRUE,5141,947,SAMN32602536
+Colubridae,Leptodeira,Leptodeira_annulata,LJVITT09836,NA,CHUNB40083,newly collected,TRUE,5038,966,SAMN23818160
+Sphaerodactylidae,Gonatodes,Gonatodes_eladioi,LJVITT09845,NA,CHUNB40097,newly collected,TRUE,5137,938,SAMN32602858
+Amphisbaenidae,Leposternon,Leposternon_infraorbitale,LJVITT10237,NA,CHUNB41348,newly collected,TRUE,5094,1107,SAMN32602534
+Colubridae,Lygophis,Lygophis_meridionalis,LJVITT10291,NA,CHUNB41311,newly collected,TRUE,4896,960,SAMN32602602
+Lamprophiidae,Prosymna,Prosymna_sundevalli,MCZ_Herp_R184512,MCZ,MCZ_Herp_R184512,newly collected,TRUE,5062,1145,SAMN09221284
+Amphisbaenidae,Amphisbaena,Amphisbaena_hyporissor,MCZ_Herp_R184640,MCZ,MCZ_Herp_R184640,newly collected,TRUE,5086,1067,SAMN09221285
+Colubridae,Telescopus,Telescopus_beetzi,MCZ_Herp_R184986,MCZ,MCZ_Herp_R184986,newly collected,TRUE,4968,940,SAMN09221287
+Typhlopidae,Rhinotyphlops,Rhinotyphlops_schinzi,MCZ_Herp_R184998,MCZ,MCZ_Herp_R184998,newly collected,TRUE,4885,960,SAMN09221288
+Gekkonidae,Hemidactylus,Hemidactylus_kamdemtohami,MCZ_Herp_R187710,MCZ,MCZ_Herp_R187710,newly collected,TRUE,5172,893,SAMN09221289
+Leiocephalidae,Leiocephalus,Leiocephalus_macropus,MCZ_Herp_R189884,MCZ,MCZ_Herp_R189884,newly collected,FALSE,5323,1009,SAMN09221291
+Sphaerodactylidae,Sphaerodactylus,Sphaerodactylus_ruibali,MCZ_Herp_R189900,MCZ,MCZ_Herp_R189900,newly collected,TRUE,4900,699,SAMN09221292
+Phyllodactylidae,Tarentola,Tarentola_crombiei,MCZ_Herp_R189902,MCZ,MCZ_Herp_R189902,newly collected,TRUE,5130,845,SAMN09221293
+Typhlopidae,Afrotyphlops,Afrotyphlops_schlegelii,MCZ_Herp_R190405,MCZ,MCZ_Herp_R190405,newly collected,TRUE,4841,734,SAMN09221294
+Diploglossidae,Celestus,Celestus_costatus,MCZ_Herp_R190692,MCZ,MCZ_Herp_R190692,newly collected,TRUE,5240,935,SAMN09221295
+Diploglossidae,Celestus,Celestus_stenurus,MCZ_Herp_R190694,MCZ,MCZ_Herp_R190694,newly collected,TRUE,5247,989,SAMN09221296
+Sphaerodactylidae,Aristelliger,Aristelliger_expectatus,MCZ_Herp_R190704,MCZ,MCZ_Herp_R190704,newly collected,TRUE,5153,1109,SAMN09221297
+Leiocephalidae,Leiocephalus,Leiocephalus_melanochlorus,MCZ_Herp_R190725,MCZ,MCZ_Herp_R190725,newly collected,FALSE,5320,852,SAMN09221298
+Dactyloidae,Anolis,Anolis_rimarum,MCZ_Herp_R190757,MCZ,MCZ_Herp_R190757,newly collected,TRUE,5312,987,SAMN09221299
+Dactyloidae,Anolis,Anolis_rupinae,MCZ_Herp_R190775,MCZ,MCZ_Herp_R190775,newly collected,TRUE,5298,1033,SAMN09221300
+Lamprophiidae,Lycophidion,Lycophidion_namibianum,MCZ_Herp_R193283,MCZ,MCZ_Herp_R193283,newly collected,TRUE,4723,768,SAMN09221301
+Diploglossidae,Celestus,Celestus_sepsoides,MCZ_Herp_R193420,MCZ,MCZ_Herp_R193420,newly collected,TRUE,5237,1060,SAMN09221303
+Dactyloidae,Anolis,Anolis_nelsoni,MCZ_Herp_R194261,MCZ,MCZ_Herp_R194261,newly collected,TRUE,5292,903,SAMN09221304
+Colubridae,Grayia,Grayia_smithii,MCZ182627,MCZ,MCZ182627,newly collected,TRUE,5023,777,SAMN09221282
+Colubridae,Grayia,Grayia_ornata,MCZ188643,MCZ,MCZ188643,newly collected,TRUE,4971,934,SAMN09221290
+Colubridae,Telescopus,Telescopus_semiannulatus,MCZ38506,MCZ,MCZ38506,newly collected,TRUE,5010,1180,SAMN09221286
+Scincidae,Carlia,Carlia_johnstonei,MCZA28608,MCZ,MCZA28608,newly collected,TRUE,5207,891,SAMN32602780
+Colubridae,Geophis,Geophis_semidoliatus,MVZ_Herp_137110,MVZ,MVZ_Herp_137110,newly collected,TRUE,4957,901,SAMN09221305
+Colubridae,Geophis,Geophis_mutitorques,MVZ_Herp_137111,MVZ,MVZ_Herp_137111,newly collected,TRUE,4982,938,SAMN09221306
+Anguidae,Mesaspis,Mesaspis_moreletii,MVZ_Herp_143473,MVZ,MVZ_Herp_143473,newly collected,TRUE,5125,857,SAMN09221307
+Colubridae,Tropidodipsas,Tropidodipsas_fischeri,MVZ_Herp_143527,MVZ,MVZ_Herp_143527,newly collected,TRUE,5065,888,SAMN09221309
+Colubridae,Rhadinaea,Rhadinaea_taeniata,MVZ_Herp_144487,MVZ,MVZ_Herp_144487,newly collected,TRUE,5043,927,SAMN09221310
+Colubridae,Geophis,Geophis_zeledoni,MVZ_Herp_149886,MVZ,MVZ_Herp_149886,newly collected,TRUE,4994,847,SAMN09221311
+Colubridae,Geophis,Geophis_brachycephalus,MVZ_Herp_149887,MVZ,MVZ_Herp_149887,newly collected,TRUE,4858,902,SAMN09221312
+Colubridae,Geophis,Geophis_laticinctus,MVZ_Herp_150187,MVZ,MVZ_Herp_150187,newly collected,TRUE,4975,910,SAMN09221313
+Iguanidae,Ctenosaura,Ctenosaura_clarki,MVZ_Herp_162071,MVZ,MVZ_Herp_162071,newly collected,TRUE,5265,895,SAMN09221314
+Colubridae,Salvadora,Salvadora_intermedia,MVZ_Herp_164789,MVZ,MVZ_Herp_164789,newly collected,TRUE,5011,1020,SAMN09221315
+Anguidae,Abronia,Abronia_martindelcampoi,MVZ_Herp_164922,MVZ,MVZ_Herp_164922,newly collected,TRUE,5016,822,SAMN09221316
+Colubridae,Trimorphodon,Trimorphodon_tau,MVZ_Herp_164978,MVZ,MVZ_Herp_164978,newly collected,TRUE,5048,1012,SAMN09221317
+Anguidae,Abronia,Abronia_fuscolabialis,MVZ_Herp_177806,MVZ,MVZ_Herp_177806,newly collected,TRUE,5140,869,SAMN09221319
+Eublepharidae,Coleonyx,Coleonyx_switaki,MVZ_Herp_189994,MVZ,MVZ_Herp_189994,newly collected,FALSE,5128,992,SAMN09221320
+Anguidae,Mesaspis,Mesaspis_viridiflava,MVZ_Herp_191057,MVZ,MVZ_Herp_191057,newly collected,TRUE,5299,871,SAMN09221321
+Anguidae,Abronia,Abronia_taeniata,MVZ_Herp_191074,MVZ,MVZ_Herp_191074,newly collected,TRUE,5194,1024,SAMN09221322
+Sphaerodactylidae,Aristelliger,Aristelliger_hechti,MVZ_Herp_193268,MVZ,MVZ_Herp_193268,newly collected,TRUE,5236,837,SAMN09221323
+Liolaemidae,Liolaemus,Liolaemus_valdesianus,MVZ_Herp_196648,MVZ,MVZ_Herp_196648,newly collected,TRUE,5228,1000,SAMN09221324
+Dactyloidae,Anolis,Anolis_tropidolepis,MVZ_Herp_204055,MVZ,MVZ_Herp_204055,newly collected,TRUE,5291,811,SAMN09221325
+Diploglossidae,Celestus,Celestus_cyanochloris,MVZ_Herp_204069,MVZ,MVZ_Herp_204069,newly collected,TRUE,5158,967,SAMN09221326
+Colubridae,Geophis,Geophis_hoffmanni,MVZ_Herp_204105,MVZ,MVZ_Herp_204105,newly collected,TRUE,5007,894,SAMN09221327
+Colubridae,Ninia,Ninia_psephota,MVZ_Herp_204114,MVZ,MVZ_Herp_204114,newly collected,TRUE,4921,841,SAMN09221328
+Colubridae,Ninia,Ninia_maculata,MVZ_Herp_204122,MVZ,MVZ_Herp_204122,newly collected,TRUE,4946,738,SAMN09221329
+Colubridae,Rhadinaea,Rhadinaea_pulveriventris,MVZ_Herp_204129,MVZ,MVZ_Herp_204129,newly collected,TRUE,4994,1001,SAMN09221330
+Anguidae,Mesaspis,Mesaspis_monticola,MVZ_Herp_207341,MVZ,MVZ_Herp_207341,newly collected,TRUE,5242,943,SAMN09221331
+Alopoglossidae,Ptychoglossus,Ptychoglossus_plicatus,MVZ_Herp_207360,MVZ,MVZ_Herp_207360,newly collected,FALSE,5048,781,SAMN09221332
+Colubridae,Sibon,Sibon_anthracops,MVZ_Herp_215680,MVZ,MVZ_Herp_215680,newly collected,TRUE,4910,692,SAMN09221333
+Colubridae,Sibon,Sibon_longifrenis,MVZ_Herp_215681,MVZ,MVZ_Herp_215681,newly collected,TRUE,4911,919,SAMN09221334
+Colubridae,Pliocercus,Pliocercus_euryzonus,MVZ_Herp_215696,MVZ,MVZ_Herp_215696,newly collected,TRUE,5035,939,SAMN09221335
+Colubridae,Opisthotropis,Opisthotropis_jacobi,MVZ_Herp_226568,MVZ,MVZ_Herp_226568,newly collected,TRUE,4981,1012,SAMN09221337
+Gekkonidae,Ptenopus,Ptenopus_garrulus,MVZ_Herp_226810,MVZ,MVZ_Herp_226810,newly collected,TRUE,5077,703,SAMN09221338
+Anniellidae,Anniella,Anniella_stebbinsi,MVZ_Herp_228860,MVZ,MVZ_Herp_228860,newly collected,TRUE,5226,949,SAMN09221339
+Colubridae,Scaphiodontophis,Scaphiodontophis_venustissimus,MVZ_Herp_233297,MVZ,MVZ_Herp_233297,newly collected,TRUE,5051,984,SAMN09221340
+Lacertidae,Acanthodactylus,Acanthodactylus_arabicus,MVZ_Herp_236579,MVZ,MVZ_Herp_236579,newly collected,TRUE,5150,609,SAMN09221341
+Agamidae,Aphaniotis,Aphaniotis_acutirostris,MVZ_Herp_239462,MVZ,MVZ_Herp_239462,newly collected,TRUE,5206,984,SAMN09221342
+Agamidae,Draco,Draco_walkeri,MVZ_Herp_239464,MVZ,MVZ_Herp_239464,newly collected,TRUE,5065,662,SAMN09221343
+Liolaemidae,Liolaemus,Liolaemus_tregenzai,MVZ_Herp_240678,MVZ,MVZ_Herp_240678,newly collected,TRUE,5275,994,SAMN09221344
+Colubridae,Dipsadoboa,Dipsadoboa_brevirostris,MVZ_Herp_245373,MVZ,MVZ_Herp_245373,newly collected,TRUE,5013,922,SAMN09221345
+Colubridae,Meizodon,Meizodon_coronatus,MVZ_Herp_245377,MVZ,MVZ_Herp_245377,newly collected,TRUE,4831,836,SAMN09221346
+Colubridae,Rhamnophis,Rhamnophis_aethiopissa,MVZ_Herp_245384,MVZ,MVZ_Herp_245384,newly collected,TRUE,5037,1000,SAMN09221347
+Agamidae,Laudakia,Laudakia_melanura,MVZ_Herp_248402,MVZ,MVZ_Herp_248402,newly collected,TRUE,5179,973,SAMN09221348
+Colubridae,Lytorhynchus,Lytorhynchus_maynardi,MVZ_Herp_248463,MVZ,MVZ_Herp_248463,newly collected,TRUE,5036,1060,SAMN09221349
+Colubridae,Spalerosophis,Spalerosophis_arenarius,MVZ_Herp_248464,MVZ,MVZ_Herp_248464,newly collected,TRUE,5016,963,SAMN09221350
+Viperidae,Causus,Causus_maculatus,MVZ_Herp_249821,MVZ,MVZ_Herp_249821,newly collected,TRUE,4977,1057,SAMN09221351
+Gekkonidae,Cnemaspis,Cnemaspis_spinicollis,MVZ_Herp_252459,MVZ,MVZ_Herp_252459,newly collected,TRUE,5074,850,SAMN09221352
+Scincidae,Cophoscincopus,Cophoscincopus_simulans,MVZ_Herp_252470,MVZ,MVZ_Herp_252470,newly collected,TRUE,5187,1045,SAMN09221353
+Colubridae,Thelotornis,Thelotornis_kirtlandii,MVZ_Herp_252602,MVZ,MVZ_Herp_252602,newly collected,TRUE,4978,820,SAMN09221354
+Colubridae,Dipsadoboa,Dipsadoboa_weileri,MVZ_Herp_253208,MVZ,MVZ_Herp_253208,newly collected,TRUE,4965,795,SAMN09221355
+Colubridae,Thrasops,Thrasops_flavigularis,MVZ_Herp_253440,MVZ,MVZ_Herp_253440,newly collected,TRUE,5075,906,SAMN09221356
+Colubridae,Ptyas,Ptyas_dipsas,MVZ_Herp_253587,MVZ,MVZ_Herp_253587,newly collected,TRUE,5103,903,SAMN09221357
+Viperidae,Tropidolaemus,Tropidolaemus_subannulatus,MVZ_Herp_253952,MVZ,MVZ_Herp_253952,newly collected,TRUE,5016,1092,SAMN09221358
+Agamidae,Bronchocela,Bronchocela_jubata,MVZ_Herp_253996,MVZ,MVZ_Herp_253996,newly collected,TRUE,5218,939,SAMN09221359
+Scincidae,Tytthoscincus,Tytthoscincus_temmincki,MVZ_Herp_256131,MVZ,MVZ_Herp_256131,newly collected,TRUE,5181,981,SAMN09221360
+Scincidae,Sphenomorphus,Sphenomorphus_tropidonotus,MVZ_Herp_256140,MVZ,MVZ_Herp_256140,newly collected,TRUE,5222,982,SAMN09221361
+Colubridae,Geophis,Geophis_nasalis,MVZ_Herp_256839,MVZ,MVZ_Herp_256839,newly collected,TRUE,5008,904,SAMN09221362
+Anniellidae,Anniella,Anniella_campi,MVZ_Herp_257729,MVZ,MVZ_Herp_257729,newly collected,TRUE,5251,1004,SAMN09221363
+Agamidae,Acanthosaura,Acanthosaura_nataliae,MVZ_Herp_258141,MVZ,MVZ_Herp_258141,newly collected,TRUE,5038,756,SAMN09221364
+Homalopsidae,Homalopsis,Homalopsis_nigroventralis,MVZ_Herp_258368,MVZ,MVZ_Herp_258368,newly collected,TRUE,5032,828,SAMN09221365
+Colubridae,Drymobius,Drymobius_chloroticus,MVZ_Herp_263379,MVZ,MVZ_Herp_263379,newly collected,TRUE,5009,1108,SAMN09221366
+Dactyloidae,Anolis,Anolis_petersii,MVZ_Herp_263594,MVZ,MVZ_Herp_263594,newly collected,TRUE,5324,796,SAMN09221368
+Colubridae,Coniophanes,Coniophanes_piceivittis,MVZ_Herp_263775,MVZ,MVZ_Herp_263775,newly collected,TRUE,5001,1030,SAMN09221369
+Colubridae,Mastigodryas,Mastigodryas_dorsalis,MVZ_Herp_263776,MVZ,MVZ_Herp_263776,newly collected,TRUE,5056,967.8176424,SAMN09221370
+Colubridae,Tretanorhinus,Tretanorhinus_nigroluteus,MVZ_Herp_263860,MVZ,MVZ_Herp_263860,newly collected,TRUE,5027,892,SAMN09221371
+Colubridae,Sibon,Sibon_merendonensis,MVZ_Herp_263880,MVZ,MVZ_Herp_263880,newly collected,TRUE,5052,973,SAMN09221372
+Dactyloidae,Anolis,Anolis_campbelli,MVZ_Herp_263983,MVZ,MVZ_Herp_263983,newly collected,TRUE,5255,831,SAMN09221373
+Colubridae,Geophis,Geophis_immaculatus,MVZ_Herp_264221,MVZ,MVZ_Herp_264221,newly collected,TRUE,4999,1063,SAMN09221374
+Colubridae,Adelphicos,Adelphicos_veraepacis,MVZ_Herp_264310,MVZ,MVZ_Herp_264310,newly collected,TRUE,5020,1013,SAMN09221375
+Teiidae,Aspidoscelis,Aspidoscelis_motaguae,MVZ_Herp_264331,MVZ,MVZ_Herp_264331,newly collected,TRUE,5211,851,SAMN09221376
+Colubridae,Oligodon,Oligodon_waandersi,MVZ_Herp_268499,MVZ,MVZ_Herp_268499,newly collected,TRUE,4995,835,SAMN09221377
+Colubridae,Sibon,Sibon_annulatus,MVZ_Herp_269290,MVZ,MVZ_Herp_269290,newly collected,TRUE,5026,911,SAMN09221378
+Iguanidae,Iguana,Iguana_iguana,MVZ149849,MVZ,MVZ149849,newly collected,TRUE,5274,1027,SAMN15718170
+Colubridae,Symphimus,Symphimus_leucostomus,MVZ175960,MVZ,MVZ175960,newly collected,TRUE,5031,1058,SAMN09221318
+Agamidae,Physignathus,Physignathus_cocincinus,MVZ226496,MVZ,MVZ226496,newly collected,TRUE,5204,993,SAMN32602518
+Teiidae,Tupinambis,Tupinambis_teguixin,MVZ247605,MVZ,MVZ247605,newly collected,TRUE,5261,837,SAMN15718148
+Scincidae,Ophioscincus,Ophioscincus_ophioscincus,NA_ABTC32202_Op_ophi,ABTC,NA,newly collected,TRUE,5190,834,SAMN32602835
+Scincidae,Calyptotis,Calyptotis_lepidorostrum,NA_ABTC51306_Ca_lepi,QM,QMJ47625,newly collected,TRUE,5207,863,SAMN32602775
+Agamidae,Ctenophorus,Ctenophorus_slateri,NA_CCM2282_Ct_caud,,NA,newly collected,TRUE,5215,981,SAMN32602506
+Scincidae,Ctenotus,Ctenotus_essingtonii,NA_CCM2294_Ct_essi,,NA,newly collected,TRUE,5210,1003,SAMN32602793
+Varanidae,Varanus,Varanus_gouldii,NA_UMFS20560_Va_goul,UMMZ,NA,newly collected,TRUE,5309,928,SAMN32602890
+Scincidae,Saproscincus,Saproscincus_spectabilis,ND246,NA,NA,newly collected,TRUE,5160,861,SAMN32602844
+Scincidae,Pseudemoia,Pseudemoia_entrecasteauxii,NMVD59883,NVM,NMVD59883,newly collected,TRUE,4695,650,SAMN32602842
+Scincidae,Carinascincus,Carinascincus_coventryi,NMVD60521,NVM,NMVD60521,newly collected,TRUE,5119,693,SAMN32602777
+Scincidae,Anepischetosia,Anepischetosia_maccoyi,NMVD62105,NVM,NMVD62105,newly collected,TRUE,5174,887,SAMN32602769
+Scincidae,Glaphyromorphus,Glaphyromorphus_darwiniensis,NTMR_20408_Gl_darw,NTM,NTMR_20408,newly collected,TRUE,5225,888,SAMN32602805
+Homalopsidae,Fordonia,Fordonia_leucobalia,NTMR10697,NTM,NTMR10697,newly collected,TRUE,4952,897,SAMN15718174
+Acrochordidae,Acrochordus,Acrochordus_arafurae,NTMR16167,NTM,NTMR16167,newly collected,FALSE,5071,991,SAMN15718166
+Elapidae,Hydrelaps,Hydrelaps_darwiniensis,NTMR16471,NTM,NTMR16471,newly collected,TRUE,4905,1023,SAMN32602681
+Elapidae,Aipysurus,Aipysurus_duboisii,NTMR17781,NTM,NTMR17781,newly collected,TRUE,4855,756,SAMN32602665
+Elapidae,Emydocephalus,Emydocephalus_annulatus,NTMR17784,NTM,NTMR17784,newly collected,TRUE,4889,809,SAMN32602678
+Elapidae,Acanthophis,Acanthophis_antarcticus,NTMR17880,NTM,NTMR17880,newly collected,TRUE,4969,855,SAMN32602664
+Pythonidae,Antaresia,Antaresia_childreni,NTMR20537,NTM,NTMR20537,newly collected,TRUE,4238,644,SAMN32602754
+Homalopsidae,Cerberus,Cerberus_australis,NTMR20845,NTM,NTMR20845,newly collected,TRUE,4906,868,SAMN32602739
+Gekkonidae,Gehyra,Gehyra_australis,NTMR22179,NTM,NTMR22179,newly collected,TRUE,5098,699,SAMN32602707
+Diplodactylidae,Amalosia,Amalosia_rhombifer,NTMR22764,NTM,NTMR22764,newly collected,TRUE,2684,408,SAMN32602651
+Lamprophiidae,Prosymna,Prosymna_bivittata,PEM_R17431,PEM,PEM_R17431,newly collected,TRUE,5039,1066,SAMN09221443
+Gymnophthalmidae,Cercosaura,Cercosaura_ocellata,PHV1022,CHUNB,CHUNB49418,newly collected,TRUE,5087,897,SAMN23818064
+Scincidae,Glaphyromorphus,Glaphyromorphus_fuscicaudis,QMJ_41359_Gl_fusc,QM,QMJ_41359,newly collected,TRUE,5141,784,SAMN32602806
+Scincidae,Ophioscincus,Ophioscincus_truncatus,QMJ_46127_Op_trun,QM,QMJ_46127,newly collected,TRUE,5283,884,SAMN32602836
+Scincidae,Glaphyromorphus,Glaphyromorphus_mjobergi,QMJ_48381_Gl_mjob,QM,QMJ_48381,newly collected,TRUE,5227,867,SAMN32602807
+Scincidae,Coeranoscincus,Coeranoscincus_frontalis,QMJ_48382_Co_fron,QM,QMJ_48382,newly collected,TRUE,5233,928,SAMN32602783
+Scincidae,Glaphyromorphus,Glaphyromorphus_nigricaudis,QMJ_51110_Gl_nigr,QM,QMJ_51110,newly collected,TRUE,5204,900,SAMN32602808
+Scincidae,Eremiascincus,Eremiascincus_pardalis,QMJ_51111_Er_pard,QM,QMJ_51111,newly collected,TRUE,5229,847,SAMN32602801
+Scincidae,Coggeria,Coggeria_naufragus,QMJ_59237_Co_nauf,QM,QMJ_59237,newly collected,TRUE,5207,973,SAMN32602785
+Scincidae,Concinnia,Concinnia_brachysoma,QMJ_60828_Eu_brac,QM,QMJ_60828,newly collected,TRUE,5308,886,SAMN32602786
+Scincidae,Glaphyromorphus,Glaphyromorphus_punctulatus,QMJ_83221_Gl_punc,QM,QMJ_83221,newly collected,TRUE,5206,1022,SAMN32602810
+Scincidae,Liburnascincus,Liburnascincus_coensis,QMJ_88869,QM,QMJ_88869,newly collected,TRUE,5215,948,SAMN32602821
+Scincidae,Calyptotis,Calyptotis_scutirostrum,QMJ46108,QM,QMJ46108,newly collected,TRUE,5240,870,SAMN09440114
+Typhlopidae,Anilios,Anilios_silvia,QMJ46128,QM,QMJ46128,newly collected,TRUE,4331,664,SAMN32602884
+Diplodactylidae,Pseudothecadactylus,Pseudothecadactylus_australis,QMJ57120,QM,QMJ57120,newly collected,TRUE,4532,632,SAMN15718158
+Gekkonidae,Cyrtodactylus,Cyrtodactylus_tuberculatus,QMJ60620,QM,QMJ60620,newly collected,TRUE,3827,538,SAMN32602705
+Agamidae,Lophosaurus,Lophosaurus_boydii,QMJ60630,QM,QMJ60630,newly collected,TRUE,4862,612,SAMN32602515
+Carphodactylidae,Phyllurus,Phyllurus_amnicola,QMJ64406,QM,QMJ64406,newly collected,TRUE,3126,416,SAMN32602548
+Elapidae,Hydrophis,Hydrophis_kingii,QMJ79068,QM,QMJ79068,newly collected,TRUE,4611,555,SAMN32602682
+Elapidae,Hydrophis,Hydrophis_macdowelli,QMJ81627,QM,QMJ81627,newly collected,TRUE,4983,752,SAMN32602683
+Diplodactylidae,Oedura,Oedura_marmorata,R37277,NTM,MAGNT 37277,newly collected,TRUE,5187,941,SAMN32602659
+Colubridae,Atractus,Atractus_elaps,RAB_00141,MUSM,MUSM_36139,newly collected,TRUE,4971,1039,SAMN32602555
+Colubridae,Drymarchon,Drymarchon_corais,RAB_00246,MUSM,MUSM_36145,newly collected,TRUE,5033,811,SAMN23818096
+Viperidae,Lachesis,Lachesis_muta,RAB_00321,MUSM,MUSM_36149,newly collected,TRUE,5000,950,SAMN32602906
+Colubridae,Oxyrhopus,Oxyrhopus_formosus,RAB_00421,MUSM,MUSM_36152,newly collected,TRUE,5026,904,SAMN32602610
+Colubridae,Atractus,Atractus_sp,RAB_00465,MUSM,MUSM_36140,newly collected,FALSE,4912,1060,SAMN32602558
+Elapidae,Micrurus,Micrurus_annellatus,RAB_00510,MUSM,MUSM_36052,newly collected,TRUE,5041,937,SAMN32602686
+Colubridae,Drymoluber,Drymoluber_dichrous,RAB_00524,MUSM,MUSM_36046,newly collected,TRUE,5027,1025,SAMN32602581
+Scincidae,Pygomeles,Pygomeles_braconnieri,RAN_64845,UMMZ,UMMZ_228976,newly collected,TRUE,5043,622,SAMN15718153
+Lamprophiidae,Liophidium,Liophidium_chabaudi,RAN_64909,UMMZ,UMMZ_229045,newly collected,TRUE,5037,725,SAMN32602746
+Lamprophiidae,Leioheterodon,Leioheterodon_geayi,RAN_64983,UMMZ,UMMZ_229040_probable,newly collected,TRUE,5043,923,SAMN32602745
+Scincidae,Madascincus,Madascincus_pyrurus,RAN_65020,UMMZ,UMMZ_228657,newly collected,TRUE,4571,482,SAMN32602829
+Scincidae,Grandidierina,Grandidierina_lineata,RAN_65460,UMMZ,UMMZ_228985,newly collected,TRUE,5250,733,SAMN32602811
+Lamprophiidae,Lycodryas,Lycodryas_inornatus,RAN39035,UMMZ,UMMZ_201639,newly collected,TRUE,5081,1060,SAMN09221390
+Uropeltidae,Rhinophis,Rhinophis_erangaviraji,RAP0431,,no voucher,newly collected,TRUE,5104,1060,SAMN09221391
+Colubridae,Chrysopelea,Chrysopelea_ornata,RAP0433,,no voucher,newly collected,TRUE,5047,1072,SAMN09221392
+Colubridae,Aspidura,Aspidura_guentheri,RAP0437,,no voucher,newly collected,TRUE,5057,942,SAMN09221393
+Colubridae,Lycodon,Lycodon_carinatus,RAP0447,,no voucher,newly collected,TRUE,5004,832,SAMN09221394
+Cylindrophiidae,Cylindrophis,Cylindrophis_maculatus,RAP0448,,no voucher,newly collected,FALSE,5201,848,SAMN09221395
+Colubridae,Boiga,Boiga_beddomei,RAP0450,,no voucher,newly collected,TRUE,5113,948,SAMN09221396
+Viperidae,Trimeresurus,Trimeresurus_trigonocephalus,RAP0453,,no voucher,newly collected,TRUE,4046,545,SAMN09221397
+Colubridae,Dendrelaphis,Dendrelaphis_bifrenalis,RAP0455,,no voucher,newly collected,TRUE,5092,1049,SAMN09221398
+Colubridae,Dendrelaphis,Dendrelaphis_schokari,RAP0477,,no voucher,newly collected,TRUE,4785,727,SAMN09221399
+Colubridae,Oligodon,Oligodon_arnensis,RAP0483,,no voucher,newly collected,TRUE,5023,1089,SAMN09221400
+Colubridae,Sibynophis,Sibynophis_subpunctatus,RAP0491,,no voucher,newly collected,TRUE,5107,1069,SAMN09221401
+Colubridae,Dendrelaphis,Dendrelaphis_tristis,RAP0492,,no voucher,newly collected,TRUE,5062,1149,SAMN09221402
+Colubridae,Oligodon,Oligodon_sublineatus,RAP0504,,no voucher,newly collected,TRUE,5024,789,SAMN09221403
+Uropeltidae,Rhinophis,Rhinophis_homolepis,RAP0509,,no voucher,newly collected,TRUE,5060,733,SAMN09221404
+Colubridae,Ahaetulla,Ahaetulla_nasuta,RAP0517,,no voucher,newly collected,TRUE,4398,620,SAMN09221405
+Colubridae,Lycodon,Lycodon_anamallensis,RAP0528,,no voucher,newly collected,TRUE,5061,1125,SAMN09221406
+Colubridae,Lycodon,Lycodon_nympha,RAP0536,,no voucher,newly collected,TRUE,5091,1115,SAMN09221408
+Colubridae,Chrysopelea,Chrysopelea_taprobanica,RAP0538,,no voucher,newly collected,TRUE,5074,1012,SAMN09221409
+Colubridae,Boiga,Boiga_forsteni,RAP0540,,no voucher,newly collected,TRUE,5069,1087,SAMN09221410
+Viperidae,Hypnale,Hypnale_zara,RAP0552,,no voucher,newly collected,TRUE,5015,1130,SAMN09221411
+Colubridae,Oligodon,Oligodon_taeniolatus,RS-136,,no voucher,newly collected,TRUE,4964,815,SAMN09221412
+Uropeltidae,Rhinophis,Rhinophis_saffragamus,RS-140,,no voucher,newly collected,TRUE,5111,1079,SAMN09221413
+Colubridae,Boiga,Boiga_trigonata,RS-143,,no voucher,newly collected,TRUE,3927,528,SAMN09221414
+Colubridae,Aspidura,Aspidura_ceylonensis,RS-145,,no voucher,newly collected,TRUE,4874,693,SAMN09221415
+Colubridae,Ahaetulla,Ahaetulla_pulverulenta,RS-C,,no voucher,newly collected,TRUE,5064,1053,SAMN09221416
+Colubridae,Rhabdophis,Rhabdophis_ceylonensis,RS-D,,no voucher,newly collected,TRUE,5030,930,SAMN09221417
+Colubridae,Fowlea,Fowlea_asperrimus,RS-J,,no voucher,newly collected,TRUE,5036,1081,SAMN09221418
+Colubridae,Aspidura,Aspidura_drummondhayi,RS-M,,no voucher,newly collected,TRUE,5084,1029,SAMN09221419
+Uropeltidae,Rhinophis,Rhinophis_blythii,RS-N,,no voucher,newly collected,TRUE,5077,1169,SAMN09221420
+Colubridae,Oligodon,Oligodon_calamarius,RS-OC,,no voucher,newly collected,TRUE,5017,1024,SAMN09221421
+Colubridae,Atretium,Atretium_schistosum,RS-R,,no voucher,newly collected,TRUE,5029,1082,SAMN09221422
+Colubridae,Aspidura,Aspidura_ravanai,RS-U,,no voucher,newly collected,TRUE,5032,908,SAMN09221423
+Colubridae,Boiga,Boiga_ceylonensis,RS-Y,,no voucher,newly collected,TRUE,5087,1043,SAMN09221424
+Scincidae,Eremiascincus,Eremiascincus_douglasi,SAMAR_24711_Er_doug,SAM,SAMAR_24711,newly collected,TRUE,5234,861,SAMN32602799
+Scincidae,Saiphos,Saiphos_equalis,SAMAR_32533_Sa_equa,SAM,SAMAR_32533,newly collected,TRUE,5193,948,SAMN32602843
+Scincidae,Eulamprus,Eulamprus_tympanum,SAMAR_32583_Eu_tymp,SAM,SAMAR_32583,newly collected,TRUE,5248,937,SAMN32602804
+Scincidae,Eulamprus,Eulamprus_quoyii,SAMAR_33694_Eu_quoy,SAM,SAMAR_33694,newly collected,TRUE,5248,940,SAMN32602803
+Scincidae,Calyptotis,Calyptotis_ruficauda,SAMAR_33711_Ca_rufi,SAM,SAMAR_33711,newly collected,TRUE,5238,970,SAMN32602776
+Scincidae,Anomalopus,Anomalopus_leuckartii,SAMAR_33738_An_leuc,SAM,SAMAR_33738,newly collected,TRUE,5212,843,SAMN32602771
+Scincidae,Hemiergis,Hemiergis_decresiensis,SAMAR_37459_He_decr,SAM,SAMAR_37459,newly collected,TRUE,5248,889,SAMN32602813
+Scincidae,Coeranoscincus,Coeranoscincus_reticulatus,SAMAR_37800_Co_reti,SAM,SAMAR_37800,newly collected,TRUE,5249,883,SAMN32602784
+Scincidae,Hemiergis,Hemiergis_millewae,SAMAR_51993_He_mill,SAM,SAMAR_51993,newly collected,TRUE,5222,791,SAMN09440187
+Scincidae,Concinnia,Concinnia_martini,SAMAR_55630_Eu_mart,SAM,SAMAR_55630,newly collected,TRUE,5302,813,SAMN32602787
+Scincidae,Ctenotus,Ctenotus_euclae,SAMAR_61390_Ct_eucl,SAM,SAMAR_61390,newly collected,TRUE,5220,991,SAMN06709815
+Elapidae,Austrelaps,Austrelaps_superbus,SAMAR19835,SAM,SAMAR19835,newly collected,TRUE,5014,1002,SAMN32602667
+Elapidae,Oxyuranus,Oxyuranus_microlepidotus,SAMAR20583,SAM,SAMAR20583,newly collected,TRUE,4989,947,SAMN32602694
+Elapidae,Echiopsis,Echiopsis_curta,SAMAR20837,SAM,SAMAR20837,newly collected,TRUE,5006,1083,SAMN32602676
+Scincidae,Bellatorias,Bellatorias_frerei,SAMAR21133,SAM,SAMAR21133,newly collected,TRUE,3340,385,SAMN32602774
+Colubridae,Stegonotus,Stegonotus_cucullatus,SAMAR22597,SAM,SAMAR22597,newly collected,TRUE,4919,789,SAMN32602631
+Elapidae,Elapognathus,Elapognathus_coronatus,SAMAR22967,SAM,SAMAR22967,newly collected,TRUE,4932,1006,SAMN32602677
+Diplodactylidae,Hesperoedura,Hesperoedura_reticulata,SAMAR23034,SAM,SAMAR23034,newly collected,TRUE,4977,735,SAMN32602654
+Homalopsidae,Myron,Myron_richardsonii,SAMAR24823,SAM,SAMAR24823,newly collected,TRUE,4891,882,SAMN32602741
+Elapidae,Vermicella,Vermicella_intermedia,SAMAR25672,SAM,SAMAR25672,newly collected,TRUE,4980,991,SAMN32602703
+Scincidae,Cyclodomorphus,Cyclodomorphus_melanops,SAMAR26399,SAM,SAMAR26399,newly collected,TRUE,2649,345,SAMN32602796
+Pythonidae,Liasis,Liasis_fuscus,SAMAR27497,SAM,SAMAR27497,newly collected,TRUE,5178,886,SAMN32602758
+Carphodactylidae,Saltuarius,Saltuarius_swaini,SAMAR29205,SAM,SAMAR29205,newly collected,TRUE,5207,818,SAMN15718145
+Elapidae,Neelaps,Neelaps_calonotus,SAMAR29765,SAM,SAMAR29765,newly collected,TRUE,5039,830,SAMN32602692
+Elapidae,Demansia,Demansia_papuensis,SAMAR29954,SAM,SAMAR29954,newly collected,TRUE,4909,880,SAMN32602674
+Elapidae,Notechis,Notechis_scutatus,SAMAR31329,SAM,SAMAR31329,newly collected,TRUE,5013,891,SAMN32602693
+Gekkonidae,Christinus,Christinus_marmoratus,SAMAR37219,SAM,SAMAR37219,newly collected,TRUE,5107,858,SAMN32602704
+Agamidae,Tympanocryptis,Tympanocryptis_lineata,SAMAR38823,SAM,SAMAR38823,newly collected,TRUE,5102,763,SAMN32602519
+Gekkonidae,Gehyra,Gehyra_lazelli,SAMAR38950,SAM,SAMAR38950,newly collected,TRUE,5167,995,SAMN32602710
+Elapidae,Cacophis,Cacophis_squamulosus,SAMAR40865,SAM,SAMAR40865,newly collected,TRUE,4978,1059,SAMN32602673
+Scincidae,Acritoscincus,Acritoscincus_duperreyi,SAMAR45159,SAM,SAMAR45159,newly collected,TRUE,3809,531,SAMN32602768
+Pygopodidae,Aprasia,Aprasia_pseudopulchella,SAMAR46279,SAM,SAMAR46279,newly collected,TRUE,5125,1020,SAMN32602751
+Pythonidae,Antaresia,Antaresia_maculosa,SAMAR46757,SAM,SAMAR46757,newly collected,TRUE,1909,473,SAMN32602755
+Diplodactylidae,Amalosia,Amalosia_lesueurii,SAMAR50436,SAM,SAMAR50436,newly collected,TRUE,5101,784,SAMN32602650
+Scincidae,Carinascincus,Carinascincus_ocellatus,SAMAR51652,SAM,SAMAR51652,newly collected,TRUE,5227,872,SAMN32602778
+Scincidae,Oligosoma,Oligosoma_lichenigera,SAMAR52131,SAM,SAMAR52131,newly collected,TRUE,5118,782,SAMN32602834
+Elapidae,Brachyurophis,Brachyurophis_australis,SAMAR52492,SAM,SAMAR52492,newly collected,TRUE,4910,817,SAMN32602668
+Elapidae,Hoplocephalus,Hoplocephalus_bitorquatus,SAMAR54537,SAM,SAMAR54537,newly collected,TRUE,4979,973,SAMN32602680
+Gekkonidae,Dixonius,Dixonius_siamensis,SAMAR54799,SAM,SAMAR54799,newly collected,TRUE,1367,335,SAMN32602706
+Gekkonidae,Hemidactylus,Hemidactylus_frenatus,SAMAR55834,SAM,SAMAR55834,newly collected,TRUE,4644,622,SAMN32602720
+Gekkonidae,Nactus,Nactus_cheverti,SAMAR55841,SAM,SAMAR55841,newly collected,TRUE,5176,952,SAMN32602726
+Elapidae,Simoselaps,Simoselaps_bimaculatus,SAMAR61174,SAM,SAMAR61174,newly collected,TRUE,4954,858,SAMN32602700
+Gekkonidae,Gehyra,Gehyra_rohan,SAMAR69881,SAM,SAMAR69881,newly collected,TRUE,1810,430,SAMN32602716
+Scincidae,Saproscincus,Saproscincus_lewisi,SEW6684,NA,NA,newly collected,TRUE,5150,829,SAMN15718152
+Scincidae,Saproscincus,Saproscincus_tetradactylus,SEW7669,NA,NA,newly collected,TRUE,5173,944,SAMN32602845
+Colubridae,Dispholidus,Dispholidus_typus,SMG_5515,FMNH,FMNH_250444,newly collected,TRUE,4497,668,SAMN32602578
+Scincidae,Proscelotes,Proscelotes_eggeli,SMG_5774,FMNH,FMNH_250586,newly collected,TRUE,5291,918,SAMN32602841
+Scincidae,Leptosiaphos,Leptosiaphos_kilimensis,SMG_5777,FMNH,FMNH_250568,newly collected,TRUE,5211,931,SAMN32602817
+Elapidae,Walterinnesia,Walterinnesia_aegyptia,SMNHTAU_R15969,TAU,SMNHTAU_R15969,newly collected,TRUE,5092,870,SAMN09221425
+Colubridae,Leptophis,Leptophis_mexicanus,TJC1023,UPRM,UPRM_GenResCol_1610,newly collected,TRUE,5041,1026,SAMN09221214
+Colubridae,Drymarchon,Drymarchon_melanurus,TJC1029,UPRM,UPRM_GenResCol_1612,newly collected,TRUE,5069,1011,SAMN09221215
+Colubridae,Chironius,Chironius_scurrulus,TJC1166,UPRM,UPRM_GenResCol_1626,newly collected,TRUE,4990,1013,SAMN09221219
+Colubridae,Drymobius,Drymobius_margaritiferus,TJC1190,UPRM,UPRM_GenResCol_1707,newly collected,TRUE,5032,977,SAMN09221220
+Colubridae,Ninia,Ninia_diademata,TJC1208,UPRM,UPRM_GenResCol_1708,newly collected,TRUE,4944,832,SAMN09221222
+Agamidae,Xenagama,Xenagama_zonura,TJC1334,UPRM,UPRM_GenResCol_1718,newly collected,TRUE,5197,1064,SAMN09221223
+Colubridae,Dasypeltis,Dasypeltis_abyssina,TJC1354,UPRM,UPRM_GenResCol_1738,newly collected,TRUE,4955,997,SAMN09221224
+Agamidae,Acanthocercus,Acanthocercus_guentherpetersi,TJC1385,UPRM,UPRM_GenResCol_1769,newly collected,TRUE,5186,1052,SAMN09221225
+Lamprophiidae,Atractaspis,Atractaspis_fallax,TJC1399,UPRM,UPRM_GenResCol_1783,newly collected,TRUE,4917,1024,SAMN09221226
+Lacertidae,Latastia,Latastia_doriai,TJC1498,UPRM,UPRM_GenResCol_1882,newly collected,TRUE,5198,1037,SAMN09221227
+Colubridae,Opheodrys,Opheodrys_aestivus,TJC160,UPRM,UPRM_GenResCol_634,newly collected,TRUE,4988,925,SAMN09221229
+Sphaerodactylidae,Gonatodes,Gonatodes_concinnatus,TJC1636,UPRM,UPRM_GenResCol_1894,newly collected,TRUE,5178,1015,SAMN09221232
+Colubridae,Chironius,Chironius_monticola,TJC1654,UPRM,UPRM_GenResCol_1912,newly collected,TRUE,5147,1012,SAMN09221235
+Colubridae,Phrynonax,Phrynonax_poecilonotus,TJC285,UPRM,UPRM_GenResCol_758,newly collected,TRUE,5056,1065.876582,SAMN09221236
+Lamprophiidae,Lamprophis,Lamprophis_erlangeri,TJC286,UPRM,UPRM_GenResCol_759,newly collected,TRUE,5095,952,SAMN09221237
+Viperidae,Bitis,Bitis_arietans,TJC425,UPRM,UPRM_GenResCol_898,newly collected,TRUE,4993,929,SAMN09221239
+Elapidae,Naja,Naja_haje,TJC464,UPRM,UPRM_GenResCol_937,newly collected,TRUE,5054,959,SAMN09221240
+Cordylidae,Cordylus,Cordylus_rivae,TJC564,UPRM,UPRM_GenResCol_1038,newly collected,FALSE,5228,862,SAMN09221241
+Lamprophiidae,Aparallactus,Aparallactus_lunulatus,TJC568,UPRM,UPRM_GenResCol_1042,newly collected,TRUE,4989,1004,SAMN09221242
+Colubridae,Tropidodipsas,Tropidodipsas_fasciata,TJC666,UPRM,UPRM_GenResCol_1292,newly collected,TRUE,4963,1134,SAMN09221243
+Dactyloidae,Anolis,Anolis_rodriguezii,TJC755,UPRM,UPRM_GenResCol_1381,newly collected,TRUE,5226,817,SAMN09221245
+Colubridae,Ficimia,Ficimia_publia,TJC780,UPRM,UPRM_GenResCol_1406,newly collected,TRUE,5081,1142,SAMN09221247
+Colubridae,Coniophanes,Coniophanes_schmidti,TJC781,UPRM,UPRM_GenResCol_1407,newly collected,TRUE,5034,997,SAMN09221249
+Colubridae,Ninia,Ninia_sebae,TJC827,UPRM,UPRM_GenResCol_1453,newly collected,TRUE,4943,1032,SAMN09221251
+Corytophanidae,Laemanctus,Laemanctus_serratus,TJC849,UPRM,UPRM_GenResCol_1475,newly collected,FALSE,5302,1024,SAMN09221252
+Colubridae,Coniophanes,Coniophanes_imperialis,TJC933,UPRM,UPRM_GenResCol_1520,newly collected,TRUE,5037,953,SAMN09221253
+Colubridae,Mastigodryas,Mastigodryas_melanolomus,TJC971,UPRM,UPRM_GenResCol_1558,newly collected,TRUE,4978,920,SAMN09221254
+Colubridae,Imantodes,Imantodes_tenuissimus,TJCA13,UPRM,UPRM_GenResCol_1913,newly collected,TRUE,5086,872,SAMN09221256
+Amphisbaenidae,Amphisbaena,Amphisbaena_camura,TMOTT028,MPEG,MPEG21463,newly collected,TRUE,5105,931,SAMN32602525
+Amphisbaenidae,Amphisbaena,Amphisbaena_mertensii,TMOTT130,UMFT,UFMT3469,newly collected,TRUE,5130,811,SAMN32602529
+Amphisbaenidae,Amphisbaena,Amphisbaena_cuiabana,TMOTT204,CHUNB,CHUNB30708,newly collected,TRUE,5189,766,SAMN32602527
+Amphisbaenidae,Amphisbaena,Amphisbaena_brasiliana,TMOTT241,CHUNB,CHUNB30685,newly collected,TRUE,5174,738,SAMN32602524
+Helodermatidae,Heloderma,Heloderma_suspectum,UMFS_10133,UMMZ,NA,newly collected,FALSE,5021,626,SAMN15718151
+Homalopsidae,Erpeton,Erpeton_tentaculatum,UMFS_10142,UMMZ,NA,newly collected,TRUE,5038,913,SAMN32602740
+Colubridae,Pantherophis,Pantherophis_vulpinus,UMFS_10145,UMMZ,NA,newly collected,TRUE,5020,771,SAMN32602613
+Shinisauridae,Shinisaurus,Shinisaurus_crocodilurus,UMFS_10293,UMMZ,UMMZ_239357,newly collected,FALSE,4629,438,SAMN15718139
+Scincidae,Leiolopisma,Leiolopisma_telfairii,UMFS_10461,UMMZ,UMMZ_227193,newly collected,TRUE,5236,786,SAMN32602816
+Elapidae,Calliophis,Calliophis_bivirgatus,UMFS_10680,UMMZ,UMMZ_225054,newly collected,TRUE,5027,965,SAMN15718157
+Elapidae,Bungarus,Bungarus_flaviceps,UMFS_10682,UMMZ,UMMZ_225446,newly collected,TRUE,5056,953,SAMN32602672
+Boidae,Acrantophis,Acrantophis_dumerili,UMFS_10937,UMMZ,UMMZ_227052,newly collected,TRUE,5109,893,SAMN32602538
+Boidae,Calabaria,Calabaria_reinhardtii,UMFS_10995,UMMZ,UMMZ_227803,newly collected,TRUE,4773,676,SAMN15718162
+Colubridae,Thamnophis,Thamnophis_saurita,UMFS_10999,UMMZ,UMMZ_236578,newly collected,TRUE,4778,635,SAMN32602638
+Pythonidae,Aspidites,Aspidites_melanocephalus,UMFS_11002,UMMZ,UMMZ_225443,newly collected,TRUE,5031,642,SAMN15718154
+Boidae,Sanzinia,Sanzinia_madagascariensis,UMFS_11004,UMMZ,UMMZ_225448,newly collected,TRUE,4479,513,SAMN32602545
+Varanidae,Varanus,Varanus_dumerilii,UMFS_11219,UMMZ,UMMZ_227708,newly collected,TRUE,5280,861,SAMN32602887
+Scincidae,Corucia,Corucia_zebrata,UMFS_11250,UMMZ,UMMZ_227729,newly collected,TRUE,5169,697,SAMN32602788
+Pythonidae,Python,Python_curtus,UMFS_11258,UMMZ,UMMZ_227696,newly collected,TRUE,5217,995,SAMN32602763
+Colubridae,Storeria,Storeria_dekayi,UMFS_11274,UMMZ,UMMZ_227682,newly collected,TRUE,4888,740,SAMN32602633
+Scincidae,Lamprolepis,Lamprolepis_smaragdina,UMFS_11279,UMMZ,UMMZ_227722,newly collected,TRUE,5108,869,SAMN32602814
+Pythonidae,Bothrochilus,Bothrochilus_albertisii,UMFS_11336,UMMZ,UMMZ_227651,newly collected,TRUE,5133,840,SAMN32602757
+Boidae,Corallus,Corallus_caninus,UMFS_11342,UMMZ,UMMZ_236568,newly collected,TRUE,5187,942,SAMN32602542
+Boidae,Epicrates,Epicrates_cenchria,UMFS_11348,UMMZ,UMMZ_240778,newly collected,TRUE,5145,1040,SAMN32602543
+Scincidae,Sphenomorphus,Sphenomorphus_muelleri,UMFS_11369,UMMZ,UMMZ_227481,newly collected,TRUE,5265,830,SAMN32602851
+Varanidae,Varanus,Varanus_salvadorii,UMFS_11467,UMMZ,UMMZ_238893,newly collected,TRUE,5313,844,SAMN32602893
+Colubridae,Pituophis,Pituophis_catenifer,UMFS_11511,UMMZ,UMMZ_236579,newly collected,TRUE,5000,968,SAMN32602621
+Acrochordidae,Acrochordus,Acrochordus_granulatus,UMFS_11534,UMMZ,UMMZ_236575,newly collected,FALSE,4744,520,SAMN15718164
+Boidae,Eryx,Eryx_miliaris,UMFS_11535,UMMZ,UMMZ_236567,newly collected,TRUE,5254,762,SAMN32602544
+Anguidae,Pseudopus,Pseudopus_apodus,UMFS_11782,UMMZ,UMMZ_238946,newly collected,TRUE,5277,909,SAMN15718141
+Xenosauridae,Xenosaurus,Xenosaurus_platyceps,UMFS_11796,UMMZ,UMMZ_239361,newly collected,FALSE,5256,1009,SAMN15718140
+Lacertidae,Podarcis,Podarcis_erhardii,UMFS_12515,UMMZ,UMMZ_241120,newly collected,TRUE,5045,731,SAMN15718168
+Typhlopidae,Anilios,Anilios_grypus,UMFS_20594,UMMZ,UMMZ_242703,newly collected,TRUE,4799,1068,SAMN32602881
+Agamidae,Gowidon,Gowidon_longirostris,UMFS_20601,UMMZ,UMMZ_242577,newly collected,TRUE,5217,1014,SAMN32602509
+Varanidae,Varanus,Varanus_tristis,UMFS_21069,UMMZ,UMMZ_245167,newly collected,TRUE,5226,876,SAMN32602503
+Varanidae,Varanus,Varanus_brevicauda,UMFS_21127,UMMZ,UMMZ_245154,newly collected,TRUE,5237,897,SAMN32602502
+Elapidae,Micrurus,Micrurus_obscurus,UMFS_22704,UMMZ,UMMZ_MUSM H-36151_probable,newly collected,TRUE,5030,860,SAMN32602690
+Colubridae,Dipsas,Dipsas_indica,UMFS_23001,UMMZ,UMMZ_MUSM H-36144,newly collected,TRUE,5043,810,SAMN32602577
+Colubridae,Imantodes,Imantodes_lentiferus,UMFS_23131,UMMZ,UMMZ_MUSM H-36148,newly collected,TRUE,5009,967,SAMN32602596
+Varanidae,Varanus,Varanus_indicus,UMFS_51525,UMMZ,UMMZ_222679,newly collected,TRUE,2650,434,SAMN32602891
+Boidae,Chilabothrus,Chilabothrus_striatus,UMFS_5610,UMMZ,NA,newly collected,TRUE,647,369,SAMN32602541
+Pythonidae,Python,Python_regius,UMFS_5617,UMMZ,NA,newly collected,TRUE,4785,624,SAMN15718163
+Colubridae,Contia,Contia_tenuis,UMFS_7743,UMMZ,UMMZ_214408,newly collected,TRUE,5056,1011,SAMN32602570
+Boidae,Boa,Boa_constrictor,UMFS_9997,UMMZ,NA,newly collected,TRUE,5092,781,SAMN15718150
+Colubridae,Liodytes,Liodytes_alleni,UMMZ_190427,UMMZ,UMMZ_190427,newly collected,TRUE,4887,970,SAMN32602598
+Scincidae,Sphenomorphus,Sphenomorphus_indicus,UMMZ_190536,UMMZ,UMMZ_190536,newly collected,TRUE,5241,922,SAMN32602848
+Colubridae,Lycodon,Lycodon_rufozonatus,UMMZ_190601,UMMZ,UMMZ_190601,newly collected,TRUE,5048,1020,SAMN32602600
+Viperidae,Crotalus,Crotalus_horridus,UMMZ_199959,UMMZ,UMMZ_199959,newly collected,TRUE,5035,898,SAMN32602905
+Lamprophiidae,Pseudoxyrhopus,Pseudoxyrhopus_ambreensis,UMMZ_200061,UMMZ,UMMZ_200061,newly collected,TRUE,5061,1117,SAMN15718172
+Elapidae,Micruroides,Micruroides_euryxanthus,UMMZ_200295,UMMZ,UMMZ_200295,newly collected,TRUE,4952,1013,SAMN32602685
+Colubridae,Arizona,Arizona_elegans,UMMZ_200299,UMMZ,UMMZ_200299,newly collected,TRUE,5060,975,SAMN32602554
+Colubridae,Pantherophis,Pantherophis_guttatus,UMMZ_200304,UMMZ,UMMZ_200304,newly collected,TRUE,5056,751,SAMN32602612
+Eublepharidae,Coleonyx,Coleonyx_variegatus,UMMZ_200325,UMMZ,UMMZ_200325,newly collected,FALSE,5302,896,SAMN15718144
+Cylindrophiidae,Cylindrophis,Cylindrophis_ruffus,UMMZ_201900,UMMZ,UMMZ_201900,newly collected,FALSE,5178,930,SAMN15718160
+Pareidae,Aplopeltura,Aplopeltura_boa,UMMZ_201904,UMMZ,UMMZ_201904,newly collected,FALSE,4984,857,SAMN15718167
+Colubridae,Boiga,Boiga_dendrophila,UMMZ_201906,UMMZ,UMMZ_201906,newly collected,TRUE,4950,1021,SAMN32602559
+Colubridae,Coelognathus,Coelognathus_flavolineatus,UMMZ_201910,UMMZ,UMMZ_201910,newly collected,TRUE,5032,1078,SAMN32602568
+Colubridae,Liopeltis,Liopeltis_tricolor,UMMZ_201912,UMMZ,UMMZ_201912,newly collected,TRUE,5020,1119,SAMN32602599
+Colubridae,Oligodon,Oligodon_octolineatus,UMMZ_201913,UMMZ,UMMZ_201913,newly collected,TRUE,4935,1010,SAMN32602607
+Elapidae,Bungarus,Bungarus_fasciatus,UMMZ_201916,UMMZ,UMMZ_201916,newly collected,TRUE,5054,1147,SAMN32602671
+Scincidae,Sphenomorphus,Sphenomorphus_cyanolaemus,UMMZ_202015,UMMZ,UMMZ_202015,newly collected,TRUE,5197,1013,SAMN32602847
+Colubridae,Diadophis,Diadophis_punctatus,UMMZ_202038,UMMZ,UMMZ_202038,newly collected,TRUE,5042,922,SAMN32602575
+Colubridae,Magliophis,Magliophis_exiguus,UMMZ_205022,UMMZ,UMMZ_205022,newly collected,TRUE,4862,857,SAMN32602603
+Colubridae,Farancia,Farancia_abacura,UMMZ_205023,UMMZ,UMMZ_205023,newly collected,TRUE,4949,973,SAMN32602586
+Colubridae,Nerodia,Nerodia_sipedon,UMMZ_205025,UMMZ,UMMZ_205025,newly collected,TRUE,4996,1060,SAMN32602606
+Colubridae,Thamnophis,Thamnophis_butleri,UMMZ_205026,UMMZ,UMMZ_205026,newly collected,TRUE,4991,1102,SAMN32602637
+Colubridae,Storeria,Storeria_occipitomaculata,UMMZ_205803,UMMZ,UMMZ_205803,newly collected,TRUE,4951,871,SAMN32602634
+Colubridae,Helicops,Helicops_infrataeniatus,UMMZ_205992,UMMZ,UMMZ_205992,newly collected,TRUE,4943,1080,SAMN32602590
+Colubridae,Rhadinaea,Rhadinaea_flavilata,UMMZ_205993,UMMZ,UMMZ_205993,newly collected,TRUE,4950,896,SAMN32602625
+Gekkonidae,Gehyra,Gehyra_mutilata,UMMZ_207580,UMMZ,UMMZ_207580,newly collected,TRUE,4509,640,SAMN32602712
+Scincidae,Paracontias,Paracontias_hildebrandti,UMMZ_209166,UMMZ,UMMZ_209166,newly collected,TRUE,5235,856,SAMN32602837
+Lamprophiidae,Langaha,Langaha_madagascariensis,UMMZ_209371,UMMZ,UMMZ_209371,newly collected,TRUE,5014,1136,SAMN32602744
+Typhlopidae,Madatyphlops,Madatyphlops_mucronatus,UMMZ_209715,UMMZ,UMMZ_209715,newly collected,TRUE,4939,1110,SAMN32602885
+Colubridae,Scolecophis,Scolecophis_atrocinctus,UMMZ_209968,UMMZ,UMMZ_209968,newly collected,TRUE,4307,635,SAMN32602627
+Colubridae,Haldea,Haldea_striatula,UMMZ_209969,UMMZ,UMMZ_209969,newly collected,TRUE,5015,970,SAMN32602588
+Colubridae,Carphophis,Carphophis_amoenus,UMMZ_209970,UMMZ,UMMZ_209970,newly collected,TRUE,5031,992,SAMN32602563
+Colubridae,Hydrops,Hydrops_triangularis,UMMZ_209971,UMMZ,UMMZ_209971,newly collected,TRUE,4958,866,SAMN32602594
+Colubridae,Helicops,Helicops_angulatus,UMMZ_209972,UMMZ,UMMZ_209972,newly collected,TRUE,5019,939,SAMN23818137
+Colubridae,Calamaria,Calamaria_septentrionalis,UMMZ_209973,UMMZ,UMMZ_209973,newly collected,TRUE,4879,941,SAMN32602562
+Lamprophiidae,Atractaspis,Atractaspis_bibronii,UMMZ_209986,UMMZ,UMMZ_209986,newly collected,TRUE,5000,1098,SAMN32602743
+Viperidae,Agkistrodon,Agkistrodon_contortrix,UMMZ_209987,UMMZ,UMMZ_209987,newly collected,TRUE,4991,785,SAMN32602895
+Colubridae,Heterodon,Heterodon_platirhinos,UMMZ_210085,UMMZ,UMMZ_210085,newly collected,TRUE,4912,1157,SAMN32602592
+Colubridae,Sonora,Sonora_semiannulata,UMMZ_210730,UMMZ,UMMZ_210730,newly collected,TRUE,5026,978,SAMN32602629
+Varanidae,Varanus,Varanus_glebopalma,UMMZ_218497,UMMZ,UMMZ_218497,newly collected,TRUE,397,300,SAMN32602889
+Varanidae,Varanus,Varanus_spenceri,UMMZ_218499,UMMZ,UMMZ_218499,newly collected,TRUE,5280,721,SAMN32602894
+Lamprophiidae,Aparallactus,Aparallactus_capensis,UMMZ_218815,UMMZ,UMMZ_218815,newly collected,TRUE,4963,1085,SAMN32602742
+Anguidae,Elgaria,Elgaria_kingii,UMMZ_221220,UMMZ,UMMZ_221220,newly collected,TRUE,5246,823,SAMN32602537
+Colubridae,Tantilla,Tantilla_hobartsmithi,UMMZ_225397,UMMZ,UMMZ_225397,newly collected,TRUE,5011,923,SAMN32602635
+Colubridae,Gonyosoma,Gonyosoma_frenatum,UMMZ_225401,UMMZ,UMMZ_225401,newly collected,TRUE,5022,750,SAMN32602587
+Colubridae,Masticophis,Masticophis_bilineatus,UMMZ_225436,UMMZ,UMMZ_225436,newly collected,TRUE,5059,1009,SAMN32602604
+Pythonidae,Simalia,Simalia_boeleni,UMMZ_225444,UMMZ,UMMZ_225444,newly collected,TRUE,5236,893,SAMN32602765
+Pythonidae,Simalia,Simalia_tracyae,UMMZ_225575,UMMZ,UMMZ_225575,newly collected,TRUE,5148,844,SAMN32602767
+Pythonidae,Malayopython,Malayopython_reticulatus,UMMZ_225576,UMMZ,UMMZ_225576,newly collected,TRUE,4238,469,SAMN32602760
+Homalopsidae,Homalopsis,Homalopsis_buccata,UMMZ_227683,UMMZ,UMMZ_227683,newly collected,TRUE,4905,900,SAMN15718173
+Pythonidae,Morelia,Morelia_viridis,UMMZ_227701,UMMZ,UMMZ_227701,newly collected,TRUE,5191,981,SAMN32602762
+Scincidae,Trachylepis,Trachylepis_quinquetaeniata,UMMZ_227725,UMMZ,UMMZ_227725,newly collected,TRUE,5255,930,SAMN32602854
+Pythonidae,Simalia,Simalia_nauta,UMMZ_227831,UMMZ,UMMZ_227831,newly collected,TRUE,5191,955,SAMN32602766
+Pythonidae,Morelia,Morelia_spilota,UMMZ_227833,UMMZ,UMMZ_227833,newly collected,TRUE,5235,858,SAMN32602761
+Pythonidae,Simalia,Simalia_amethistina,UMMZ_227959,UMMZ,UMMZ_227959,newly collected,TRUE,5137,794,SAMN32602764
+Varanidae,Varanus,Varanus_albigularis,UMMZ_227962,UMMZ,UMMZ_227962,newly collected,TRUE,5291,823,SAMN32602886
+Tropidophiidae,Trachyboa,Trachyboa_boulengeri,UMMZ_229268,UMMZ,UMMZ_229268,newly collected,FALSE,5151,1052,SAMN15718161
+Agamidae,Chlamydosaurus,Chlamydosaurus_kingii,UMMZ_236528,UMMZ,UMMZ_236528,newly collected,TRUE,5212,1000,SAMN32602505
+Pythonidae,Aspidites,Aspidites_ramsayi,UMMZ_236558,UMMZ,UMMZ_236558,newly collected,TRUE,5204,829,SAMN32602756
+Pythonidae,Liasis,Liasis_papuanus,UMMZ_236569,UMMZ,UMMZ_236569,newly collected,TRUE,5225,909,SAMN32602759
+Gerrhosauridae,Zonosaurus,Zonosaurus_laticaudatus,UMMZ_237560,UMMZ,UMMZ_237560,newly collected,FALSE,5275,883,SAMN15718142
+Scincidae,Cryptoblepharus,Cryptoblepharus_voeltzkowi,UMMZ_238024,UMMZ,UMMZ_238024,newly collected,TRUE,4496,653,SAMN32602791
+Scincidae,Mabuya,Mabuya_sp,UMMZ_238155,UMMZ,UMMZ_238155,newly collected,FALSE,5233,901,SAMN32602828
+Elapidae,Naja,Naja_melanoleuca,UMMZ_238951,UMMZ,UMMZ_238951,newly collected,TRUE,5033,1057,SAMN32602691
+Boidae,Charina,Charina_bottae,UMMZ_239362,UMMZ,UMMZ_239362,newly collected,TRUE,4545,582,SAMN32602540
+Colubridae,Opheodrys,Opheodrys_vernalis,UMMZ_239370,UMMZ,UMMZ_239370,newly collected,TRUE,5091,855,SAMN32602608
+Scincidae,Plestiodon,Plestiodon_skiltonianus,UMMZ_239412,UMMZ,UMMZ_239412,newly collected,TRUE,5256,894,SAMN32602838
+Colubridae,Coluber,Coluber_constrictor,UMMZ_240711,UMMZ,UMMZ_240711,newly collected,TRUE,5093,921,SAMN32602569
+Varanidae,Varanus,Varanus_griseus,UMMZ_240786,UMMZ,UMMZ_240786,newly collected,TRUE,5201,643,SAMN15718147
+Scincidae,Sphenomorphus,Sphenomorphus_aignanus,UMMZ_242496,UMMZ,UMMZ_242496,newly collected,TRUE,5138,940,SAMN32602846
+Scincidae,Sphenomorphus,Sphenomorphus_jobiensis,UMMZ_242506,UMMZ,UMMZ_242506,newly collected,TRUE,5245,914,SAMN32602849
+Scincidae,Sphenomorphus,Sphenomorphus_minutus,UMMZ_242511,UMMZ,UMMZ_242511,newly collected,TRUE,5171,879,SAMN32602850
+Scincidae,Eugongylus,Eugongylus_rufescens,UMMZ_242515,UMMZ,UMMZ_242515,newly collected,TRUE,5203,1115,SAMN32602802
+Boidae,Candoia,Candoia_paulsoni,UMMZ_242517,UMMZ,UMMZ_242517,newly collected,TRUE,5144,943,SAMN32602539
+Colubridae,Boiga,Boiga_irregularis,UMMZ_242520,UMMZ,UMMZ_242520,newly collected,TRUE,4975,1098,SAMN32602560
+Colubridae,Dendrelaphis,Dendrelaphis_gastrostictus,UMMZ_242522,UMMZ,UMMZ_242522,newly collected,TRUE,4826,823,SAMN32602572
+Colubridae,Dendrelaphis,Dendrelaphis_calligaster,UMMZ_242524,UMMZ,UMMZ_242524,newly collected,TRUE,4986,893,SAMN15718138
+Colubridae,Stegonotus,Stegonotus_guentheri,UMMZ_242526,UMMZ,UMMZ_242526,newly collected,TRUE,5029,998,SAMN32602632
+Colubridae,Tropidonophis,Tropidonophis_aenigmaticus,UMMZ_242530,UMMZ,UMMZ_242530,newly collected,TRUE,4981,980,SAMN32602639
+Elapidae,Aspidomorphus,Aspidomorphus_lineaticollis,UMMZ_242532,UMMZ,UMMZ_242532,newly collected,TRUE,4999,1115,SAMN32602666
+Elapidae,Toxicocalamus,Toxicocalamus_sp,UMMZ_242534,UMMZ,UMMZ_242534,newly collected,FALSE,5023,1054,SAMN32602702
+Typhlopidae,Indotyphlops,Indotyphlops_madgemintonae,UMMZ_242536,UMMZ,UMMZ_242536,newly collected,FALSE,4906,990,SAMN15718171
+Agamidae,Diporiphora,Diporiphora_lalliae,UMMZ_242571_Di_lall,UMMZ,UMMZ_242571l,newly collected,TRUE,5173,1061,SAMN32602507
+Diplodactylidae,Lucasium,Lucasium_stenodactylum,UMMZ_242582_Lu_sten,UMMZ,UMMZ_242582,newly collected,TRUE,5165,985,SAMN32602656
+Gekkonidae,Gehyra,Gehyra_pilbara,UMMZ_242588_Ge_pilb,UMMZ,UMMZ_242588,newly collected,TRUE,5152,1054,SAMN32602715
+Pygopodidae,Delma,Delma_tincta,UMMZ_242601_De_tinc,UMMZ,UMMZ_242601,newly collected,TRUE,5106,1137,SAMN32602752
+Scincidae,Carlia,Carlia_munda,UMMZ_242604_Ca_mund,UMMZ,UMMZ_242604,newly collected,TRUE,5211,886,SAMN32602781
+Scincidae,Ctenotus,Ctenotus_quattuordecimlineatus,UMMZ_242646_Ct_quat,UMMZ,UMMZ_242646,newly collected,TRUE,5190,968,SAMN06709950
+Scincidae,Lerista,Lerista_lineopunctulata,UMMZ_242679_Le_line,UMMZ,UMMZ_242679,newly collected,TRUE,5170,907,SAMN32602495
+Scincidae,Notoscincus,Notoscincus_ornatus,UMMZ_242683_No_orna,UMMZ,UMMZ_242683,newly collected,TRUE,5175,953,SAMN32602833
+Varanidae,Varanus,Varanus_eremius,UMMZ_242696_Va_erem,UMMZ,UMMZ_242696,newly collected,TRUE,5242,894,SAMN32602888
+Elapidae,Brachyurophis,Brachyurophis_roperi,UMMZ_242698_Br_rope,UMMZ,UMMZ_242698,newly collected,TRUE,4969,1159,SAMN32602670
+Elapidae,Suta,Suta_punctata,UMMZ_242701_Su_punc,UMMZ,UMMZ_242701,newly collected,TRUE,5040,944,SAMN32602701
+Colubridae,Dendrelaphis,Dendrelaphis_punctulatus,UMMZ_244036,UMMZ,UMMZ_244036,newly collected,TRUE,5020,993,SAMN32602573
+Gekkonidae,Lepidodactylus,Lepidodactylus_lugubris,UMMZ_244059,UMMZ,UMMZ_244059,newly collected,TRUE,5172,1063,SAMN32602723
+Elapidae,Brachyurophis,Brachyurophis_fasciolatus,UMMZ_244194_br_fasc,UMMZ,UMMZ_244194,newly collected,TRUE,4845,793,SAMN32602669
+Elapidae,Pseudechis,Pseudechis_australis,UMMZ_244195_ps_aust,UMMZ,UMMZ_244195,newly collected,TRUE,5022,853,SAMN32602696
+Elapidae,Pseudonaja,Pseudonaja_mengdeni,UMMZ_244196_ps_meng,UMMZ,UMMZ_244196,newly collected,TRUE,4884,770,SAMN32602487
+Elapidae,Simoselaps,Simoselaps_bertholdi,UMMZ_244197_si_bert,UMMZ,UMMZ_244197,newly collected,TRUE,4992,1013,SAMN32602699
+Typhlopidae,Anilios,Anilios_waitii,UMMZ_244201_ra_wait,UMMZ,UMMZ_244201,newly collected,TRUE,4671,746,SAMN32602501
+Agamidae,Ctenophorus,Ctenophorus_isolepis,UMMZ_244206_ct_isol,UMMZ,UMMZ_244206,newly collected,TRUE,5208,922,SAMN32602476
+Agamidae,Ctenophorus,Ctenophorus_nuchalis,UMMZ_244210_ct_nuch,UMMZ,UMMZ_244210,newly collected,TRUE,4341,502,SAMN32602477
+Agamidae,Ctenophorus,Ctenophorus_reticulatus,UMMZ_244212_ct_reti,UMMZ,UMMZ_244212,newly collected,TRUE,5185,749,SAMN32602478
+Agamidae,Ctenophorus,Ctenophorus_scutulatus,UMMZ_244218_ct_scut,UMMZ,UMMZ_244218,newly collected,TRUE,5210,856,SAMN32602479
+Agamidae,Moloch,Moloch_horridus,UMMZ_244221_mo_horr,UMMZ,UMMZ_244221,newly collected,TRUE,5040,603,SAMN32602480
+Agamidae,Pogona,Pogona_minor,UMMZ_244225_po_mino,UMMZ,UMMZ_244225,newly collected,TRUE,4698,500,SAMN32602481
+Diplodactylidae,Diplodactylus,Diplodactylus_granariensis,UMMZ_244229_di_gran,UMMZ,UMMZ_244229,newly collected,TRUE,5164,893,SAMN32602482
+Diplodactylidae,Diplodactylus,Diplodactylus_pulcher,UMMZ_244232_di_pulc,UMMZ,UMMZ_244232,newly collected,TRUE,5167,903,SAMN32602483
+Diplodactylidae,Lucasium,Lucasium_squarrosum,UMMZ_244237_di_squa,UMMZ,UMMZ_244237,newly collected,TRUE,5142,819,SAMN32602484
+Gekkonidae,Gehyra,Gehyra_crypta,UMMZ_244239_ge_vari,UMMZ,UMMZ_244239,newly collected,TRUE,5145,854,SAMN32602488
+Gekkonidae,Heteronotia,Heteronotia_binoei,UMMZ_244243_he_bino,UMMZ,UMMZ_244243,newly collected,TRUE,5150,802,SAMN32602489
+Carphodactylidae,Nephrurus,Nephrurus_levis,UMMZ_244247_ne_levi,UMMZ,UMMZ_244247,newly collected,TRUE,5123,765,SAMN32602546
+Diplodactylidae,Rhynchoedura,Rhynchoedura_ornata,UMMZ_244254_rh_orna,UMMZ,UMMZ_244254,newly collected,TRUE,5097,761,SAMN32602485
+Diplodactylidae,Strophurus,Strophurus_elderi,UMMZ_244257_st_elde,UMMZ,UMMZ_244257,newly collected,TRUE,5137,870,SAMN32602486
+Pygopodidae,Delma,Delma_butleri,UMMZ_244261_de_butl,UMMZ,UMMZ_244261,newly collected,TRUE,5134,721,SAMN32602490
+Pygopodidae,Lialis,Lialis_burtonis,UMMZ_244266_li_burt,UMMZ,UMMZ_244266,newly collected,TRUE,5134,728,SAMN32602491
+Scincidae,Liopholis,Liopholis_inornata,UMMZ_244330_eg_inor,UMMZ,UMMZ_244330,newly collected,TRUE,5205,885,SAMN32602497
+Scincidae,Eremiascincus,Eremiascincus_richardsonii,UMMZ_244332_er_rich,UMMZ,UMMZ_244332,newly collected,TRUE,5149,767,SAMN32602492
+Scincidae,Lerista,Lerista_muelleri,UMMZ_244363_le_timi,UMMZ,UMMZ_244363,newly collected,TRUE,5168,808,SAMN32602496
+Scincidae,Menetia,Menetia_greyii,UMMZ_244387_me_grey,UMMZ,UMMZ_244387,newly collected,TRUE,5086,683,SAMN32602498
+Scincidae,Morethia,Morethia_lineoocellata,UMMZ_244393_mo_line,UMMZ,UMMZ_244393,newly collected,TRUE,5145,711,SAMN32602832
+Scincidae,Morethia,Morethia_ruficauda,UMMZ_244401_mo_rufi,UMMZ,UMMZ_244401,newly collected,TRUE,5180,831,SAMN32602499
+Scincidae,Tiliqua,Tiliqua_multifasciata,UMMZ_244405_ti_mult,UMMZ,UMMZ_244405,newly collected,TRUE,5222,862,SAMN32602500
+Scincidae,Tiliqua,Tiliqua_occipitalis,UMMZ_244408_ti_occi,UMMZ,UMMZ_244408,newly collected,TRUE,5063,655,SAMN32602852
+Scincidae,Tiliqua,Tiliqua_rugosa,UMMZ_244409_ti_rugo,UMMZ,UMMZ_244409,newly collected,TRUE,5214,860,SAMN32602853
+Scincidae,Menetia,Menetia_surda,UMMZ_244412_me_surd,UMMZ,UMMZ_244412,newly collected,TRUE,4989,678,SAMN32602830
+Sphaerodactylidae,Gonatodes,Gonatodes_hasemani,UMMZ_245015,UMMZ,UMMZ_245015,newly collected,TRUE,5236,960,SAMN32602859
+Sphaerodactylidae,Pseudogonatodes,Pseudogonatodes_guianensis,UMMZ_245019,UMMZ,UMMZ_245019,newly collected,TRUE,5175,979,SAMN32602860
+Phyllodactylidae,Thecadactylus,Thecadactylus_solimoensis,UMMZ_245020,UMMZ,UMMZ_245020,newly collected,TRUE,5124,754,SAMN32602750
+Dactyloidae,Anolis,Anolis_osa,UMMZ_245021,UMMZ,UMMZ_245021,newly collected,FALSE,5298,984,SAMN32602649
+Dactyloidae,Anolis,Anolis_fuscoauratus,UMMZ_245025,UMMZ,UMMZ_245025,newly collected,TRUE,5178,767,SAMN32602647
+Gymnophthalmidae,Bachia,Bachia_dorbignyi,UMMZ_245033,UMMZ,UMMZ_245033,newly collected,TRUE,5018,690,SAMN32602730
+Gymnophthalmidae,Bachia,Bachia_trisanale,UMMZ_245034,UMMZ,UMMZ_245034,newly collected,TRUE,2078,436,SAMN32602732
+Gymnophthalmidae,Cercosaura,Cercosaura_argulus,UMMZ_245035,UMMZ,UMMZ_245035,newly collected,TRUE,5086,913,SAMN32602733
+Teiidae,Kentropyx,Kentropyx_pelviceps,UMMZ_245041,UMMZ,UMMZ_245041,newly collected,TRUE,5200,915,SAMN32602865
+Alopoglossidae,Ptychoglossus,Ptychoglossus_brevifrontalis,UMMZ_245044,UMMZ,UMMZ_245044,newly collected,FALSE,5141,841,SAMN15718149
+Colubridae,Atractus,Atractus_flammigerus,UMMZ_245046,UMMZ,UMMZ_245046,newly collected,TRUE,4977,846,SAMN32602556
+Colubridae,Chironius,Chironius_multiventris,UMMZ_245049,UMMZ,UMMZ_245049,newly collected,TRUE,5095,966,SAMN32602565
+Colubridae,Drymobius,Drymobius_rhombifer,UMMZ_245052,UMMZ,UMMZ_245052,newly collected,TRUE,4987,777,SAMN32602580
+Colubridae,Imantodes,Imantodes_cenchoa,UMMZ_245056,UMMZ,UMMZ_245056,newly collected,TRUE,5064,915,SAMN32602595
+Colubridae,Erythrolamprus,Erythrolamprus_reginae,UMMZ_245062,UMMZ,UMMZ_245062,newly collected,TRUE,4825,814.9260104,SAMN23818114
+Colubridae,Erythrolamprus,Erythrolamprus_taeniogaster,UMMZ_245064,UMMZ,UMMZ_245064,newly collected,TRUE,4944,919,SAMN32602585
+Colubridae,Oxyrhopus,Oxyrhopus_melanogenys,UMMZ_245065,UMMZ,UMMZ_245065,newly collected,TRUE,4962,899,SAMN23818212
+Colubridae,Oxyrhopus,Oxyrhopus_petolarius,UMMZ_245072,UMMZ,UMMZ_245072,newly collected,TRUE,4921,860,SAMN23818217
+Colubridae,Xenopholis,Xenopholis_scalaris,UMMZ_245078,UMMZ,UMMZ_245078,newly collected,TRUE,4950,886,SAMN32602644
+Elapidae,Micrurus,Micrurus_lemniscatus,UMMZ_245080,UMMZ,UMMZ_245080,newly collected,TRUE,5014,1036,SAMN32602689
+Viperidae,Bothrops,Bothrops_bilineatus,UMMZ_245084,UMMZ,UMMZ_245084,newly collected,TRUE,3908,502,SAMN32602898
+Viperidae,Bothrops,Bothrops_taeniatus,UMMZ_245085,UMMZ,UMMZ_245085,newly collected,TRUE,5063,1022,SAMN32602904
+Viperidae,Bothrops,Bothrops_atrox,UMMZ_245086,UMMZ,UMMZ_245086,newly collected,TRUE,5072,856,SAMN32602897
+Bipedidae,Bipes,Bipes_canaliculatus,UMMZ_Bipes_canaliculatus,UMMZ,NA,newly collected,FALSE,5172,855,SAMN15718169
+Gekkonidae,Gehyra,Gehyra_oceanica,UMMZ182803,UMMZ,UMMZ182803,newly collected,TRUE,5113,1068,SAMN32602714
+Teiidae,Tupinambis,Tupinambis_cryptus,USGSTEGU,USNM,USNM 590031,newly collected,TRUE,5194,797,SAMN09221389
+Scincidae,Lipinia,Lipinia_rabori,USNM305981,USNM,USNM305981,newly collected,TRUE,1643,319,SAMN09221381
+Colubridae,Gyalopion,Gyalopion_canum,USNM315524,USNM,USNM315524,newly collected,TRUE,5013,1069,SAMN09221382
+Amphisbaenidae,Monopeltis,Monopeltis_guentheri,USNM576222,USNM,USNM576222,newly collected,TRUE,5185,1264,SAMN09221386
+Carphodactylidae,Underwoodisaurus,Underwoodisaurus_milii,WAM_R153929,WAM,WAM_R153929,newly collected,TRUE,5165,770,SAMN32602550
+Gekkonidae,Heteronotia,Heteronotia_spelea,WAM_R160145,WAM,WAM_R153929,newly collected,TRUE,5219,971,SAMN32602722
+Scincidae,Ctenotus,Ctenotus_schomburgkii,WAMR_077870_Ct_scho,WAM,WAM_R160145,newly collected,TRUE,5149,676,SAMN06709957
+Scincidae,Lerista,Lerista_elegans,WAMR_113669_Le_eleg,WAM,WAMR_077870,newly collected,TRUE,4820,878,SAMN32602818
+Scincidae,Lerista,Lerista_bipes,WAMR_116605_Le_bipe,WAM,WAMR_113669,newly collected,TRUE,5110,828,SAMN32602493
+Scincidae,Ctenotus,Ctenotus_gemmula,WAMR_119462_Ct_gemm,WAM,WAMR_116605,newly collected,TRUE,5193,992,SAMN32602794
+Scincidae,Ctenotus,Ctenotus_pantherinus,WAMR_119962_Ct_pant,WAM,WAMR_119462,newly collected,TRUE,5201,805,SAMN06709991
+Scincidae,Ctenotus,Ctenotus_lancelini,WAMR_121883_Ct_lanc,WAM,WAMR_119962,newly collected,TRUE,5230,839,SAMN32602795
+Scincidae,Lerista,Lerista_macropisthopus,WAMR_134410_Le_macr,WAM,WAMR_121883,newly collected,TRUE,5219,764,SAMN32602819
+Scincidae,Lerista,Lerista_desertorum,WAMR_135139_Le_dese,WAM,WAMR_134410,newly collected,TRUE,5134,732,SAMN32602494
+Scincidae,Ctenotus,Ctenotus_tantillus,WAMR_151014_Ct_tant,WAM,WAMR_135139,newly collected,TRUE,5165,886,SAMN06710047
+Diplodactylidae,Lucasium,Lucasium_maini,WAMR_151225_Lu_main,WAM,WAMR_151014,newly collected,TRUE,5138,1060,SAMN32602655
+Scincidae,Lerista,Lerista_vermicularis,WAMR_164271_Le_verm,WAM,WAMR_151225,newly collected,TRUE,5241,852,SAMN32602820
+Elapidae,Paroplocephalus,Paroplocephalus_atriceps,WAMR124882,WAM,WAMR_164271,newly collected,TRUE,5012,913,SAMN32602695
+Scincidae,Lissolepis,Lissolepis_luctuosa,WAMR131278,WAM,WAMR124882,newly collected,TRUE,5235,826,SAMN32602824
+Scincidae,Liopholis,Liopholis_pulchra,WAMR132054,WAM,WAMR131278,newly collected,TRUE,3125,443,SAMN32602823
+Typhlopidae,Anilios,Anilios_howi,WAMR146381,WAM,WAMR132054,newly collected,TRUE,4779,899,SAMN32602883
+Pygopodidae,Aprasia,Aprasia_repens,WAMR168645,WAM,WAMR146381,newly collected,TRUE,5128,1037,SAMN15718176
+Colubridae,Tropidonophis,Tropidonophis_mairii,WAMR174085,WAM,WAMR168645,newly collected,TRUE,4913,939,SAMN32602640
+Viperidae,Bitis,Bitis_parviocula,ZFMK16803,WAM,WAMR174085,newly collected,TRUE,4668,634,SAMN09221444
