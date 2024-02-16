@@ -109,7 +109,7 @@ for (i in 1:nrow(nb)) {
         lwd = 2, col = alpha("dodgerblue", 0.7))
 }
 
-tiplabels(names(gen[match(subt$tip.label, gen)]), cex = 0.75,
+tiplabels(names(gen[match(subt$tip.label, gen)]), cex = 0.7,
           adj = c(0, 0.5), frame = "none")
 nodelabels("", frame = "none", pch = 21, bg = "red3",
            cex = ifelse(subt$node.label <= 0.95, 0.7, 0))
