@@ -23,3 +23,7 @@ Code for comparative analyses and main or supplemental figures should be runnabl
 **Phylogenies** can be found in the data repository, in data/1.tree_inference > mainTrees
 
 **Diversification and trait data** can be found in data/alldat.csv (see associated readme).
+
+## Changelog
+
+- Update to SOM: Updated/corrected Table S5, which had some incorrect dates (22 Feb 2024)
