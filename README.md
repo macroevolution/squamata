@@ -4,6 +4,8 @@ This repository is associated with the following article:
 
 Title P.O., Singhal S., Grundler M.C., Costa G.C., Pyron R.A., Colston T.J., Grundler M.R., Prates I., Stepanova N., Jones M.E.H., Cavalcanti L.B.Q., Colli G.R., Di-Poï N., Donnellan S.C., Moritz C., Mesquita D.O., Pianka E.R., Smith S.A., Vitt L.J., Rabosky D.L. 2024. The macroevolutionary singularity of snakes. *Science*. [link](https://doi.org/10.1126/science.adh2449)
 
+**Looking for the main time-calibrated squamate phylogeny?** [Here is a shortcut download link (right-click and 'save as')](https://raw.githubusercontent.com/macroevolution/squamata/main/data/1.tree_inference/mainTrees/squamates_Title_Science2024_ultrametric_constrained.tre).
+
 We have provided coding scripts and data used to infer the squamate phylogeny, prepare trait and other datasets, run comparative analyses, and generate all main and supplemental figures. README files with additional information are provided within repository subfolders.
 
 Please check out our [Dryad repository](https://doi.org/10.5061/dryad.p5hqbzkvb) for a static version of these files that dates to the date of publication.
