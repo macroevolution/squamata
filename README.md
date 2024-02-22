@@ -2,7 +2,7 @@
 
 This repository is associated with the following article:
 
-Title P.O., Singhal S., Grundler M.C., Costa G.C., Pyron R.A., Colston T.J., Grundler M.R., Prates I., Stepanova N., Jones M.E.H., Cavalcanti L.B.Q., Colli G.R., Di-Poï N., Donnellan S.C., Moritz C., Mesquita D.O., Pianka E.R., Smith S.A., Vitt L.J., Rabosky D.L. 2024. The macroevolutionary singularity of snakes. *Science*. [link](https://doi.org/10.1126/science.adh2449)
+Title P.O., Singhal S., Grundler M.C., Costa G.C., Pyron R.A., Colston T.J., Grundler M.R., Prates I., Stepanova N., Jones M.E.H., Cavalcanti L.B.Q., Colli G.R., Di-Poï N., Donnellan S.C., Moritz C., Mesquita D.O., Pianka E.R., Smith S.A., Vitt L.J., Rabosky D.L. 2024. The macroevolutionary singularity of snakes. *Science* 383, 918-923. [link](https://doi.org/10.1126/science.adh2449)
 
 **Looking for the main time-calibrated squamate phylogeny?** Here are shortcut download links for the [main tree](https://raw.githubusercontent.com/macroevolution/squamata/main/data/1.tree_inference/mainTrees/squamates_Title_Science2024_ultrametric_constrained.tre), and the [pseudo-posterior set of trees](https://raw.githubusercontent.com/macroevolution/squamata/main/data/1.tree_inference/pseudoposterior/pseudoposterior.100.trees) (right-click and 'save as').
 
