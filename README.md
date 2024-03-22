@@ -6,6 +6,8 @@ Title P.O., Singhal S., Grundler M.C., Costa G.C., Pyron R.A., Colston T.J., Gru
 
 **Looking for the main time-calibrated squamate phylogeny?** Here are shortcut download links for the [main tree](https://raw.githubusercontent.com/macroevolution/squamata/main/data/1.tree_inference/mainTrees/squamates_Title_Science2024_ultrametric_constrained.tre), and the [pseudo-posterior set of trees](https://raw.githubusercontent.com/macroevolution/squamata/main/data/1.tree_inference/pseudoposterior/pseudoposterior.100.trees) (right-click and 'save as').
 
+If you are hoping to calculate **phenotypic tip rates (TR)** or **net innovation indices**, we have provided a demo R script [here](https://github.com/macroevolution/squamata/blob/main/scripts/demoScript_TR_netInnovation.R). 
+
 We have provided coding scripts and data used to infer the squamate phylogeny, prepare trait and other datasets, run comparative analyses, and generate all main and supplemental figures. README files with additional information are provided within repository subfolders.
 
 Please check out our [Dryad repository](https://doi.org/10.5061/dryad.p5hqbzkvb) for a static version of these files that dates to the date of publication.
